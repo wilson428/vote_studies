@@ -20,7 +20,7 @@ def fetch_votes(session, rootdir):
         doc = download(url, session + "/" + vote)
         doc = doc.replace("&", "&amp;")
         try:
-            vote = lxml.objectify.fromstring(doc)
+            markup = lxml.objectify.fromstring(doc)
         except Exception, e:
             print "Couldn't read", url
             print e
@@ -28,12 +28,14 @@ def fetch_votes(session, rootdir):
         data = {}
         data["rollcall"] = {}
         #walk through xml and collect key/value pairs
-        for el in vote.getiterator():
+        for el in markup.getiterator():
             if el.attrib == {}:
                 data[el.tag] = el.text
             elif el.tag == 'voter':
                 data["rollcall"][el.attrib["id"]] = el.attrib["value"]
-        write(json.dumps(data, indent=2), rootdir + "/data/json/%s/%s/%s.json" % (chamber,  session, vote[:-4]))
+        print rootdir + "/data/json/%s/%s/%s.json" % (chamber, session, vote[:-4])
+                
+        write(json.dumps(data, indent=2), rootdir + "/data/json/%s/%s/%s.json" % (chamber, session, vote[:-4]))
     
     print "done"
     
