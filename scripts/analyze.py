@@ -35,7 +35,7 @@ def get_cross(session, chamber, rootdir):
     #write members directory
     pb = {}
     for mid in members.keys():
-        member = json.loads(download('http://www.govtrack.us/api/v1/person/' + mid, mid + ".json"))
+        member = json.loads(download('http://www.govtrack.us/api/v1/person/' + mid, "members/" + mid + ".json"))
         pb[mid] = {
             'name': member['name'],
             'bioguide': member['bioguideid'],
