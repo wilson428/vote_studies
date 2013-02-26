@@ -14,22 +14,37 @@ def get_cross(session, chamber, rootdir):
     base = "http://www.govtrack.us/data/us/%s/rolls/" % session
     
     chamber = 'senate'
+    all_votes = defaultdict(lambda: [0,[],[]])
     crossvote = defaultdict(lambda: defaultdict(lambda: [0,0]))
     members = defaultdict(int);
     
+    #load every file in specified directory
+    print rootdir + "/data/json/%s/%s" % (chamber, session)
     for vote in [x for x in os.listdir(rootdir + "/data/json/%s/%s" % (chamber, session)) if x[-4:] == "json"]:
         data = json.load(open(rootdir + "/data/json/%s/%s/%s" % (chamber, session, vote), 'r'))
-        ids = [x for x in data['rollcall'].keys() if data['rollcall'][x] != "Not Voting"]
+        #ids = [x for x in data['rollcall'].keys() if data['rollcall'][x] != "Not Voting"]
+        ids = data['rollcall'].keys()
+        
         for mid in ids:
             members[mid] += 1
-            
+
         for pair in combinations(ids, 2):
-            crossvote[pair[0]][pair[1]][1] += 1            
-            if data['rollcall'][pair[0]] == data['rollcall'][pair[1]]:
-                crossvote[pair[0]][pair[1]][0] += 1
+            if int(pair[0]) > int(pair[1]):
+                A,B = pair[1],pair[0]
+            else:
+                B,A = pair[1],pair[0]
+            
+            all_votes[A + "_" + B][0] += 1
+            crossvote[A][B][1] += 1  
+            #if voted the same way
+            if data['rollcall'][A] == data['rollcall'][B] and data['rollcall'][A] != 'Not Voting':
+                crossvote[A][B][0] += 1                           
+                all_votes[A + "_" + B][1].append(vote)
+            else:
+                all_votes[A + "_" + B][2].append(vote)
     
     write(json.dumps(crossvote, indent=2), rootdir + "/data/output/%s/%s/crossvote.json" % (chamber, session))
-    #write(json.dumps(members.keys(), indent=2), rootdir + "/data/output/%s/%s/members.json" % (chamber, session))
+    write(json.dumps(all_votes, indent=2), rootdir + "/data/output/%s/%s/all_votes.json" % (chamber, session))
 
 
     #write members directory
