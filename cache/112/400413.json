@@ -1,0 +1,53 @@
+{
+  "bioguideid": "U000039",
+  "birthday": "1948-05-18",
+  "cspanid": 39226,
+  "current_role": {
+    "congress_numbers": [
+      111,
+      112,
+      113
+    ],
+    "current": true,
+    "description": "Senator from New Mexico",
+    "district": null,
+    "enddate": "2015-01-03",
+    "id": "3514",
+    "party": "Democrat",
+    "resource_uri": "/api/v1/role/3514/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class2",
+    "senator_class_label": "Class 2",
+    "startdate": "2009-01-06",
+    "state": "NM",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.tomudall.senate.gov"
+  },
+  "firstname": "Tom",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "400413",
+  "lastname": "Udall",
+  "link": "http://www.govtrack.us/congress/members/tom_udall/400413",
+  "middlename": "S.",
+  "name": "Sen. Tom Udall [D-NM]",
+  "name_no_details": "Tom Udall",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00006561",
+  "pvsid": "22658",
+  "resource_uri": "/api/v1/person/400413/",
+  "roles": [
+    "/api/v1/role/3509/",
+    "/api/v1/role/3510/",
+    "/api/v1/role/3511/",
+    "/api/v1/role/3512/",
+    "/api/v1/role/3513/",
+    "/api/v1/role/3514/"
+  ],
+  "sortname": "Udall, Tom (Sen.) [D-NM]",
+  "twitterid": "SenatorTomUdall",
+  "youtubeid": "SenatorTomUdall"
+}

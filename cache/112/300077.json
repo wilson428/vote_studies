@@ -1,0 +1,27 @@
+{
+  "bioguideid": "N000180",
+  "birthday": "1941-05-17",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Ben",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300077",
+  "lastname": "Nelson",
+  "link": "http://www.govtrack.us/congress/members/ben_nelson/300077",
+  "middlename": "E.",
+  "name": "Sen. Ben Nelson [D-NE, 2001-2013]",
+  "name_no_details": "Ben Nelson",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00005329",
+  "pvsid": "21744",
+  "resource_uri": "/api/v1/person/300077/",
+  "roles": [
+    "/api/v1/role/4214/",
+    "/api/v1/role/4215/"
+  ],
+  "sortname": "Nelson, Ben (Sen.) [D-NE, 2001-2013]",
+  "twitterid": null,
+  "youtubeid": null
+}

@@ -1,0 +1,49 @@
+{
+  "bioguideid": "T000464",
+  "birthday": "1956-08-21",
+  "cspanid": 1020176,
+  "current_role": {
+    "congress_numbers": [
+      113,
+      114,
+      115
+    ],
+    "current": true,
+    "description": "Senator from Montana",
+    "district": null,
+    "enddate": "2019-01-03",
+    "id": "42935",
+    "party": "Democrat",
+    "resource_uri": "/api/v1/role/42935/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class1",
+    "senator_class_label": "Class 1",
+    "startdate": "2013-01-03",
+    "state": "MT",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.tester.senate.gov"
+  },
+  "firstname": "Jon",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412244",
+  "lastname": "Tester",
+  "link": "http://www.govtrack.us/congress/members/jon_tester/412244",
+  "middlename": "",
+  "name": "Sen. Jon Tester [D-MT]",
+  "name_no_details": "Jon Tester",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00027605",
+  "pvsid": "20928",
+  "resource_uri": "/api/v1/person/412244/",
+  "roles": [
+    "/api/v1/role/41772/",
+    "/api/v1/role/42935/"
+  ],
+  "sortname": "Tester, Jon (Sen.) [D-MT]",
+  "twitterid": null,
+  "youtubeid": "SenatorJonTester"
+}

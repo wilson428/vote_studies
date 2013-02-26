@@ -1,0 +1,49 @@
+{
+  "bioguideid": "A000360",
+  "birthday": "1940-07-03",
+  "cspanid": 5,
+  "current_role": {
+    "congress_numbers": [
+      111,
+      112,
+      113
+    ],
+    "current": true,
+    "description": "Senator from Tennessee",
+    "district": null,
+    "enddate": "2015-01-03",
+    "id": "3807",
+    "party": "Republican",
+    "resource_uri": "/api/v1/role/3807/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class2",
+    "senator_class_label": "Class 2",
+    "startdate": "2009-01-06",
+    "state": "TN",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.alexander.senate.gov"
+  },
+  "firstname": "Lamar",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300002",
+  "lastname": "Alexander",
+  "link": "http://www.govtrack.us/congress/members/lamar_alexander/300002",
+  "middlename": "",
+  "name": "Sen. Lamar Alexander [R-TN]",
+  "name_no_details": "Lamar Alexander",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00009888",
+  "pvsid": "15691",
+  "resource_uri": "/api/v1/person/300002/",
+  "roles": [
+    "/api/v1/role/3806/",
+    "/api/v1/role/3807/"
+  ],
+  "sortname": "Alexander, Lamar (Sen.) [R-TN]",
+  "twitterid": "senalexander",
+  "youtubeid": "lamaralexander"
+}

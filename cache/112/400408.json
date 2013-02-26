@@ -1,0 +1,51 @@
+{
+  "bioguideid": "T000461",
+  "birthday": "1961-11-17",
+  "cspanid": 7958,
+  "current_role": {
+    "congress_numbers": [
+      112,
+      113,
+      114
+    ],
+    "current": true,
+    "description": "Senator from Pennsylvania",
+    "district": null,
+    "enddate": "2017-01-03",
+    "id": "3478",
+    "party": "Republican",
+    "resource_uri": "/api/v1/role/3478/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class3",
+    "senator_class_label": "Class 3",
+    "startdate": "2011-01-05",
+    "state": "PA",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.toomey.senate.gov"
+  },
+  "firstname": "Patrick",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "400408",
+  "lastname": "Toomey",
+  "link": "http://www.govtrack.us/congress/members/patrick_toomey/400408",
+  "middlename": "J.",
+  "name": "Sen. Patrick “Pat” Toomey [R-PA]",
+  "name_no_details": "Patrick “Pat” Toomey",
+  "namemod": "",
+  "nickname": "Pat",
+  "osid": "N00001489",
+  "pvsid": "24096",
+  "resource_uri": "/api/v1/person/400408/",
+  "roles": [
+    "/api/v1/role/3475/",
+    "/api/v1/role/3476/",
+    "/api/v1/role/3477/",
+    "/api/v1/role/3478/"
+  ],
+  "sortname": "Toomey, Patrick “Pat” (Sen.) [R-PA]",
+  "twitterid": "SenToomey",
+  "youtubeid": "SenatorPatToomey"
+}

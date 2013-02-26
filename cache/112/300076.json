@@ -1,0 +1,51 @@
+{
+  "bioguideid": "M001111",
+  "birthday": "1950-10-11",
+  "cspanid": 25277,
+  "current_role": {
+    "congress_numbers": [
+      112,
+      113,
+      114
+    ],
+    "current": true,
+    "description": "Senator from Washington",
+    "district": null,
+    "enddate": "2017-01-03",
+    "id": "4213",
+    "party": "Democrat",
+    "resource_uri": "/api/v1/role/4213/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class3",
+    "senator_class_label": "Class 3",
+    "startdate": "2011-01-05",
+    "state": "WA",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.murray.senate.gov"
+  },
+  "firstname": "Patty",
+  "gender": "female",
+  "gender_label": "Female",
+  "id": "300076",
+  "lastname": "Murray",
+  "link": "http://www.govtrack.us/congress/members/patty_murray/300076",
+  "middlename": "",
+  "name": "Sen. Patty Murray [D-WA]",
+  "name_no_details": "Patty Murray",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00007876",
+  "pvsid": "53358",
+  "resource_uri": "/api/v1/person/300076/",
+  "roles": [
+    "/api/v1/role/4210/",
+    "/api/v1/role/4211/",
+    "/api/v1/role/4212/",
+    "/api/v1/role/4213/"
+  ],
+  "sortname": "Murray, Patty (Sen.) [D-WA]",
+  "twitterid": "pattymurray",
+  "youtubeid": "SenatorPattyMurray"
+}

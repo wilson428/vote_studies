@@ -1,0 +1,30 @@
+{
+  "bioguideid": "B000468",
+  "birthday": "1943-10-03",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Jeff",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300009",
+  "lastname": "Bingaman",
+  "link": "http://www.govtrack.us/congress/members/jeff_bingaman/300009",
+  "middlename": "",
+  "name": "Sen. Jeff Bingaman [D-NM, 1983-2013]",
+  "name_no_details": "Jeff Bingaman",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00006518",
+  "pvsid": "53326",
+  "resource_uri": "/api/v1/person/300009/",
+  "roles": [
+    "/api/v1/role/3836/",
+    "/api/v1/role/3837/",
+    "/api/v1/role/3838/",
+    "/api/v1/role/3839/",
+    "/api/v1/role/3840/"
+  ],
+  "sortname": "Bingaman, Jeff (Sen.) [D-NM, 1983-2013]",
+  "twitterid": null,
+  "youtubeid": null
+}

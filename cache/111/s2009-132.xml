@@ -1,0 +1,113 @@
+<roll where="senate" session="111" year="2009" roll="132" source="senate.gov"
+	datetime="2009-04-02T13:32:00-04:00" updated="2012-10-17T19:44:04-04:00"
+	aye="43" nay="55" nv="1" present="0">
+	<category>procedural</category>
+	<type>On the Motion to Recommit</type>
+	<question>On the Motion to Recommit S.Con.Res. 13</question>
+	<required>1/2</required>
+	<result>Motion to Recommit Rejected</result>
+	<bill session="111" type="sc" number="13" />
+	<option key="+">Yea</option>
+	<option key="-">Nay</option>
+	<option key="P">Present</option>
+	<option key="0">Not Voting</option>
+	<voter id="300002" vote="+" value="Yea" state="TN"/>
+	<voter id="412251" vote="+" value="Yea" state="WY"/>
+	<voter id="300006" vote="+" value="Yea" state="IN"/>
+	<voter id="300007" vote="+" value="Yea" state="UT"/>
+	<voter id="300010" vote="+" value="Yea" state="MO"/>
+	<voter id="300013" vote="+" value="Yea" state="KS"/>
+	<voter id="300014" vote="+" value="Yea" state="KY"/>
+	<voter id="400054" vote="+" value="Yea" state="NC"/>
+	<voter id="300021" vote="+" value="Yea" state="GA"/>
+	<voter id="400576" vote="+" value="Yea" state="OK"/>
+	<voter id="300023" vote="+" value="Yea" state="MS"/>
+	<voter id="300025" vote="+" value="Yea" state="ME"/>
+	<voter id="412248" vote="+" value="Yea" state="TN"/>
+	<voter id="300027" vote="+" value="Yea" state="TX"/>
+	<voter id="300030" vote="+" value="Yea" state="ID"/>
+	<voter id="400105" vote="+" value="Yea" state="SC"/>
+	<voter id="300040" vote="+" value="Yea" state="NV"/>
+	<voter id="300041" vote="+" value="Yea" state="WY"/>
+	<voter id="300047" vote="+" value="Yea" state="SC"/>
+	<voter id="300048" vote="+" value="Yea" state="IA"/>
+	<voter id="300049" vote="+" value="Yea" state="NH"/>
+	<voter id="300052" vote="+" value="Yea" state="UT"/>
+	<voter id="300054" vote="+" value="Yea" state="TX"/>
+	<voter id="300055" vote="+" value="Yea" state="OK"/>
+	<voter id="400194" vote="+" value="Yea" state="GA"/>
+	<voter id="412320" vote="+" value="Yea" state="NE"/>
+	<voter id="300062" vote="+" value="Yea" state="AZ"/>
+	<voter id="300070" vote="+" value="Yea" state="IN"/>
+	<voter id="400621" vote="+" value="Yea" state=""/>
+	<voter id="300071" vote="+" value="Yea" state="AZ"/>
+	<voter id="300072" vote="+" value="Yea" state="KY"/>
+	<voter id="300075" vote="+" value="Yea" state="AK"/>
+	<voter id="300077" vote="+" value="Yea" state="NE"/>
+	<voter id="412322" vote="+" value="Yea" state="ID"/>
+	<voter id="300083" vote="+" value="Yea" state="KS"/>
+	<voter id="300088" vote="+" value="Yea" state="AL"/>
+	<voter id="300089" vote="+" value="Yea" state="AL"/>
+	<voter id="300091" vote="+" value="Yea" state="ME"/>
+	<voter id="300092" vote="+" value="Yea" state="PA"/>
+	<voter id="400546" vote="+" value="Yea" state="SD"/>
+	<voter id="400418" vote="+" value="Yea" state="LA"/>
+	<voter id="300098" vote="+" value="Yea" state="OH"/>
+	<voter id="400432" vote="+" value="Yea" state="MS"/>
+	<voter id="300001" vote="-" value="Nay" state="HI"/>
+	<voter id="300005" vote="-" value="Nay" state="MT"/>
+	<voter id="412326" vote="-" value="Nay" state="AK"/>
+	<voter id="412330" vote="-" value="Nay" state="CO"/>
+	<voter id="300009" vote="-" value="Nay" state="NM"/>
+	<voter id="300011" vote="-" value="Nay" state="CA"/>
+	<voter id="400050" vote="-" value="Nay" state="OH"/>
+	<voter id="412328" vote="-" value="Nay" state="IL"/>
+	<voter id="300016" vote="-" value="Nay" state="WV"/>
+	<voter id="300018" vote="-" value="Nay" state="WA"/>
+	<voter id="400064" vote="-" value="Nay" state="MD"/>
+	<voter id="300019" vote="-" value="Nay" state="DE"/>
+	<voter id="412246" vote="-" value="Nay" state="PA"/>
+	<voter id="300026" vote="-" value="Nay" state="ND"/>
+	<voter id="300034" vote="-" value="Nay" state="CT"/>
+	<voter id="300037" vote="-" value="Nay" state="ND"/>
+	<voter id="300038" vote="-" value="Nay" state="IL"/>
+	<voter id="300042" vote="-" value="Nay" state="WI"/>
+	<voter id="300043" vote="-" value="Nay" state="CA"/>
+	<voter id="412223" vote="-" value="Nay" state="NY" district="20"/>
+	<voter id="412324" vote="-" value="Nay" state="NC"/>
+	<voter id="300051" vote="-" value="Nay" state="IA"/>
+	<voter id="300056" vote="-" value="Nay" state="HI"/>
+	<voter id="300058" vote="-" value="Nay" state="SD"/>
+	<voter id="412329" vote="-" value="Nay" state="DE"/>
+	<voter id="300060" vote="-" value="Nay" state="MA"/>
+	<voter id="412242" vote="-" value="Nay" state="MN"/>
+	<voter id="300061" vote="-" value="Nay" state="WI"/>
+	<voter id="300063" vote="-" value="Nay" state="LA"/>
+	<voter id="300064" vote="-" value="Nay" state="NJ"/>
+	<voter id="300065" vote="-" value="Nay" state="VT"/>
+	<voter id="300066" vote="-" value="Nay" state="MI"/>
+	<voter id="300067" vote="-" value="Nay" state="CT"/>
+	<voter id="300068" vote="-" value="Nay" state="AR"/>
+	<voter id="412243" vote="-" value="Nay" state="MO"/>
+	<voter id="400272" vote="-" value="Nay" state="NJ"/>
+	<voter id="412325" vote="-" value="Nay" state="OR"/>
+	<voter id="300073" vote="-" value="Nay" state="MD"/>
+	<voter id="300076" vote="-" value="Nay" state="WA"/>
+	<voter id="300078" vote="-" value="Nay" state="FL"/>
+	<voter id="300080" vote="-" value="Nay" state="AR"/>
+	<voter id="300081" vote="-" value="Nay" state="RI"/>
+	<voter id="300082" vote="-" value="Nay" state="NV"/>
+	<voter id="300084" vote="-" value="Nay" state="WV"/>
+	<voter id="400357" vote="-" value="Nay" state="VT"/>
+	<voter id="300087" vote="-" value="Nay" state="NY"/>
+	<voter id="412323" vote="-" value="Nay" state="NH"/>
+	<voter id="300093" vote="-" value="Nay" state="MI"/>
+	<voter id="412244" vote="-" value="Nay" state="MT"/>
+	<voter id="400412" vote="-" value="Nay" state="CO"/>
+	<voter id="400413" vote="-" value="Nay" state="NM"/>
+	<voter id="412321" vote="-" value="Nay" state="VA"/>
+	<voter id="412249" vote="-" value="Nay" state="VA"/>
+	<voter id="412247" vote="-" value="Nay" state="RI"/>
+	<voter id="300100" vote="-" value="Nay" state="OR"/>
+	<voter id="300059" vote="0" value="Not Voting" state="MA"/>
+</roll>

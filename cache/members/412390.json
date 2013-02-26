@@ -1,0 +1,48 @@
+{
+  "bioguideid": "C001088",
+  "birthday": "1963-09-09",
+  "cspanid": 9269028,
+  "current_role": {
+    "congress_numbers": [
+      111,
+      112,
+      113
+    ],
+    "current": true,
+    "description": "Senator from Delaware",
+    "district": null,
+    "enddate": "2015-01-03",
+    "id": "41949",
+    "party": "Democrat",
+    "resource_uri": "/api/v1/role/41949/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class2",
+    "senator_class_label": "Class 2",
+    "startdate": "2010-11-15",
+    "state": "DE",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.coons.senate.gov"
+  },
+  "firstname": "Chris",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412390",
+  "lastname": "Coons",
+  "link": "http://www.govtrack.us/congress/members/chris_coons/412390",
+  "middlename": "Andrew",
+  "name": "Sen. Chris Coons [D-DE]",
+  "name_no_details": "Chris Coons",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00031820",
+  "pvsid": "122834",
+  "resource_uri": "/api/v1/person/412390/",
+  "roles": [
+    "/api/v1/role/41949/"
+  ],
+  "sortname": "Coons, Chris (Sen.) [D-DE]",
+  "twitterid": "SenCoonsOffice",
+  "youtubeid": "senatorchriscoons"
+}

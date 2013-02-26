@@ -1,0 +1,31 @@
+{
+  "bioguideid": "L000504",
+  "birthday": "1932-04-04",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Richard",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300070",
+  "lastname": "Lugar",
+  "link": "http://www.govtrack.us/congress/members/richard_lugar/300070",
+  "middlename": "G.",
+  "name": "Sen. Richard Lugar [R-IN, 1977-2013]",
+  "name_no_details": "Richard Lugar",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00001764",
+  "pvsid": "53292",
+  "resource_uri": "/api/v1/person/300070/",
+  "roles": [
+    "/api/v1/role/4178/",
+    "/api/v1/role/4179/",
+    "/api/v1/role/4180/",
+    "/api/v1/role/4181/",
+    "/api/v1/role/4182/",
+    "/api/v1/role/4183/"
+  ],
+  "sortname": "Lugar, Richard (Sen.) [R-IN, 1977-2013]",
+  "twitterid": null,
+  "youtubeid": null
+}

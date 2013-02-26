@@ -1,0 +1,48 @@
+{
+  "bioguideid": "F000457",
+  "birthday": "1951-05-21",
+  "cspanid": 23334,
+  "current_role": {
+    "congress_numbers": [
+      111,
+      112,
+      113
+    ],
+    "current": true,
+    "description": "Senator from Minnesota",
+    "district": null,
+    "enddate": "2015-01-03",
+    "id": "41919",
+    "party": "Democrat",
+    "resource_uri": "/api/v1/role/41919/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class2",
+    "senator_class_label": "Class 2",
+    "startdate": "2009-07-07",
+    "state": "MN",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.franken.senate.gov"
+  },
+  "firstname": "Alan",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412378",
+  "lastname": "Franken",
+  "link": "http://www.govtrack.us/congress/members/alan_franken/412378",
+  "middlename": "Stuart",
+  "name": "Sen. Alan “Al” Franken [D-MN]",
+  "name_no_details": "Alan “Al” Franken",
+  "namemod": "",
+  "nickname": "Al",
+  "osid": "N00029016",
+  "pvsid": "108924",
+  "resource_uri": "/api/v1/person/412378/",
+  "roles": [
+    "/api/v1/role/41919/"
+  ],
+  "sortname": "Franken, Alan “Al” (Sen.) [D-MN]",
+  "twitterid": null,
+  "youtubeid": "SenatorFranken"
+}

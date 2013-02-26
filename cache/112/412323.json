@@ -1,0 +1,48 @@
+{
+  "bioguideid": "S001181",
+  "birthday": "1947-01-28",
+  "cspanid": 22850,
+  "current_role": {
+    "congress_numbers": [
+      111,
+      112,
+      113
+    ],
+    "current": true,
+    "description": "Senator from New Hampshire",
+    "district": null,
+    "enddate": "2015-01-03",
+    "id": "41905",
+    "party": "Democrat",
+    "resource_uri": "/api/v1/role/41905/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class2",
+    "senator_class_label": "Class 2",
+    "startdate": "2009-01-06",
+    "state": "NH",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.shaheen.senate.gov"
+  },
+  "firstname": "Jeanne",
+  "gender": "female",
+  "gender_label": "Female",
+  "id": "412323",
+  "lastname": "Shaheen",
+  "link": "http://www.govtrack.us/congress/members/jeanne_shaheen/412323",
+  "middlename": "",
+  "name": "Sen. Jeanne Shaheen [D-NH]",
+  "name_no_details": "Jeanne Shaheen",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00024790",
+  "pvsid": "1663",
+  "resource_uri": "/api/v1/person/412323/",
+  "roles": [
+    "/api/v1/role/41905/"
+  ],
+  "sortname": "Shaheen, Jeanne (Sen.) [D-NH]",
+  "twitterid": "SenatorShaheen",
+  "youtubeid": "SenatorShaheen"
+}

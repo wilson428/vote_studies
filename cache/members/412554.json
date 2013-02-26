@@ -1,0 +1,48 @@
+{
+  "bioguideid": "H001069",
+  "birthday": "1955-10-30",
+  "cspanid": 95414,
+  "current_role": {
+    "congress_numbers": [
+      113,
+      114,
+      115
+    ],
+    "current": true,
+    "description": "Senator from North Dakota",
+    "district": null,
+    "enddate": "2019-01-03",
+    "id": "43121",
+    "party": "Democrat",
+    "resource_uri": "/api/v1/role/43121/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class1",
+    "senator_class_label": "Class 1",
+    "startdate": "2013-01-03",
+    "state": "ND",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.heitkamp.senate.gov"
+  },
+  "firstname": "Heidi",
+  "gender": "female",
+  "gender_label": "Female",
+  "id": "412554",
+  "lastname": "Heitkamp",
+  "link": "http://www.govtrack.us/congress/members/heidi_heitkamp/412554",
+  "middlename": "",
+  "name": "Sen. Heidi Heitkamp [D-ND]",
+  "name_no_details": "Heidi Heitkamp",
+  "namemod": "",
+  "nickname": "",
+  "osid": null,
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/412554/",
+  "roles": [
+    "/api/v1/role/43121/"
+  ],
+  "sortname": "Heitkamp, Heidi (Sen.) [D-ND]",
+  "twitterid": "SenatorHeitkamp",
+  "youtubeid": null
+}

@@ -1,0 +1,29 @@
+{
+  "bioguideid": "L000304",
+  "birthday": "1942-02-24",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Joseph",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300067",
+  "lastname": "Lieberman",
+  "link": "http://www.govtrack.us/congress/members/joseph_lieberman/300067",
+  "middlename": "I.",
+  "name": "Sen. Joseph Lieberman [I-CT, 1989-2013]",
+  "name_no_details": "Joseph Lieberman",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00000616",
+  "pvsid": "53278",
+  "resource_uri": "/api/v1/person/300067/",
+  "roles": [
+    "/api/v1/role/4158/",
+    "/api/v1/role/4159/",
+    "/api/v1/role/4160/",
+    "/api/v1/role/4161/"
+  ],
+  "sortname": "Lieberman, Joseph (Sen.) [I-CT, 1989-2013]",
+  "twitterid": null,
+  "youtubeid": null
+}

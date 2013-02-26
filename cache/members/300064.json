@@ -1,0 +1,52 @@
+{
+  "bioguideid": "L000123",
+  "birthday": "1924-01-23",
+  "cspanid": 2515,
+  "current_role": {
+    "congress_numbers": [
+      111,
+      112,
+      113
+    ],
+    "current": true,
+    "description": "Senator from New Jersey",
+    "district": null,
+    "enddate": "2015-01-03",
+    "id": "4144",
+    "party": "Democrat",
+    "resource_uri": "/api/v1/role/4144/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class2",
+    "senator_class_label": "Class 2",
+    "startdate": "2009-01-06",
+    "state": "NJ",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.lautenberg.senate.gov"
+  },
+  "firstname": "Frank",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300064",
+  "lastname": "Lautenberg",
+  "link": "http://www.govtrack.us/congress/members/frank_lautenberg/300064",
+  "middlename": "R.",
+  "name": "Sen. Frank Lautenberg [D-NJ]",
+  "name_no_details": "Frank Lautenberg",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00000659",
+  "pvsid": "53324",
+  "resource_uri": "/api/v1/person/300064/",
+  "roles": [
+    "/api/v1/role/4140/",
+    "/api/v1/role/4141/",
+    "/api/v1/role/4142/",
+    "/api/v1/role/4143/",
+    "/api/v1/role/4144/"
+  ],
+  "sortname": "Lautenberg, Frank (Sen.) [D-NJ]",
+  "twitterid": "franklautenberg",
+  "youtubeid": null
+}

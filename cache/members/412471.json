@@ -1,0 +1,47 @@
+{
+  "bioguideid": "S001184",
+  "birthday": "1965-09-19",
+  "cspanid": 623506,
+  "current_role": {
+    "congress_numbers": [
+      113
+    ],
+    "current": true,
+    "description": "Senator from South Carolina",
+    "district": null,
+    "enddate": "2013-05-07",
+    "id": "43050",
+    "party": "Republican",
+    "resource_uri": "/api/v1/role/43050/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class3",
+    "senator_class_label": "Class 3",
+    "startdate": "2013-01-03",
+    "state": "SC",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.scott.senate.gov"
+  },
+  "firstname": "Tim",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412471",
+  "lastname": "Scott",
+  "link": "http://www.govtrack.us/congress/members/tim_scott/412471",
+  "middlename": "",
+  "name": "Sen. Tim Scott [R-SC]",
+  "name_no_details": "Tim Scott",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00031782",
+  "pvsid": "11940",
+  "resource_uri": "/api/v1/person/412471/",
+  "roles": [
+    "/api/v1/role/42025/",
+    "/api/v1/role/43050/"
+  ],
+  "sortname": "Scott, Tim (Sen.) [R-SC]",
+  "twitterid": "SenatorTimScott",
+  "youtubeid": null
+}

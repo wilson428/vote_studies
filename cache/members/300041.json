@@ -1,0 +1,50 @@
+{
+  "bioguideid": "E000285",
+  "birthday": "1944-02-01",
+  "cspanid": 45824,
+  "current_role": {
+    "congress_numbers": [
+      111,
+      112,
+      113
+    ],
+    "current": true,
+    "description": "Senator from Wyoming",
+    "district": null,
+    "enddate": "2015-01-03",
+    "id": "4010",
+    "party": "Republican",
+    "resource_uri": "/api/v1/role/4010/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class2",
+    "senator_class_label": "Class 2",
+    "startdate": "2009-01-06",
+    "state": "WY",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.enzi.senate.gov"
+  },
+  "firstname": "Michael",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300041",
+  "lastname": "Enzi",
+  "link": "http://www.govtrack.us/congress/members/michael_enzi/300041",
+  "middlename": "B.",
+  "name": "Sen. Michael Enzi [R-WY]",
+  "name_no_details": "Michael Enzi",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00006249",
+  "pvsid": "558",
+  "resource_uri": "/api/v1/person/300041/",
+  "roles": [
+    "/api/v1/role/4008/",
+    "/api/v1/role/4009/",
+    "/api/v1/role/4010/"
+  ],
+  "sortname": "Enzi, Michael (Sen.) [R-WY]",
+  "twitterid": "SenatorEnzi",
+  "youtubeid": "senatorenzi"
+}

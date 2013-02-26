@@ -1,0 +1,51 @@
+{
+  "bioguideid": "H001042",
+  "birthday": "1947-11-03",
+  "cspanid": 91216,
+  "current_role": {
+    "congress_numbers": [
+      113,
+      114,
+      115
+    ],
+    "current": true,
+    "description": "Senator from Hawaii",
+    "district": null,
+    "enddate": "2019-01-03",
+    "id": "42914",
+    "party": "Democrat",
+    "resource_uri": "/api/v1/role/42914/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class1",
+    "senator_class_label": "Class 1",
+    "startdate": "2013-01-03",
+    "state": "HI",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.hirono.senate.gov"
+  },
+  "firstname": "Mazie",
+  "gender": "female",
+  "gender_label": "Female",
+  "id": "412200",
+  "lastname": "Hirono",
+  "link": "http://www.govtrack.us/congress/members/mazie_hirono/412200",
+  "middlename": "K.",
+  "name": "Sen. Mazie Hirono [D-HI]",
+  "name_no_details": "Mazie Hirono",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00028139",
+  "pvsid": "1677",
+  "resource_uri": "/api/v1/person/412200/",
+  "roles": [
+    "/api/v1/role/41678/",
+    "/api/v1/role/41679/",
+    "/api/v1/role/41680/",
+    "/api/v1/role/42914/"
+  ],
+  "sortname": "Hirono, Mazie (Sen.) [D-HI]",
+  "twitterid": "maziehirono",
+  "youtubeid": null
+}

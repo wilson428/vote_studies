@@ -1,0 +1,53 @@
+{
+  "bioguideid": "G000359",
+  "birthday": "1955-07-09",
+  "cspanid": 36782,
+  "current_role": {
+    "congress_numbers": [
+      111,
+      112,
+      113
+    ],
+    "current": true,
+    "description": "Senator from South Carolina",
+    "district": null,
+    "enddate": "2015-01-03",
+    "id": "4029",
+    "party": "Republican",
+    "resource_uri": "/api/v1/role/4029/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class2",
+    "senator_class_label": "Class 2",
+    "startdate": "2009-01-06",
+    "state": "SC",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.lgraham.senate.gov"
+  },
+  "firstname": "Lindsey",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300047",
+  "lastname": "Graham",
+  "link": "http://www.govtrack.us/congress/members/lindsey_graham/300047",
+  "middlename": "O.",
+  "name": "Sen. Lindsey Graham [R-SC]",
+  "name_no_details": "Lindsey Graham",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00009975",
+  "pvsid": "21992",
+  "resource_uri": "/api/v1/person/300047/",
+  "roles": [
+    "/api/v1/role/4024/",
+    "/api/v1/role/4025/",
+    "/api/v1/role/4026/",
+    "/api/v1/role/4027/",
+    "/api/v1/role/4028/",
+    "/api/v1/role/4029/"
+  ],
+  "sortname": "Graham, Lindsey (Sen.) [R-SC]",
+  "twitterid": "GrahamBlog",
+  "youtubeid": "USSenLindseyGraham"
+}

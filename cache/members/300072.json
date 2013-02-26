@@ -1,0 +1,52 @@
+{
+  "bioguideid": "M000355",
+  "birthday": "1942-02-20",
+  "cspanid": 2351,
+  "current_role": {
+    "congress_numbers": [
+      111,
+      112,
+      113
+    ],
+    "current": true,
+    "description": "Senator from Kentucky",
+    "district": null,
+    "enddate": "2015-01-03",
+    "id": "4195",
+    "party": "Republican",
+    "resource_uri": "/api/v1/role/4195/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class2",
+    "senator_class_label": "Class 2",
+    "startdate": "2009-01-06",
+    "state": "KY",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.mcconnell.senate.gov"
+  },
+  "firstname": "Mitch",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300072",
+  "lastname": "McConnell",
+  "link": "http://www.govtrack.us/congress/members/mitch_mcconnell/300072",
+  "middlename": "",
+  "name": "Sen. Mitch McConnell [R-KY]",
+  "name_no_details": "Mitch McConnell",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00003389",
+  "pvsid": "53298",
+  "resource_uri": "/api/v1/person/300072/",
+  "roles": [
+    "/api/v1/role/4191/",
+    "/api/v1/role/4192/",
+    "/api/v1/role/4193/",
+    "/api/v1/role/4194/",
+    "/api/v1/role/4195/"
+  ],
+  "sortname": "McConnell, Mitch (Sen.) [R-KY]",
+  "twitterid": "McConnellPress",
+  "youtubeid": null
+}

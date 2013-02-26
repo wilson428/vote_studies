@@ -1,0 +1,48 @@
+{
+  "bioguideid": "S001194",
+  "birthday": "1972-10-20",
+  "cspanid": 87784,
+  "current_role": {
+    "congress_numbers": [
+      112,
+      113,
+      114
+    ],
+    "current": true,
+    "description": "Senator from Hawaii",
+    "district": null,
+    "enddate": "2017-01-03",
+    "id": "42070",
+    "party": "Democrat",
+    "resource_uri": "/api/v1/role/42070/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class3",
+    "senator_class_label": "Class 3",
+    "startdate": "2012-12-27",
+    "state": "HI",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.schatz.senate.gov"
+  },
+  "firstname": "Brian",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412507",
+  "lastname": "Schatz",
+  "link": "http://www.govtrack.us/congress/members/brian_schatz/412507",
+  "middlename": "Emanuel",
+  "name": "Sen. Brian Schatz [D-HI]",
+  "name_no_details": "Brian Schatz",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00028138",
+  "pvsid": "17852",
+  "resource_uri": "/api/v1/person/412507/",
+  "roles": [
+    "/api/v1/role/42070/"
+  ],
+  "sortname": "Schatz, Brian (Sen.) [D-HI]",
+  "twitterid": null,
+  "youtubeid": null
+}

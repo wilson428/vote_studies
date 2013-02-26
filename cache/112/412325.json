@@ -1,0 +1,48 @@
+{
+  "bioguideid": "M001176",
+  "birthday": "1956-10-24",
+  "cspanid": 1029842,
+  "current_role": {
+    "congress_numbers": [
+      111,
+      112,
+      113
+    ],
+    "current": true,
+    "description": "Senator from Oregon",
+    "district": null,
+    "enddate": "2015-01-03",
+    "id": "41907",
+    "party": "Democrat",
+    "resource_uri": "/api/v1/role/41907/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class2",
+    "senator_class_label": "Class 2",
+    "startdate": "2009-01-06",
+    "state": "OR",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.merkley.senate.gov"
+  },
+  "firstname": "Jeff",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412325",
+  "lastname": "Merkley",
+  "link": "http://www.govtrack.us/congress/members/jeff_merkley/412325",
+  "middlename": "",
+  "name": "Sen. Jeff Merkley [D-OR]",
+  "name_no_details": "Jeff Merkley",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00029303",
+  "pvsid": "23644",
+  "resource_uri": "/api/v1/person/412325/",
+  "roles": [
+    "/api/v1/role/41907/"
+  ],
+  "sortname": "Merkley, Jeff (Sen.) [D-OR]",
+  "twitterid": "SenJeffMerkley",
+  "youtubeid": "senatorjeffmerkley"
+}

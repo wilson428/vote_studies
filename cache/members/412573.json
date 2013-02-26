@@ -1,0 +1,48 @@
+{
+  "bioguideid": "C001098",
+  "birthday": "1970-12-22",
+  "cspanid": 1019953,
+  "current_role": {
+    "congress_numbers": [
+      113,
+      114,
+      115
+    ],
+    "current": true,
+    "description": "Senator from Texas",
+    "district": null,
+    "enddate": "2019-01-03",
+    "id": "43140",
+    "party": "Republican",
+    "resource_uri": "/api/v1/role/43140/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class1",
+    "senator_class_label": "Class 1",
+    "startdate": "2013-01-03",
+    "state": "TX",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.cruz.senate.gov"
+  },
+  "firstname": "Ted",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412573",
+  "lastname": "Cruz",
+  "link": "http://www.govtrack.us/congress/members/ted_cruz/412573",
+  "middlename": "",
+  "name": "Sen. Ted Cruz [R-TX]",
+  "name_no_details": "Ted Cruz",
+  "namemod": "",
+  "nickname": "",
+  "osid": null,
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/412573/",
+  "roles": [
+    "/api/v1/role/43140/"
+  ],
+  "sortname": "Cruz, Ted (Sen.) [R-TX]",
+  "twitterid": "SenTedCruz",
+  "youtubeid": "sentedcruz"
+}

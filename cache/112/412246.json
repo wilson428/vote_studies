@@ -1,0 +1,49 @@
+{
+  "bioguideid": "C001070",
+  "birthday": "1960-04-13",
+  "cspanid": 47036,
+  "current_role": {
+    "congress_numbers": [
+      113,
+      114,
+      115
+    ],
+    "current": true,
+    "description": "Senator from Pennsylvania",
+    "district": null,
+    "enddate": "2019-01-03",
+    "id": "42936",
+    "party": "Democrat",
+    "resource_uri": "/api/v1/role/42936/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class1",
+    "senator_class_label": "Class 1",
+    "startdate": "2013-01-03",
+    "state": "PA",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.casey.senate.gov"
+  },
+  "firstname": "Robert",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412246",
+  "lastname": "Casey",
+  "link": "http://www.govtrack.us/congress/members/robert_casey/412246",
+  "middlename": "P.",
+  "name": "Sen. Robert “Bob” Casey [D-PA]",
+  "name_no_details": "Robert “Bob” Casey Jr.",
+  "namemod": "Jr.",
+  "nickname": "Bob",
+  "osid": "N00027503",
+  "pvsid": "2541",
+  "resource_uri": "/api/v1/person/412246/",
+  "roles": [
+    "/api/v1/role/41773/",
+    "/api/v1/role/42936/"
+  ],
+  "sortname": "Casey, Robert “Bob” (Sen.) [D-PA]",
+  "twitterid": "SenBobCasey",
+  "youtubeid": "SenatorBobCasey"
+}

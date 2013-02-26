@@ -1,0 +1,48 @@
+{
+  "bioguideid": "R000595",
+  "birthday": "1971-05-28",
+  "cspanid": 87599,
+  "current_role": {
+    "congress_numbers": [
+      112,
+      113,
+      114
+    ],
+    "current": true,
+    "description": "Senator from Florida",
+    "district": null,
+    "enddate": "2017-01-03",
+    "id": "42045",
+    "party": "Republican",
+    "resource_uri": "/api/v1/role/42045/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class3",
+    "senator_class_label": "Class 3",
+    "startdate": "2011-01-05",
+    "state": "FL",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.rubio.senate.gov"
+  },
+  "firstname": "Marco",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412491",
+  "lastname": "Rubio",
+  "link": "http://www.govtrack.us/congress/members/marco_rubio/412491",
+  "middlename": "",
+  "name": "Sen. Marco Rubio [R-FL]",
+  "name_no_details": "Marco Rubio",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00030612",
+  "pvsid": "1601",
+  "resource_uri": "/api/v1/person/412491/",
+  "roles": [
+    "/api/v1/role/42045/"
+  ],
+  "sortname": "Rubio, Marco (Sen.) [R-FL]",
+  "twitterid": "SenRubioPress",
+  "youtubeid": "SenatorMarcoRubio"
+}

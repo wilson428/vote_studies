@@ -1,0 +1,48 @@
+{
+  "bioguideid": "R000584",
+  "birthday": "1943-05-03",
+  "cspanid": 1020034,
+  "current_role": {
+    "congress_numbers": [
+      111,
+      112,
+      113
+    ],
+    "current": true,
+    "description": "Senator from Idaho",
+    "district": null,
+    "enddate": "2015-01-03",
+    "id": "41904",
+    "party": "Republican",
+    "resource_uri": "/api/v1/role/41904/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class2",
+    "senator_class_label": "Class 2",
+    "startdate": "2009-01-06",
+    "state": "ID",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.risch.senate.gov"
+  },
+  "firstname": "James",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412322",
+  "lastname": "Risch",
+  "link": "http://www.govtrack.us/congress/members/james_risch/412322",
+  "middlename": "",
+  "name": "Sen. James Risch [R-ID]",
+  "name_no_details": "James Risch",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00029441",
+  "pvsid": "2919",
+  "resource_uri": "/api/v1/person/412322/",
+  "roles": [
+    "/api/v1/role/41904/"
+  ],
+  "sortname": "Risch, James (Sen.) [R-ID]",
+  "twitterid": null,
+  "youtubeid": "SenatorJamesRisch"
+}

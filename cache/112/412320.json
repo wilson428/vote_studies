@@ -1,0 +1,48 @@
+{
+  "bioguideid": "J000291",
+  "birthday": "1950-06-18",
+  "cspanid": 56552,
+  "current_role": {
+    "congress_numbers": [
+      111,
+      112,
+      113
+    ],
+    "current": true,
+    "description": "Senator from Nebraska",
+    "district": null,
+    "enddate": "2015-01-03",
+    "id": "41902",
+    "party": "Republican",
+    "resource_uri": "/api/v1/role/41902/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class2",
+    "senator_class_label": "Class 2",
+    "startdate": "2009-01-06",
+    "state": "NE",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.johanns.senate.gov"
+  },
+  "firstname": "Mike",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412320",
+  "lastname": "Johanns",
+  "link": "http://www.govtrack.us/congress/members/mike_johanns/412320",
+  "middlename": "",
+  "name": "Sen. Mike Johanns [R-NE]",
+  "name_no_details": "Mike Johanns",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00029444",
+  "pvsid": "21309",
+  "resource_uri": "/api/v1/person/412320/",
+  "roles": [
+    "/api/v1/role/41902/"
+  ],
+  "sortname": "Johanns, Mike (Sen.) [R-NE]",
+  "twitterid": "Mike_Johanns",
+  "youtubeid": "SenatorMikeJohanns"
+}

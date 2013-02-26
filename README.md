@@ -1,18 +1,21 @@
-# README for a newly created project.
+# Congressional Social Networks
 
-There are a couple of things you should do first, before you can use all of Git's power:
+## Quick setup
 
-  * Add a remote to this project: in the Cloud9 IDE command line, you can execute the following commands
-    `git remote add [remote name] [remote url (eg. 'git@github.com:/ajaxorg/node_chat')]` [Enter]
-  * Create new files inside your project
-  * Add them to to Git by executing the following command
-    `git add [file1, file2, file3, ...]` [Enter]
-  * Create a commit which can be pushed to the remote you just added
-    `git commit -m 'added new files'` [Enter]
-  * Push the commit the remote
-    `git push [remote name] master` [Enter]
+It's recommended to make a virtualenv, then run:
 
-That's it! If this doesn't work for you, please visit the excellent resources from [Github.com](http://help.github.com) and the [Pro Git](http://http://progit.org/book/) book.
-If you can't find your answers there, feel free to ask us via Twitter (@cloud9ide), [mailing list](groups.google.com/group/cloud9-ide) or IRC (#cloud9ide on freenode).
+```bash
+pip install -r requirements.txt
+```
 
-Happy coding!
+## Data
+All voting information comes from the incomparably awesome GovTrack.us. To prevent unnecessary hammering of GovTrack's API, all cached XML files and the associated JSON files are included in this repository.
+
+If you insist on downloading them yourself, you can do so by running the ```fetch.py``` script:
+
+### fetch.py
+Options:
+
+`--session`: Session of Congress for which you want to download votes. Default is 113.
+
+`--rootdir`: Root directory of project. Default is output of ```os.getcwd()```

@@ -1,0 +1,26 @@
+{
+  "bioguideid": "B001268",
+  "birthday": "1959-09-12",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Scott",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412384",
+  "lastname": "Brown",
+  "link": "http://www.govtrack.us/congress/members/scott_brown/412384",
+  "middlename": "",
+  "name": "Sen. Scott Brown [R-MA, 2010-2013]",
+  "name_no_details": "Scott Brown",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00031174",
+  "pvsid": "18919",
+  "resource_uri": "/api/v1/person/412384/",
+  "roles": [
+    "/api/v1/role/41940/"
+  ],
+  "sortname": "Brown, Scott (Sen.) [R-MA, 2010-2013]",
+  "twitterid": null,
+  "youtubeid": null
+}

@@ -1,0 +1,51 @@
+{
+  "bioguideid": "M001169",
+  "birthday": "1973-08-03",
+  "cspanid": 1021270,
+  "current_role": {
+    "congress_numbers": [
+      113,
+      114,
+      115
+    ],
+    "current": true,
+    "description": "Senator from Connecticut",
+    "district": null,
+    "enddate": "2019-01-03",
+    "id": "42910",
+    "party": "Democrat",
+    "resource_uri": "/api/v1/role/42910/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class1",
+    "senator_class_label": "Class 1",
+    "startdate": "2013-01-03",
+    "state": "CT",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.murphy.senate.gov"
+  },
+  "firstname": "Christopher",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412194",
+  "lastname": "Murphy",
+  "link": "http://www.govtrack.us/congress/members/christopher_murphy/412194",
+  "middlename": "S.",
+  "name": "Sen. Christopher Murphy [D-CT]",
+  "name_no_details": "Christopher Murphy",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00027566",
+  "pvsid": "17189",
+  "resource_uri": "/api/v1/person/412194/",
+  "roles": [
+    "/api/v1/role/41663/",
+    "/api/v1/role/41664/",
+    "/api/v1/role/41665/",
+    "/api/v1/role/42910/"
+  ],
+  "sortname": "Murphy, Christopher (Sen.) [D-CT]",
+  "twitterid": null,
+  "youtubeid": null
+}

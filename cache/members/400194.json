@@ -1,0 +1,52 @@
+{
+  "bioguideid": "I000055",
+  "birthday": "1944-12-28",
+  "cspanid": 59135,
+  "current_role": {
+    "congress_numbers": [
+      112,
+      113,
+      114
+    ],
+    "current": true,
+    "description": "Senator from Georgia",
+    "district": null,
+    "enddate": "2017-01-03",
+    "id": "1587",
+    "party": "Republican",
+    "resource_uri": "/api/v1/role/1587/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class3",
+    "senator_class_label": "Class 3",
+    "startdate": "2011-01-05",
+    "state": "GA",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.isakson.senate.gov"
+  },
+  "firstname": "John",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "400194",
+  "lastname": "Isakson",
+  "link": "http://www.govtrack.us/congress/members/john_isakson/400194",
+  "middlename": "H.",
+  "name": "Sen. John “Johnny” Isakson [R-GA]",
+  "name_no_details": "John “Johnny” Isakson",
+  "namemod": "",
+  "nickname": "Johnny",
+  "osid": "N00002593",
+  "pvsid": "1721",
+  "resource_uri": "/api/v1/person/400194/",
+  "roles": [
+    "/api/v1/role/1583/",
+    "/api/v1/role/1584/",
+    "/api/v1/role/1585/",
+    "/api/v1/role/1586/",
+    "/api/v1/role/1587/"
+  ],
+  "sortname": "Isakson, John “Johnny” (Sen.) [R-GA]",
+  "twitterid": null,
+  "youtubeid": null
+}

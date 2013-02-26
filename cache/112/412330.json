@@ -1,0 +1,49 @@
+{
+  "bioguideid": "B001267",
+  "birthday": "1964-11-28",
+  "cspanid": 1031622,
+  "current_role": {
+    "congress_numbers": [
+      112,
+      113,
+      114
+    ],
+    "current": true,
+    "description": "Senator from Colorado",
+    "district": null,
+    "enddate": "2017-01-03",
+    "id": "41915",
+    "party": "Democrat",
+    "resource_uri": "/api/v1/role/41915/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class3",
+    "senator_class_label": "Class 3",
+    "startdate": "2011-01-05",
+    "state": "CO",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.bennet.senate.gov"
+  },
+  "firstname": "Michael",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412330",
+  "lastname": "Bennet",
+  "link": "http://www.govtrack.us/congress/members/michael_bennet/412330",
+  "middlename": "F.",
+  "name": "Sen. Michael Bennet [D-CO]",
+  "name_no_details": "Michael Bennet",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00030608",
+  "pvsid": "110942",
+  "resource_uri": "/api/v1/person/412330/",
+  "roles": [
+    "/api/v1/role/41914/",
+    "/api/v1/role/41915/"
+  ],
+  "sortname": "Bennet, Michael (Sen.) [D-CO]",
+  "twitterid": "SenBennetCo",
+  "youtubeid": "senatorbennet"
+}

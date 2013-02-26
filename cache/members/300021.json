@@ -1,0 +1,53 @@
+{
+  "bioguideid": "C000286",
+  "birthday": "1943-11-10",
+  "cspanid": 36571,
+  "current_role": {
+    "congress_numbers": [
+      111,
+      112,
+      113
+    ],
+    "current": true,
+    "description": "Senator from Georgia",
+    "district": null,
+    "enddate": "2015-01-03",
+    "id": "3914",
+    "party": "Republican",
+    "resource_uri": "/api/v1/role/3914/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class2",
+    "senator_class_label": "Class 2",
+    "startdate": "2009-01-06",
+    "state": "GA",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.chambliss.senate.gov"
+  },
+  "firstname": "Saxby",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300021",
+  "lastname": "Chambliss",
+  "link": "http://www.govtrack.us/congress/members/saxby_chambliss/300021",
+  "middlename": "",
+  "name": "Sen. Saxby Chambliss [R-GA]",
+  "name_no_details": "Saxby Chambliss",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00002685",
+  "pvsid": "22029",
+  "resource_uri": "/api/v1/person/300021/",
+  "roles": [
+    "/api/v1/role/3909/",
+    "/api/v1/role/3910/",
+    "/api/v1/role/3911/",
+    "/api/v1/role/3912/",
+    "/api/v1/role/3913/",
+    "/api/v1/role/3914/"
+  ],
+  "sortname": "Chambliss, Saxby (Sen.) [R-GA]",
+  "twitterid": "SaxbyChambliss",
+  "youtubeid": "SenatorChambliss"
+}

@@ -1,0 +1,29 @@
+{
+  "bioguideid": "K000305",
+  "birthday": "1935-02-07",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Herbert",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300061",
+  "lastname": "Kohl",
+  "link": "http://www.govtrack.us/congress/members/herbert_kohl/300061",
+  "middlename": "H.",
+  "name": "Sen. Herbert “Herb” Kohl [D-WI, 1989-2013]",
+  "name_no_details": "Herbert “Herb” Kohl",
+  "namemod": "",
+  "nickname": "Herb",
+  "osid": "N00004309",
+  "pvsid": "53362",
+  "resource_uri": "/api/v1/person/300061/",
+  "roles": [
+    "/api/v1/role/4126/",
+    "/api/v1/role/4127/",
+    "/api/v1/role/4128/",
+    "/api/v1/role/4129/"
+  ],
+  "sortname": "Kohl, Herbert “Herb” (Sen.) [D-WI, 1989-2013]",
+  "twitterid": null,
+  "youtubeid": null
+}

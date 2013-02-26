@@ -1,0 +1,50 @@
+{
+  "bioguideid": "C001035",
+  "birthday": "1952-12-07",
+  "cspanid": 45738,
+  "current_role": {
+    "congress_numbers": [
+      111,
+      112,
+      113
+    ],
+    "current": true,
+    "description": "Senator from Maine",
+    "district": null,
+    "enddate": "2015-01-03",
+    "id": "3930",
+    "party": "Republican",
+    "resource_uri": "/api/v1/role/3930/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class2",
+    "senator_class_label": "Class 2",
+    "startdate": "2009-01-06",
+    "state": "ME",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.collins.senate.gov"
+  },
+  "firstname": "Susan",
+  "gender": "female",
+  "gender_label": "Female",
+  "id": "300025",
+  "lastname": "Collins",
+  "link": "http://www.govtrack.us/congress/members/susan_collins/300025",
+  "middlename": "M.",
+  "name": "Sen. Susan Collins [R-ME]",
+  "name_no_details": "Susan Collins",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00000491",
+  "pvsid": "379",
+  "resource_uri": "/api/v1/person/300025/",
+  "roles": [
+    "/api/v1/role/3928/",
+    "/api/v1/role/3929/",
+    "/api/v1/role/3930/"
+  ],
+  "sortname": "Collins, Susan (Sen.) [R-ME]",
+  "twitterid": "senatorcollins",
+  "youtubeid": "SenatorSusanCollins"
+}

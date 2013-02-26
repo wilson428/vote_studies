@@ -1,0 +1,30 @@
+{
+  "bioguideid": "D000595",
+  "birthday": "1951-09-02",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Jim",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "400105",
+  "lastname": "DeMint",
+  "link": "http://www.govtrack.us/congress/members/jim_demint/400105",
+  "middlename": "W.",
+  "name": "Sen. Jim DeMint [R-SC, 2005-2013]",
+  "name_no_details": "Jim DeMint",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00002472",
+  "pvsid": "25026",
+  "resource_uri": "/api/v1/person/400105/",
+  "roles": [
+    "/api/v1/role/805/",
+    "/api/v1/role/806/",
+    "/api/v1/role/807/",
+    "/api/v1/role/808/",
+    "/api/v1/role/809/"
+  ],
+  "sortname": "DeMint, Jim (Sen.) [R-SC, 2005-2013]",
+  "twitterid": null,
+  "youtubeid": null
+}

@@ -1,0 +1,53 @@
+{
+  "bioguideid": "C000880",
+  "birthday": "1951-05-20",
+  "cspanid": 26440,
+  "current_role": {
+    "congress_numbers": [
+      112,
+      113,
+      114
+    ],
+    "current": true,
+    "description": "Senator from Idaho",
+    "district": null,
+    "enddate": "2017-01-03",
+    "id": "3953",
+    "party": "Republican",
+    "resource_uri": "/api/v1/role/3953/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class3",
+    "senator_class_label": "Class 3",
+    "startdate": "2011-01-05",
+    "state": "ID",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.crapo.senate.gov"
+  },
+  "firstname": "Michael",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300030",
+  "lastname": "Crapo",
+  "link": "http://www.govtrack.us/congress/members/michael_crapo/300030",
+  "middlename": "D.",
+  "name": "Sen. Michael Crapo [R-ID]",
+  "name_no_details": "Michael Crapo",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00006267",
+  "pvsid": "26830",
+  "resource_uri": "/api/v1/person/300030/",
+  "roles": [
+    "/api/v1/role/3948/",
+    "/api/v1/role/3949/",
+    "/api/v1/role/3950/",
+    "/api/v1/role/3951/",
+    "/api/v1/role/3952/",
+    "/api/v1/role/3953/"
+  ],
+  "sortname": "Crapo, Michael (Sen.) [R-ID]",
+  "twitterid": "mikecrapo",
+  "youtubeid": "senatorcrapo"
+}

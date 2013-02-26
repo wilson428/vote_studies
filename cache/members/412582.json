@@ -1,0 +1,48 @@
+{
+  "bioguideid": "K000384",
+  "birthday": "1958-02-26",
+  "cspanid": 49219,
+  "current_role": {
+    "congress_numbers": [
+      113,
+      114,
+      115
+    ],
+    "current": true,
+    "description": "Senator from Virginia",
+    "district": null,
+    "enddate": "2019-01-03",
+    "id": "43149",
+    "party": "Democrat",
+    "resource_uri": "/api/v1/role/43149/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class1",
+    "senator_class_label": "Class 1",
+    "startdate": "2013-01-03",
+    "state": "VA",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.kaine.senate.gov"
+  },
+  "firstname": "Timothy",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412582",
+  "lastname": "Kaine",
+  "link": "http://www.govtrack.us/congress/members/timothy_kaine/412582",
+  "middlename": "",
+  "name": "Sen. Timothy Kaine [D-VA]",
+  "name_no_details": "Timothy Kaine",
+  "namemod": "",
+  "nickname": "",
+  "osid": null,
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/412582/",
+  "roles": [
+    "/api/v1/role/43149/"
+  ],
+  "sortname": "Kaine, Timothy (Sen.) [D-VA]",
+  "twitterid": null,
+  "youtubeid": null
+}

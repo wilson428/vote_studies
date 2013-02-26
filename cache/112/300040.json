@@ -1,0 +1,29 @@
+{
+  "bioguideid": "E000194",
+  "birthday": "1958-03-25",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "John",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300040",
+  "lastname": "Ensign",
+  "link": "http://www.govtrack.us/congress/members/john_ensign/300040",
+  "middlename": "Eric",
+  "name": "Sen. John Ensign [R-NV, 2001-2011]",
+  "name_no_details": "John Ensign",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00006619",
+  "pvsid": "22139",
+  "resource_uri": "/api/v1/person/300040/",
+  "roles": [
+    "/api/v1/role/4004/",
+    "/api/v1/role/4005/",
+    "/api/v1/role/4006/",
+    "/api/v1/role/4007/"
+  ],
+  "sortname": "Ensign, John (Sen.) [R-NV, 2001-2011]",
+  "twitterid": null,
+  "youtubeid": null
+}

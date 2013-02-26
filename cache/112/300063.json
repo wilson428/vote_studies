@@ -1,0 +1,50 @@
+{
+  "bioguideid": "L000550",
+  "birthday": "1955-11-23",
+  "cspanid": 22357,
+  "current_role": {
+    "congress_numbers": [
+      111,
+      112,
+      113
+    ],
+    "current": true,
+    "description": "Senator from Louisiana",
+    "district": null,
+    "enddate": "2015-01-03",
+    "id": "4139",
+    "party": "Democrat",
+    "resource_uri": "/api/v1/role/4139/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class2",
+    "senator_class_label": "Class 2",
+    "startdate": "2009-01-06",
+    "state": "LA",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.landrieu.senate.gov"
+  },
+  "firstname": "Mary",
+  "gender": "female",
+  "gender_label": "Female",
+  "id": "300063",
+  "lastname": "Landrieu",
+  "link": "http://www.govtrack.us/congress/members/mary_landrieu/300063",
+  "middlename": "L.",
+  "name": "Sen. Mary Landrieu [D-LA]",
+  "name_no_details": "Mary Landrieu",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00005395",
+  "pvsid": "661",
+  "resource_uri": "/api/v1/person/300063/",
+  "roles": [
+    "/api/v1/role/4137/",
+    "/api/v1/role/4138/",
+    "/api/v1/role/4139/"
+  ],
+  "sortname": "Landrieu, Mary (Sen.) [D-LA]",
+  "twitterid": "senlandrieu",
+  "youtubeid": "SenatorLandrieu"
+}

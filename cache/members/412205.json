@@ -1,0 +1,51 @@
+{
+  "bioguideid": "D000607",
+  "birthday": "1955-09-28",
+  "cspanid": 1012000,
+  "current_role": {
+    "congress_numbers": [
+      113,
+      114,
+      115
+    ],
+    "current": true,
+    "description": "Senator from Indiana",
+    "district": null,
+    "enddate": "2019-01-03",
+    "id": "42916",
+    "party": "Democrat",
+    "resource_uri": "/api/v1/role/42916/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class1",
+    "senator_class_label": "Class 1",
+    "startdate": "2013-01-03",
+    "state": "IN",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.donnelly.senate.gov"
+  },
+  "firstname": "Joe",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412205",
+  "lastname": "Donnelly",
+  "link": "http://www.govtrack.us/congress/members/joe_donnelly/412205",
+  "middlename": "",
+  "name": "Sen. Joe Donnelly [D-IN]",
+  "name_no_details": "Joe Donnelly",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00026586",
+  "pvsid": "34212",
+  "resource_uri": "/api/v1/person/412205/",
+  "roles": [
+    "/api/v1/role/41687/",
+    "/api/v1/role/41688/",
+    "/api/v1/role/41689/",
+    "/api/v1/role/42916/"
+  ],
+  "sortname": "Donnelly, Joe (Sen.) [D-IN]",
+  "twitterid": "SenDonnelly",
+  "youtubeid": null
+}

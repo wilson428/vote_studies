@@ -1,0 +1,49 @@
+{
+  "bioguideid": "M001183",
+  "birthday": "1947-08-24",
+  "cspanid": 62864,
+  "current_role": {
+    "congress_numbers": [
+      113,
+      114,
+      115
+    ],
+    "current": true,
+    "description": "Senator from West Virginia",
+    "district": null,
+    "enddate": "2019-01-03",
+    "id": "42991",
+    "party": "Democrat",
+    "resource_uri": "/api/v1/role/42991/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class1",
+    "senator_class_label": "Class 1",
+    "startdate": "2013-01-03",
+    "state": "WV",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.manchin.senate.gov"
+  },
+  "firstname": "Joe",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412391",
+  "lastname": "Manchin",
+  "link": "http://www.govtrack.us/congress/members/joe_manchin/412391",
+  "middlename": "",
+  "name": "Sen. Joe Manchin [D-WV]",
+  "name_no_details": "Joe Manchin III",
+  "namemod": "III",
+  "nickname": "",
+  "osid": "N00032838",
+  "pvsid": "7547",
+  "resource_uri": "/api/v1/person/412391/",
+  "roles": [
+    "/api/v1/role/41950/",
+    "/api/v1/role/42991/"
+  ],
+  "sortname": "Manchin, Joe (Sen.) [D-WV]",
+  "twitterid": "Sen_JoeManchin",
+  "youtubeid": "SenatorJoeManchin"
+}

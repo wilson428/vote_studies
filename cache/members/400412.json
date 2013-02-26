@@ -1,0 +1,53 @@
+{
+  "bioguideid": "U000038",
+  "birthday": "1950-07-18",
+  "cspanid": 45408,
+  "current_role": {
+    "congress_numbers": [
+      111,
+      112,
+      113
+    ],
+    "current": true,
+    "description": "Senator from Colorado",
+    "district": null,
+    "enddate": "2015-01-03",
+    "id": "3508",
+    "party": "Democrat",
+    "resource_uri": "/api/v1/role/3508/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class2",
+    "senator_class_label": "Class 2",
+    "startdate": "2009-01-06",
+    "state": "CO",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.markudall.senate.gov"
+  },
+  "firstname": "Mark",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "400412",
+  "lastname": "Udall",
+  "link": "http://www.govtrack.us/congress/members/mark_udall/400412",
+  "middlename": "E.",
+  "name": "Sen. Mark Udall [D-CO]",
+  "name_no_details": "Mark Udall",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00008051",
+  "pvsid": "12329",
+  "resource_uri": "/api/v1/person/400412/",
+  "roles": [
+    "/api/v1/role/3503/",
+    "/api/v1/role/3504/",
+    "/api/v1/role/3505/",
+    "/api/v1/role/3506/",
+    "/api/v1/role/3507/",
+    "/api/v1/role/3508/"
+  ],
+  "sortname": "Udall, Mark (Sen.) [D-CO]",
+  "twitterid": "MarkUdall",
+  "youtubeid": "senatormarkudall"
+}

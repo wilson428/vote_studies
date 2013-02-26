@@ -1,0 +1,114 @@
+<roll where="senate" session="111" year="2010" roll="262" source="senate.gov"
+	datetime="2010-12-08T10:26:00-05:00" updated="2012-10-17T19:12:36-04:00"
+	aye="0" nay="0" nv="4" present="0">
+	<category>conviction</category>
+	<type>Guilty or Not Guilty</type>
+	<question>Guilty or Not Guilty H.Res. 1031</question>
+	<required>2/3</required>
+	<result>Guilty</result>
+	<bill session="111" type="hr" number="1031" />
+	<option key="+">Guilty</option>
+	<option key="-">Not Guilty</option>
+	<option key="P">Present</option>
+	<option key="0">Not Voting</option>
+	<voter id="412251" vote="+" value="Guilty" state="WY"/>
+	<voter id="300005" vote="+" value="Guilty" state="MT"/>
+	<voter id="300006" vote="+" value="Guilty" state=""/>
+	<voter id="412326" vote="+" value="Guilty" state="AK"/>
+	<voter id="412330" vote="+" value="Guilty" state=""/>
+	<voter id="300009" vote="+" value="Guilty" state="NM"/>
+	<voter id="300011" vote="+" value="Guilty" state=""/>
+	<voter id="300014" vote="+" value="Guilty" state=""/>
+	<voter id="300018" vote="+" value="Guilty" state="WA"/>
+	<voter id="400064" vote="+" value="Guilty" state="MD"/>
+	<voter id="300019" vote="+" value="Guilty" state="DE"/>
+	<voter id="412246" vote="+" value="Guilty" state="PA"/>
+	<voter id="400576" vote="+" value="Guilty" state=""/>
+	<voter id="300023" vote="+" value="Guilty" state="MS"/>
+	<voter id="300026" vote="+" value="Guilty" state="ND"/>
+	<voter id="412390" vote="+" value="Guilty" state="DE"/>
+	<voter id="300030" vote="+" value="Guilty" state=""/>
+	<voter id="400105" vote="+" value="Guilty" state=""/>
+	<voter id="300037" vote="+" value="Guilty" state=""/>
+	<voter id="300038" vote="+" value="Guilty" state="IL"/>
+	<voter id="300041" vote="+" value="Guilty" state="WY"/>
+	<voter id="300042" vote="+" value="Guilty" state=""/>
+	<voter id="300043" vote="+" value="Guilty" state="CA"/>
+	<voter id="412378" vote="+" value="Guilty" state="MN"/>
+	<voter id="412223" vote="+" value="Guilty" state="NY"/>
+	<voter id="300048" vote="+" value="Guilty" state=""/>
+	<voter id="412324" vote="+" value="Guilty" state="NC"/>
+	<voter id="300055" vote="+" value="Guilty" state="OK"/>
+	<voter id="400194" vote="+" value="Guilty" state=""/>
+	<voter id="412320" vote="+" value="Guilty" state="NE"/>
+	<voter id="300058" vote="+" value="Guilty" state="SD"/>
+	<voter id="300060" vote="+" value="Guilty" state="MA"/>
+	<voter id="412242" vote="+" value="Guilty" state="MN"/>
+	<voter id="300061" vote="+" value="Guilty" state="WI"/>
+	<voter id="300062" vote="+" value="Guilty" state="AZ"/>
+	<voter id="300063" vote="+" value="Guilty" state="LA"/>
+	<voter id="300064" vote="+" value="Guilty" state="NJ"/>
+	<voter id="300065" vote="+" value="Guilty" state=""/>
+	<voter id="300066" vote="+" value="Guilty" state="MI"/>
+	<voter id="300070" vote="+" value="Guilty" state="IN"/>
+	<voter id="300071" vote="+" value="Guilty" state=""/>
+	<voter id="300072" vote="+" value="Guilty" state="KY"/>
+	<voter id="400272" vote="+" value="Guilty" state="NJ"/>
+	<voter id="412325" vote="+" value="Guilty" state="OR"/>
+	<voter id="300073" vote="+" value="Guilty" state=""/>
+	<voter id="300076" vote="+" value="Guilty" state=""/>
+	<voter id="300078" vote="+" value="Guilty" state="FL"/>
+	<voter id="300077" vote="+" value="Guilty" state="NE"/>
+	<voter id="300080" vote="+" value="Guilty" state="AR"/>
+	<voter id="412322" vote="+" value="Guilty" state="ID"/>
+	<voter id="300083" vote="+" value="Guilty" state="KS"/>
+	<voter id="300084" vote="+" value="Guilty" state="WV"/>
+	<voter id="400357" vote="+" value="Guilty" state="VT"/>
+	<voter id="300087" vote="+" value="Guilty" state=""/>
+	<voter id="300088" vote="+" value="Guilty" state="AL"/>
+	<voter id="412323" vote="+" value="Guilty" state="NH"/>
+	<voter id="300089" vote="+" value="Guilty" state=""/>
+	<voter id="300091" vote="+" value="Guilty" state="ME"/>
+	<voter id="300092" vote="+" value="Guilty" state=""/>
+	<voter id="300093" vote="+" value="Guilty" state="MI"/>
+	<voter id="412244" vote="+" value="Guilty" state="MT"/>
+	<voter id="400546" vote="+" value="Guilty" state=""/>
+	<voter id="400412" vote="+" value="Guilty" state="CO"/>
+	<voter id="400413" vote="+" value="Guilty" state="NM"/>
+	<voter id="400418" vote="+" value="Guilty" state=""/>
+	<voter id="300098" vote="+" value="Guilty" state=""/>
+	<voter id="412321" vote="+" value="Guilty" state="VA"/>
+	<voter id="412249" vote="+" value="Guilty" state="VA"/>
+	<voter id="300100" vote="+" value="Guilty" state=""/>
+	<voter id="300001" vote="-" value="Not Guilty" state="HI"/>
+	<voter id="300002" vote="-" value="Not Guilty" state="TN"/>
+	<voter id="300007" vote="-" value="Not Guilty" state=""/>
+	<voter id="300010" vote="-" value="Not Guilty" state=""/>
+	<voter id="400050" vote="-" value="Not Guilty" state="OH"/>
+	<voter id="412384" vote="-" value="Not Guilty" state="MA"/>
+	<voter id="400054" vote="-" value="Not Guilty" state=""/>
+	<voter id="300021" vote="-" value="Not Guilty" state="GA"/>
+	<voter id="300025" vote="-" value="Not Guilty" state="ME"/>
+	<voter id="412248" vote="-" value="Not Guilty" state="TN"/>
+	<voter id="300027" vote="-" value="Not Guilty" state="TX"/>
+	<voter id="300040" vote="-" value="Not Guilty" state="NV"/>
+	<voter id="300047" vote="-" value="Not Guilty" state="SC"/>
+	<voter id="300049" vote="-" value="Not Guilty" state=""/>
+	<voter id="300051" vote="-" value="Not Guilty" state="IA"/>
+	<voter id="300052" vote="-" value="Not Guilty" state="UT"/>
+	<voter id="300054" vote="-" value="Not Guilty" state="TX"/>
+	<voter id="300056" vote="-" value="Not Guilty" state=""/>
+	<voter id="412380" vote="-" value="Not Guilty" state=""/>
+	<voter id="300067" vote="-" value="Not Guilty" state="CT"/>
+	<voter id="412391" vote="-" value="Not Guilty" state="WV"/>
+	<voter id="412243" vote="-" value="Not Guilty" state="MO"/>
+	<voter id="300075" vote="-" value="Not Guilty" state=""/>
+	<voter id="300081" vote="-" value="Not Guilty" state="RI"/>
+	<voter id="300082" vote="-" value="Not Guilty" state=""/>
+	<voter id="412247" vote="-" value="Not Guilty" state="RI"/>
+	<voter id="400432" vote="-" value="Not Guilty" state="MS"/>
+	<voter id="300013" vote="0" value="Not Voting" state=""/>
+	<voter id="300034" vote="0" value="Not Voting" state=""/>
+	<voter id="400222" vote="0" value="Not Voting" state="IL" district="10"/>
+	<voter id="300068" vote="0" value="Not Voting" state=""/>
+</roll>

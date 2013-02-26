@@ -1,0 +1,48 @@
+{
+  "bioguideid": "J000293",
+  "birthday": "1955-04-08",
+  "cspanid": 62835,
+  "current_role": {
+    "congress_numbers": [
+      112,
+      113,
+      114
+    ],
+    "current": true,
+    "description": "Senator from Wisconsin",
+    "district": null,
+    "enddate": "2017-01-03",
+    "id": "42050",
+    "party": "Republican",
+    "resource_uri": "/api/v1/role/42050/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class3",
+    "senator_class_label": "Class 3",
+    "startdate": "2011-01-05",
+    "state": "WI",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.ronjohnson.senate.gov"
+  },
+  "firstname": "Ron",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412496",
+  "lastname": "Johnson",
+  "link": "http://www.govtrack.us/congress/members/ron_johnson/412496",
+  "middlename": "",
+  "name": "Sen. Ron Johnson [R-WI]",
+  "name_no_details": "Ron Johnson",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00032546",
+  "pvsid": "126217",
+  "resource_uri": "/api/v1/person/412496/",
+  "roles": [
+    "/api/v1/role/42050/"
+  ],
+  "sortname": "Johnson, Ron (Sen.) [R-WI]",
+  "twitterid": "SenRonJohnson",
+  "youtubeid": "SenatorRonJohnson"
+}

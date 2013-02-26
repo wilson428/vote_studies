@@ -1,0 +1,50 @@
+{
+  "bioguideid": "M001153",
+  "birthday": "1957-05-22",
+  "cspanid": 1004138,
+  "current_role": {
+    "congress_numbers": [
+      112,
+      113,
+      114
+    ],
+    "current": true,
+    "description": "Senator from Alaska",
+    "district": null,
+    "enddate": "2017-01-03",
+    "id": "4209",
+    "party": "Republican",
+    "resource_uri": "/api/v1/role/4209/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class3",
+    "senator_class_label": "Class 3",
+    "startdate": "2011-01-05",
+    "state": "AK",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.murkowski.senate.gov"
+  },
+  "firstname": "Lisa",
+  "gender": "female",
+  "gender_label": "Female",
+  "id": "300075",
+  "lastname": "Murkowski",
+  "link": "http://www.govtrack.us/congress/members/lisa_murkowski/300075",
+  "middlename": "A.",
+  "name": "Sen. Lisa Murkowski [R-AK]",
+  "name_no_details": "Lisa Murkowski",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00026050",
+  "pvsid": "15841",
+  "resource_uri": "/api/v1/person/300075/",
+  "roles": [
+    "/api/v1/role/4207/",
+    "/api/v1/role/4208/",
+    "/api/v1/role/4209/"
+  ],
+  "sortname": "Murkowski, Lisa (Sen.) [R-AK]",
+  "twitterid": "lisamurkowski",
+  "youtubeid": "senatormurkowski"
+}

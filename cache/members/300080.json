@@ -1,0 +1,49 @@
+{
+  "bioguideid": "P000590",
+  "birthday": "1963-01-10",
+  "cspanid": 1002201,
+  "current_role": {
+    "congress_numbers": [
+      111,
+      112,
+      113
+    ],
+    "current": true,
+    "description": "Senator from Arkansas",
+    "district": null,
+    "enddate": "2015-01-03",
+    "id": "4229",
+    "party": "Democrat",
+    "resource_uri": "/api/v1/role/4229/",
+    "role_type": "senator",
+    "role_type_label": "Senator",
+    "senator_class": "class2",
+    "senator_class_label": "Class 2",
+    "startdate": "2009-01-06",
+    "state": "AR",
+    "title": "Sen.",
+    "title_long": "Senator",
+    "website": "http://www.pryor.senate.gov"
+  },
+  "firstname": "Mark",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300080",
+  "lastname": "Pryor",
+  "link": "http://www.govtrack.us/congress/members/mark_pryor/300080",
+  "middlename": "",
+  "name": "Sen. Mark Pryor [D-AR]",
+  "name_no_details": "Mark Pryor",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00013823",
+  "pvsid": "35",
+  "resource_uri": "/api/v1/person/300080/",
+  "roles": [
+    "/api/v1/role/4228/",
+    "/api/v1/role/4229/"
+  ],
+  "sortname": "Pryor, Mark (Sen.) [D-AR]",
+  "twitterid": "senmarkpryor",
+  "youtubeid": "senatorpryor"
+}

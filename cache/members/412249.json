@@ -1,0 +1,26 @@
+{
+  "bioguideid": "W000803",
+  "birthday": "1946-02-09",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Jim",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412249",
+  "lastname": "Webb",
+  "link": "http://www.govtrack.us/congress/members/jim_webb/412249",
+  "middlename": "",
+  "name": "Sen. Jim Webb [D-VA, 2007-2013]",
+  "name_no_details": "Jim Webb",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00028058",
+  "pvsid": "60043",
+  "resource_uri": "/api/v1/person/412249/",
+  "roles": [
+    "/api/v1/role/41776/"
+  ],
+  "sortname": "Webb, Jim (Sen.) [D-VA, 2007-2013]",
+  "twitterid": null,
+  "youtubeid": null
+}
