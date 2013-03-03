@@ -10,9 +10,7 @@ from utils import write
 import argparse
 
 def get_cross(session, chamber, rootdir):
-    
     base = "http://www.govtrack.us/data/us/%s/rolls/" % session
-    
     chamber = 'senate'
     all_votes = defaultdict(lambda: [0,[],[]])
     crossvote = defaultdict(lambda: defaultdict(lambda: [0,0]))
