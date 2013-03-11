@@ -34,10 +34,12 @@ def get_cross(session, chamber, rootdir):
         
         data = json.loads(raw_vote)
         #ids = [x for x in data['rollcall'].keys() if data['rollcall'][x] != "Not Voting"]
-        ids = data['rollcall'].keys()
+        ids = [x for x in data['rollcall'].keys() if x != '0']
 
         #add to vote count 
         for mid in ids:
+            if mid == '0':
+                print "zero", vote
             if mid in replacements[session]:
                 mid = replacements[session][mid]["id"]
             members[mid][1] += 1
@@ -69,13 +71,16 @@ def get_cross(session, chamber, rootdir):
     #write members directory
     pb = {}
     inv_replacements = dict([(v['id'], k) for (k,v) in replacements[session].items()])
+    print inv_replacements 
     
-    print inv_replacements
-    
-    for mid in members.keys():
-        member = json.loads(download('http://www.govtrack.us/api/v1/person/' + mid, "members/" + mid + ".json"))
+    for mid in [x for x in members.keys() if x != '0']:
+        raw_member = download('http://www.govtrack.us/api/v1/person/' + mid, "members/" + mid + ".json")
+        try:
+            member = json.loads(raw_member)
+        except:
+            print mid, raw_member
         name = member['name']
-        if mid in inv_replacements:
+        if len(inv_replacements.items()) > 0 and mid in inv_replacements:
             alt_member = json.loads(download('http://www.govtrack.us/api/v1/person/' + inv_replacements[mid], "members/" + inv_replacements[mid] + ".json"))
             print alt_member
             name += " / " + alt_member['name']    
