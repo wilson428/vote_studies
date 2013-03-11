@@ -1,0 +1,26 @@
+{
+  "bioguideid": "K000374",
+  "birthday": "1938-01-18",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Paul",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412381",
+  "lastname": "Kirk",
+  "link": "http://www.govtrack.us/congress/members/paul_kirk/412381",
+  "middlename": "G.",
+  "name": "Sen. Paul Kirk [D-MA, 2009-2010]",
+  "name_no_details": "Paul Kirk Jr.",
+  "namemod": "Jr.",
+  "nickname": "",
+  "osid": "N00031303",
+  "pvsid": "116298",
+  "resource_uri": "/api/v1/person/412381/",
+  "roles": [
+    "/api/v1/role/27789/"
+  ],
+  "sortname": "Kirk, Paul (Sen.) [D-MA, 2009-2010]",
+  "twitterid": null,
+  "youtubeid": null
+}

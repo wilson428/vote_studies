@@ -1,0 +1,26 @@
+{
+  "bioguideid": "F000442",
+  "birthday": "1960-10-20",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Peter",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300044",
+  "lastname": "Fitzgerald",
+  "link": "http://www.govtrack.us/congress/members/peter_fitzgerald/300044",
+  "middlename": "G.",
+  "name": "Sen. Peter Fitzgerald [R-IL, 1999-2004]",
+  "name_no_details": "Peter Fitzgerald",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00004690",
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300044/",
+  "roles": [
+    "/api/v1/role/4018/"
+  ],
+  "sortname": "Fitzgerald, Peter (Sen.) [R-IL, 1999-2004]",
+  "twitterid": null,
+  "youtubeid": null
+}

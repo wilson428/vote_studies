@@ -1,0 +1,29 @@
+{
+  "bioguideid": "L000035",
+  "birthday": "1960-09-30",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Blanche",
+  "gender": "female",
+  "gender_label": "Female",
+  "id": "300068",
+  "lastname": "Lincoln",
+  "link": "http://www.govtrack.us/congress/members/blanche_lincoln/300068",
+  "middlename": "Lambert",
+  "name": "Sen. Blanche Lincoln [D-AR, 1999-2010]",
+  "name_no_details": "Blanche Lincoln",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00008092",
+  "pvsid": "26723",
+  "resource_uri": "/api/v1/person/300068/",
+  "roles": [
+    "/api/v1/role/4162/",
+    "/api/v1/role/4163/",
+    "/api/v1/role/4164/",
+    "/api/v1/role/4165/"
+  ],
+  "sortname": "Lincoln, Blanche (Sen.) [D-AR, 1999-2010]",
+  "twitterid": null,
+  "youtubeid": null
+}

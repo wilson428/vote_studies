@@ -1,0 +1,31 @@
+{
+  "bioguideid": "T000162",
+  "birthday": "1933-02-17",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Craig",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300097",
+  "lastname": "Thomas",
+  "link": "http://www.govtrack.us/congress/members/craig_thomas/300097",
+  "middlename": "",
+  "name": "Sen. Craig Thomas [R-WY, 1995-2007]",
+  "name_no_details": "Craig Thomas",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00006246",
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300097/",
+  "roles": [
+    "/api/v1/role/4333/",
+    "/api/v1/role/4334/",
+    "/api/v1/role/4335/",
+    "/api/v1/role/4336/",
+    "/api/v1/role/4337/",
+    "/api/v1/role/4338/"
+  ],
+  "sortname": "Thomas, Craig (Sen.) [R-WY, 1995-2007]",
+  "twitterid": null,
+  "youtubeid": null
+}

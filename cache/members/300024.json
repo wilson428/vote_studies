@@ -1,0 +1,26 @@
+{
+  "bioguideid": "C001057",
+  "birthday": "1949-08-17",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Norm",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300024",
+  "lastname": "Coleman",
+  "link": "http://www.govtrack.us/congress/members/norm_coleman/300024",
+  "middlename": "",
+  "name": "Sen. Norm Coleman [R-MN, 2003-2009]",
+  "name_no_details": "Norm Coleman",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00013870",
+  "pvsid": "20239",
+  "resource_uri": "/api/v1/person/300024/",
+  "roles": [
+    "/api/v1/role/3927/"
+  ],
+  "sortname": "Coleman, Norm (Sen.) [R-MN, 2003-2009]",
+  "twitterid": null,
+  "youtubeid": null
+}

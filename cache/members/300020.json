@@ -1,0 +1,27 @@
+{
+  "bioguideid": "C001040",
+  "birthday": "1953-03-26",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Lincoln",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300020",
+  "lastname": "Chafee",
+  "link": "http://www.govtrack.us/congress/members/lincoln_chafee/300020",
+  "middlename": "D.",
+  "name": "Sen. Lincoln Chafee [R-RI, 1999-2006]",
+  "name_no_details": "Lincoln Chafee",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00009954",
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300020/",
+  "roles": [
+    "/api/v1/role/3907/",
+    "/api/v1/role/3908/"
+  ],
+  "sortname": "Chafee, Lincoln (Sen.) [R-RI, 1999-2006]",
+  "twitterid": null,
+  "youtubeid": null
+}

@@ -1,0 +1,27 @@
+{
+  "bioguideid": "H001028",
+  "birthday": "1946-10-04",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Charles",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300050",
+  "lastname": "Hagel",
+  "link": "http://www.govtrack.us/congress/members/charles_hagel/300050",
+  "middlename": "T.",
+  "name": "Sen. Charles “Chuck” Hagel [R-NE, 1997-2009]",
+  "name_no_details": "Charles “Chuck” Hagel",
+  "namemod": "",
+  "nickname": "Chuck",
+  "osid": "N00005301",
+  "pvsid": "231",
+  "resource_uri": "/api/v1/person/300050/",
+  "roles": [
+    "/api/v1/role/4046/",
+    "/api/v1/role/4047/"
+  ],
+  "sortname": "Hagel, Charles “Chuck” (Sen.) [R-NE, 1997-2009]",
+  "twitterid": null,
+  "youtubeid": null
+}

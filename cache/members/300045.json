@@ -1,0 +1,27 @@
+{
+  "bioguideid": "F000439",
+  "birthday": "1952-02-22",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "William",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300045",
+  "lastname": "Frist",
+  "link": "http://www.govtrack.us/congress/members/william_frist/300045",
+  "middlename": "H.",
+  "name": "Sen. William “Bill” Frist [R-TN, 1995-2006]",
+  "name_no_details": "William “Bill” Frist",
+  "namemod": "",
+  "nickname": "Bill",
+  "osid": "N00003147",
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300045/",
+  "roles": [
+    "/api/v1/role/4019/",
+    "/api/v1/role/4020/"
+  ],
+  "sortname": "Frist, William “Bill” (Sen.) [R-TN, 1995-2006]",
+  "twitterid": null,
+  "youtubeid": null
+}

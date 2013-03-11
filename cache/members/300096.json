@@ -1,0 +1,30 @@
+{
+  "bioguideid": "T000024",
+  "birthday": "1956-10-18",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "James",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300096",
+  "lastname": "Talent",
+  "link": "http://www.govtrack.us/congress/members/james_talent/300096",
+  "middlename": "M.",
+  "name": "Sen. James “Jim” Talent [R-MO, 2002-2006]",
+  "name_no_details": "James “Jim” Talent",
+  "namemod": "",
+  "nickname": "Jim",
+  "osid": "N00005004",
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300096/",
+  "roles": [
+    "/api/v1/role/4328/",
+    "/api/v1/role/4329/",
+    "/api/v1/role/4330/",
+    "/api/v1/role/4331/",
+    "/api/v1/role/4332/"
+  ],
+  "sortname": "Talent, James “Jim” (Sen.) [R-MO, 2002-2006]",
+  "twitterid": null,
+  "youtubeid": null
+}

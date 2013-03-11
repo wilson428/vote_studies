@@ -1,0 +1,28 @@
+{
+  "bioguideid": "G000352",
+  "birthday": "1936-11-09",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Bob",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300046",
+  "lastname": "Graham",
+  "link": "http://www.govtrack.us/congress/members/bob_graham/300046",
+  "middlename": "",
+  "name": "Sen. Bob Graham [D-FL, 1987-2004]",
+  "name_no_details": "Bob Graham",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00002742",
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300046/",
+  "roles": [
+    "/api/v1/role/4021/",
+    "/api/v1/role/4022/",
+    "/api/v1/role/4023/"
+  ],
+  "sortname": "Graham, Bob (Sen.) [D-FL, 1987-2004]",
+  "twitterid": null,
+  "youtubeid": null
+}

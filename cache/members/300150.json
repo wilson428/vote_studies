@@ -1,0 +1,29 @@
+{
+  "bioguideid": "M001085",
+  "birthday": "1933-03-28",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Frank",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300150",
+  "lastname": "Murkowski",
+  "link": "http://www.govtrack.us/congress/members/frank_murkowski/300150",
+  "middlename": "H.",
+  "name": "Sen. Frank Murkowski [R-AK, 1981-2002]",
+  "name_no_details": "Frank Murkowski",
+  "namemod": "",
+  "nickname": "",
+  "osid": null,
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300150/",
+  "roles": [
+    "/api/v1/role/4689/",
+    "/api/v1/role/4690/",
+    "/api/v1/role/4691/",
+    "/api/v1/role/4692/"
+  ],
+  "sortname": "Murkowski, Frank (Sen.) [R-AK, 1981-2002]",
+  "twitterid": null,
+  "youtubeid": null
+}

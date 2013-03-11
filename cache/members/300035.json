@@ -1,0 +1,26 @@
+{
+  "bioguideid": "D000601",
+  "birthday": "1936-07-29",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Elizabeth",
+  "gender": "female",
+  "gender_label": "Female",
+  "id": "300035",
+  "lastname": "Dole",
+  "link": "http://www.govtrack.us/congress/members/elizabeth_dole/300035",
+  "middlename": "H.",
+  "name": "Sen. Elizabeth Dole [R-NC, 2003-2009]",
+  "name_no_details": "Elizabeth Dole",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00008071",
+  "pvsid": "41533",
+  "resource_uri": "/api/v1/person/300035/",
+  "roles": [
+    "/api/v1/role/3976/"
+  ],
+  "sortname": "Dole, Elizabeth (Sen.) [R-NC, 2003-2009]",
+  "twitterid": null,
+  "youtubeid": null
+}

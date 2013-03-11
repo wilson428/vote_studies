@@ -1,0 +1,29 @@
+{
+  "bioguideid": "B000611",
+  "birthday": "1939-03-06",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Christopher",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300010",
+  "lastname": "Bond",
+  "link": "http://www.govtrack.us/congress/members/christopher_bond/300010",
+  "middlename": "S.",
+  "name": "Sen. Christopher “Kit” Bond [R-MO, 1987-2010]",
+  "name_no_details": "Christopher “Kit” Bond",
+  "namemod": "",
+  "nickname": "Kit",
+  "osid": "N00005178",
+  "pvsid": "53313",
+  "resource_uri": "/api/v1/person/300010/",
+  "roles": [
+    "/api/v1/role/3841/",
+    "/api/v1/role/3842/",
+    "/api/v1/role/3843/",
+    "/api/v1/role/3844/"
+  ],
+  "sortname": "Bond, Christopher “Kit” (Sen.) [R-MO, 1987-2010]",
+  "twitterid": null,
+  "youtubeid": null
+}

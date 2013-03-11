@@ -1,0 +1,33 @@
+{
+  "bioguideid": "B001066",
+  "birthday": "1931-10-23",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Jim",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300014",
+  "lastname": "Bunning",
+  "link": "http://www.govtrack.us/congress/members/jim_bunning/300014",
+  "middlename": "",
+  "name": "Sen. Jim Bunning [R-KY, 1999-2010]",
+  "name_no_details": "Jim Bunning",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00003437",
+  "pvsid": "26874",
+  "resource_uri": "/api/v1/person/300014/",
+  "roles": [
+    "/api/v1/role/3869/",
+    "/api/v1/role/3870/",
+    "/api/v1/role/3871/",
+    "/api/v1/role/3872/",
+    "/api/v1/role/3873/",
+    "/api/v1/role/3874/",
+    "/api/v1/role/3875/",
+    "/api/v1/role/3876/"
+  ],
+  "sortname": "Bunning, Jim (Sen.) [R-KY, 1999-2010]",
+  "twitterid": null,
+  "youtubeid": null
+}

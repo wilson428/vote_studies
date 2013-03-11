@@ -1,0 +1,26 @@
+{
+  "bioguideid": "G000561",
+  "birthday": "1974-02-27",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Carte",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412389",
+  "lastname": "Goodwin",
+  "link": "http://www.govtrack.us/congress/members/carte_goodwin/412389",
+  "middlename": "P.",
+  "name": "Sen. Carte Goodwin [D-WV, 2010-2010]",
+  "name_no_details": "Carte Goodwin",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00032762",
+  "pvsid": "126202",
+  "resource_uri": "/api/v1/person/412389/",
+  "roles": [
+    "/api/v1/role/41948/"
+  ],
+  "sortname": "Goodwin, Carte (Sen.) [D-WV, 2010-2010]",
+  "twitterid": null,
+  "youtubeid": null
+}

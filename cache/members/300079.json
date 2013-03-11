@@ -1,0 +1,29 @@
+{
+  "bioguideid": "N000102",
+  "birthday": "1948-12-06",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Don",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300079",
+  "lastname": "Nickles",
+  "link": "http://www.govtrack.us/congress/members/don_nickles/300079",
+  "middlename": "",
+  "name": "Sen. Don Nickles [R-OK, 1981-2004]",
+  "name_no_details": "Don Nickles",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00005617",
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300079/",
+  "roles": [
+    "/api/v1/role/4224/",
+    "/api/v1/role/4225/",
+    "/api/v1/role/4226/",
+    "/api/v1/role/4227/"
+  ],
+  "sortname": "Nickles, Don (Sen.) [R-OK, 1981-2004]",
+  "twitterid": null,
+  "youtubeid": null
+}

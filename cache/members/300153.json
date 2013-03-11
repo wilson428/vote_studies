@@ -1,0 +1,25 @@
+{
+  "bioguideid": "C001043",
+  "birthday": "1933-12-20",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Jean",
+  "gender": null,
+  "id": "300153",
+  "lastname": "Carnahan",
+  "link": "http://www.govtrack.us/congress/members/jean_carnahan/300153",
+  "middlename": "",
+  "name": "Sen. Jean Carnahan [D-MO, 2001-2002]",
+  "name_no_details": "Jean Carnahan",
+  "namemod": "",
+  "nickname": "",
+  "osid": null,
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300153/",
+  "roles": [
+    "/api/v1/role/4697/"
+  ],
+  "sortname": "Carnahan, Jean (Sen.) [D-MO, 2001-2002]",
+  "twitterid": null,
+  "youtubeid": null
+}

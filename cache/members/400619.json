@@ -1,0 +1,26 @@
+{
+  "bioguideid": "S001163",
+  "birthday": "1955-03-02",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Ken",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "400619",
+  "lastname": "Salazar",
+  "link": "http://www.govtrack.us/congress/members/ken_salazar/400619",
+  "middlename": "",
+  "name": "Sen. Ken Salazar [D-CO, 2005-2009]",
+  "name_no_details": "Ken Salazar",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00026892",
+  "pvsid": "1541",
+  "resource_uri": "/api/v1/person/400619/",
+  "roles": [
+    "/api/v1/role/5099/"
+  ],
+  "sortname": "Salazar, Ken (Sen.) [D-CO, 2005-2009]",
+  "twitterid": null,
+  "youtubeid": null
+}

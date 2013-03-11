@@ -1,0 +1,27 @@
+{
+  "bioguideid": "C001041",
+  "birthday": "1947-10-26",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Hillary",
+  "gender": "female",
+  "gender_label": "Female",
+  "id": "300022",
+  "lastname": "Clinton",
+  "link": "http://www.govtrack.us/congress/members/hillary_clinton/300022",
+  "middlename": "Rodham",
+  "name": "Sen. Hillary Clinton [D-NY, 2001-2009]",
+  "name_no_details": "Hillary Clinton",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00000019",
+  "pvsid": "55463",
+  "resource_uri": "/api/v1/person/300022/",
+  "roles": [
+    "/api/v1/role/3915/",
+    "/api/v1/role/3916/"
+  ],
+  "sortname": "Clinton, Hillary (Sen.) [D-NY, 2001-2009]",
+  "twitterid": null,
+  "youtubeid": null
+}

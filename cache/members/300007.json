@@ -1,0 +1,28 @@
+{
+  "bioguideid": "B000382",
+  "birthday": "1933-09-18",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Robert",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300007",
+  "lastname": "Bennett",
+  "link": "http://www.govtrack.us/congress/members/robert_bennett/300007",
+  "middlename": "F.",
+  "name": "Sen. Robert Bennett [R-UT, 1993-2010]",
+  "name_no_details": "Robert Bennett",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00006347",
+  "pvsid": "53351",
+  "resource_uri": "/api/v1/person/300007/",
+  "roles": [
+    "/api/v1/role/3826/",
+    "/api/v1/role/3827/",
+    "/api/v1/role/3828/"
+  ],
+  "sortname": "Bennett, Robert (Sen.) [R-UT, 1993-2010]",
+  "twitterid": null,
+  "youtubeid": null
+}

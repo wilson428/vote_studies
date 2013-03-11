@@ -1,0 +1,33 @@
+{
+  "bioguideid": "D000388",
+  "birthday": "1944-05-27",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Christopher",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300034",
+  "lastname": "Dodd",
+  "link": "http://www.govtrack.us/congress/members/christopher_dodd/300034",
+  "middlename": "J.",
+  "name": "Sen. Christopher Dodd [D-CT, 1981-2010]",
+  "name_no_details": "Christopher Dodd",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00000581",
+  "pvsid": "53277",
+  "resource_uri": "/api/v1/person/300034/",
+  "roles": [
+    "/api/v1/role/3968/",
+    "/api/v1/role/3969/",
+    "/api/v1/role/3970/",
+    "/api/v1/role/3971/",
+    "/api/v1/role/3972/",
+    "/api/v1/role/3973/",
+    "/api/v1/role/3974/",
+    "/api/v1/role/3975/"
+  ],
+  "sortname": "Dodd, Christopher (Sen.) [D-CT, 1981-2010]",
+  "twitterid": null,
+  "youtubeid": null
+}

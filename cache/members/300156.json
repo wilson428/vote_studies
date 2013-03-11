@@ -1,0 +1,33 @@
+{
+  "bioguideid": "T000317",
+  "birthday": "1951-08-27",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Robert",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300156",
+  "lastname": "Torricelli",
+  "link": "http://www.govtrack.us/congress/members/robert_torricelli/300156",
+  "middlename": "",
+  "name": "Sen. Robert Torricelli [D-NJ, 1997-2002]",
+  "name_no_details": "Robert Torricelli",
+  "namemod": "",
+  "nickname": "",
+  "osid": null,
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300156/",
+  "roles": [
+    "/api/v1/role/4708/",
+    "/api/v1/role/4709/",
+    "/api/v1/role/4710/",
+    "/api/v1/role/4711/",
+    "/api/v1/role/4712/",
+    "/api/v1/role/4713/",
+    "/api/v1/role/4714/",
+    "/api/v1/role/4715/"
+  ],
+  "sortname": "Torricelli, Robert (Sen.) [D-NJ, 1997-2002]",
+  "twitterid": null,
+  "youtubeid": null
+}

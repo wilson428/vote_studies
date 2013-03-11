@@ -1,0 +1,28 @@
+{
+  "bioguideid": "B001126",
+  "birthday": "1935-01-25",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Conrad",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300015",
+  "lastname": "Burns",
+  "link": "http://www.govtrack.us/congress/members/conrad_burns/300015",
+  "middlename": "",
+  "name": "Sen. Conrad Burns [R-MT, 1989-2006]",
+  "name_no_details": "Conrad Burns",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00004638",
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300015/",
+  "roles": [
+    "/api/v1/role/3877/",
+    "/api/v1/role/3878/",
+    "/api/v1/role/3879/"
+  ],
+  "sortname": "Burns, Conrad (Sen.) [R-MT, 1989-2006]",
+  "twitterid": null,
+  "youtubeid": null
+}

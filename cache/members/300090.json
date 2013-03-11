@@ -1,0 +1,27 @@
+{
+  "bioguideid": "S001142",
+  "birthday": "1952-05-25",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Gordon",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300090",
+  "lastname": "Smith",
+  "link": "http://www.govtrack.us/congress/members/gordon_smith/300090",
+  "middlename": "Harold",
+  "name": "Sen. Gordon Smith [R-OR, 1997-2009]",
+  "name_no_details": "Gordon Smith",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00007815",
+  "pvsid": "425",
+  "resource_uri": "/api/v1/person/300090/",
+  "roles": [
+    "/api/v1/role/4295/",
+    "/api/v1/role/4296/"
+  ],
+  "sortname": "Smith, Gordon (Sen.) [R-OR, 1997-2009]",
+  "twitterid": null,
+  "youtubeid": null
+}

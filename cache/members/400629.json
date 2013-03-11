@@ -1,0 +1,49 @@
+{
+  "bioguideid": "O000167",
+  "birthday": "1961-08-04",
+  "cspanid": null,
+  "current_role": {
+    "congress_numbers": [
+      113,
+      114,
+      115
+    ],
+    "current": true,
+    "description": "President",
+    "district": null,
+    "enddate": "2017-01-20",
+    "id": "43155",
+    "party": "Democrat",
+    "resource_uri": "/api/v1/role/43155/",
+    "role_type": "president",
+    "role_type_label": "President",
+    "senator_class": null,
+    "startdate": "2013-01-20",
+    "state": "",
+    "title": "President",
+    "title_long": "President",
+    "website": ""
+  },
+  "firstname": "Barack",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "400629",
+  "lastname": "Obama",
+  "link": "http://www.govtrack.us/congress/members/barack_obama/400629",
+  "middlename": "",
+  "name": "President Barack Obama [D]",
+  "name_no_details": "Barack Obama",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00009638",
+  "pvsid": "9490",
+  "resource_uri": "/api/v1/person/400629/",
+  "roles": [
+    "/api/v1/role/5124/",
+    "/api/v1/role/5125/",
+    "/api/v1/role/43155/"
+  ],
+  "sortname": "Obama, Barack (President) [D]",
+  "twitterid": null,
+  "youtubeid": null
+}

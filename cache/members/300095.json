@@ -1,0 +1,29 @@
+{
+  "bioguideid": "S001078",
+  "birthday": "1964-09-10",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "John",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300095",
+  "lastname": "Sununu",
+  "link": "http://www.govtrack.us/congress/members/john_sununu/300095",
+  "middlename": "E.",
+  "name": "Sen. John Sununu [R-NH, 2003-2009]",
+  "name_no_details": "John Sununu",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00000397",
+  "pvsid": "617",
+  "resource_uri": "/api/v1/person/300095/",
+  "roles": [
+    "/api/v1/role/4324/",
+    "/api/v1/role/4325/",
+    "/api/v1/role/4326/",
+    "/api/v1/role/4327/"
+  ],
+  "sortname": "Sununu, John (Sen.) [R-NH, 2003-2009]",
+  "twitterid": null,
+  "youtubeid": null
+}

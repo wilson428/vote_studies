@@ -1,0 +1,30 @@
+{
+  "bioguideid": "S000709",
+  "birthday": "1930-02-12",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Arlen",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300092",
+  "lastname": "Specter",
+  "link": "http://www.govtrack.us/congress/members/arlen_specter/300092",
+  "middlename": "",
+  "name": "Sen. Arlen Specter [D-PA, 1981-2010]",
+  "name_no_details": "Arlen Specter",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00001604",
+  "pvsid": "53340",
+  "resource_uri": "/api/v1/person/300092/",
+  "roles": [
+    "/api/v1/role/4308/",
+    "/api/v1/role/4309/",
+    "/api/v1/role/4310/",
+    "/api/v1/role/4311/",
+    "/api/v1/role/4312/"
+  ],
+  "sortname": "Specter, Arlen (Sen.) [D-PA, 1981-2010]",
+  "twitterid": null,
+  "youtubeid": null
+}

@@ -1,0 +1,26 @@
+{
+  "bioguideid": "E000286",
+  "birthday": "1953-06-10",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "John",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300039",
+  "lastname": "Edwards",
+  "link": "http://www.govtrack.us/congress/members/john_edwards/300039",
+  "middlename": "Reid",
+  "name": "Sen. John Edwards [D-NC, 1999-2004]",
+  "name_no_details": "John Edwards",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00002283",
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300039/",
+  "roles": [
+    "/api/v1/role/4003/"
+  ],
+  "sortname": "Edwards, John (Sen.) [D-NC, 1999-2004]",
+  "twitterid": null,
+  "youtubeid": null
+}

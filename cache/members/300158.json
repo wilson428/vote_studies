@@ -1,0 +1,27 @@
+{
+  "bioguideid": "T000457",
+  "birthday": "1942-08-19",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Fred",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300158",
+  "lastname": "Thompson",
+  "link": "http://www.govtrack.us/congress/members/fred_thompson/300158",
+  "middlename": "",
+  "name": "Sen. Fred Thompson [R-TN, 1994-2002]",
+  "name_no_details": "Fred Thompson",
+  "namemod": "",
+  "nickname": "",
+  "osid": null,
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300158/",
+  "roles": [
+    "/api/v1/role/4725/",
+    "/api/v1/role/4726/"
+  ],
+  "sortname": "Thompson, Fred (Sen.) [R-TN, 1994-2002]",
+  "twitterid": null,
+  "youtubeid": null
+}

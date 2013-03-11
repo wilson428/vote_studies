@@ -1,0 +1,26 @@
+{
+  "bioguideid": "D000596",
+  "birthday": "1947-01-26",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Mark",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300032",
+  "lastname": "Dayton",
+  "link": "http://www.govtrack.us/congress/members/mark_dayton/300032",
+  "middlename": "",
+  "name": "Sen. Mark Dayton [D-MN, 2001-2006]",
+  "name_no_details": "Mark Dayton",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00013291",
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300032/",
+  "roles": [
+    "/api/v1/role/3961/"
+  ],
+  "sortname": "Dayton, Mark (Sen.) [D-MN, 2001-2006]",
+  "twitterid": null,
+  "youtubeid": null
+}

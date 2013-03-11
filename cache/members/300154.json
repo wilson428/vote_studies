@@ -1,0 +1,29 @@
+{
+  "bioguideid": "H000463",
+  "birthday": "1921-10-18",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Jesse",
+  "gender": null,
+  "id": "300154",
+  "lastname": "Helms",
+  "link": "http://www.govtrack.us/congress/members/jesse_helms/300154",
+  "middlename": "",
+  "name": "Sen. Jesse Helms [R-NC, 1973-2002]",
+  "name_no_details": "Jesse Helms",
+  "namemod": "",
+  "nickname": "",
+  "osid": null,
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300154/",
+  "roles": [
+    "/api/v1/role/4698/",
+    "/api/v1/role/4699/",
+    "/api/v1/role/4700/",
+    "/api/v1/role/4701/",
+    "/api/v1/role/4702/"
+  ],
+  "sortname": "Helms, Jesse (Sen.) [R-NC, 1973-2002]",
+  "twitterid": null,
+  "youtubeid": null
+}

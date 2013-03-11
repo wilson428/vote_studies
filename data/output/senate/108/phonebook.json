@@ -1,0 +1,902 @@
+{
+  "300025": {
+    "url": "http://www.govtrack.us/congress/members/susan_collins/300025", 
+    "bioguide": "C001035", 
+    "votes": [
+      675, 
+      675
+    ], 
+    "name": "Sen. Susan Collins [R-ME]"
+  }, 
+  "300024": {
+    "url": "http://www.govtrack.us/congress/members/norm_coleman/300024", 
+    "bioguide": "C001057", 
+    "votes": [
+      670, 
+      675
+    ], 
+    "name": "Sen. Norm Coleman [R-MN, 2003-2009]"
+  }, 
+  "300027": {
+    "url": "http://www.govtrack.us/congress/members/john_cornyn/300027", 
+    "bioguide": "C001056", 
+    "votes": [
+      666, 
+      675
+    ], 
+    "name": "Sen. John Cornyn [R-TX]"
+  }, 
+  "300026": {
+    "url": "http://www.govtrack.us/congress/members/kent_conrad/300026", 
+    "bioguide": "C000705", 
+    "votes": [
+      670, 
+      675
+    ], 
+    "name": "Sen. Kent Conrad [D-ND, 1992-2013]"
+  }, 
+  "300021": {
+    "url": "http://www.govtrack.us/congress/members/saxby_chambliss/300021", 
+    "bioguide": "C000286", 
+    "votes": [
+      655, 
+      675
+    ], 
+    "name": "Sen. Saxby Chambliss [R-GA]"
+  }, 
+  "300020": {
+    "url": "http://www.govtrack.us/congress/members/lincoln_chafee/300020", 
+    "bioguide": "C001040", 
+    "votes": [
+      668, 
+      675
+    ], 
+    "name": "Sen. Lincoln Chafee [R-RI, 1999-2006]"
+  }, 
+  "300023": {
+    "url": "http://www.govtrack.us/congress/members/thad_cochran/300023", 
+    "bioguide": "C000567", 
+    "votes": [
+      671, 
+      675
+    ], 
+    "name": "Sen. Thad Cochran [R-MS]"
+  }, 
+  "300022": {
+    "url": "http://www.govtrack.us/congress/members/hillary_clinton/300022", 
+    "bioguide": "C001041", 
+    "votes": [
+      656, 
+      675
+    ], 
+    "name": "Sen. Hillary Clinton [D-NY, 2001-2009]"
+  }, 
+  "300029": {
+    "url": "http://www.govtrack.us/congress/members/larry_craig/300029", 
+    "bioguide": "C000858", 
+    "votes": [
+      667, 
+      675
+    ], 
+    "name": "Sen. Larry Craig [R-ID, 1991-2009]"
+  }, 
+  "300028": {
+    "url": "http://www.govtrack.us/congress/members/jon_corzine/300028", 
+    "bioguide": "C001042", 
+    "votes": [
+      651, 
+      675
+    ], 
+    "name": "Sen. Jon Corzine [D-NJ, 2001-2006]"
+  }, 
+  "300098": {
+    "url": "http://www.govtrack.us/congress/members/george_voinovich/300098", 
+    "bioguide": "V000126", 
+    "votes": [
+      662, 
+      675
+    ], 
+    "name": "Sen. George Voinovich [R-OH, 1999-2010]"
+  }, 
+  "300099": {
+    "url": "http://www.govtrack.us/congress/members/john_warner/300099", 
+    "bioguide": "W000154", 
+    "votes": [
+      668, 
+      675
+    ], 
+    "name": "Sen. John Warner [R-VA, 1979-2009]"
+  }, 
+  "300090": {
+    "url": "http://www.govtrack.us/congress/members/gordon_smith/300090", 
+    "bioguide": "S001142", 
+    "votes": [
+      639, 
+      675
+    ], 
+    "name": "Sen. Gordon Smith [R-OR, 1997-2009]"
+  }, 
+  "300091": {
+    "url": "http://www.govtrack.us/congress/members/olympia_snowe/300091", 
+    "bioguide": "S000663", 
+    "votes": [
+      675, 
+      675
+    ], 
+    "name": "Sen. Olympia Snowe [R-ME, 1995-2013]"
+  }, 
+  "300092": {
+    "url": "http://www.govtrack.us/congress/members/arlen_specter/300092", 
+    "bioguide": "S000709", 
+    "votes": [
+      651, 
+      675
+    ], 
+    "name": "Sen. Arlen Specter [D-PA, 1981-2010]"
+  }, 
+  "300093": {
+    "url": "http://www.govtrack.us/congress/members/debbie_stabenow/300093", 
+    "bioguide": "S000770", 
+    "votes": [
+      673, 
+      675
+    ], 
+    "name": "Sen. Debbie Stabenow [D-MI]"
+  }, 
+  "300094": {
+    "url": "http://www.govtrack.us/congress/members/ted_stevens/300094", 
+    "bioguide": "S000888", 
+    "votes": [
+      671, 
+      675
+    ], 
+    "name": "Sen. Ted Stevens [R-AK, 1968-2009]"
+  }, 
+  "300095": {
+    "url": "http://www.govtrack.us/congress/members/john_sununu/300095", 
+    "bioguide": "S001078", 
+    "votes": [
+      646, 
+      675
+    ], 
+    "name": "Sen. John Sununu [R-NH, 2003-2009]"
+  }, 
+  "300096": {
+    "url": "http://www.govtrack.us/congress/members/james_talent/300096", 
+    "bioguide": "T000024", 
+    "votes": [
+      668, 
+      675
+    ], 
+    "name": "Sen. James \u201cJim\u201d Talent [R-MO, 2002-2006]"
+  }, 
+  "300097": {
+    "url": "http://www.govtrack.us/congress/members/craig_thomas/300097", 
+    "bioguide": "T000162", 
+    "votes": [
+      664, 
+      675
+    ], 
+    "name": "Sen. Craig Thomas [R-WY, 1995-2007]"
+  }, 
+  "300010": {
+    "url": "http://www.govtrack.us/congress/members/christopher_bond/300010", 
+    "bioguide": "B000611", 
+    "votes": [
+      665, 
+      675
+    ], 
+    "name": "Sen. Christopher \u201cKit\u201d Bond [R-MO, 1987-2010]"
+  }, 
+  "300011": {
+    "url": "http://www.govtrack.us/congress/members/barbara_boxer/300011", 
+    "bioguide": "B000711", 
+    "votes": [
+      653, 
+      675
+    ], 
+    "name": "Sen. Barbara Boxer [D-CA]"
+  }, 
+  "300012": {
+    "url": "http://www.govtrack.us/congress/members/john_breaux/300012", 
+    "bioguide": "B000780", 
+    "votes": [
+      660, 
+      675
+    ], 
+    "name": "Sen. John Breaux [D-LA, 1987-2004]"
+  }, 
+  "300013": {
+    "url": "http://www.govtrack.us/congress/members/samuel_brownback/300013", 
+    "bioguide": "B000953", 
+    "votes": [
+      654, 
+      675
+    ], 
+    "name": "Sen. Samuel \u201cSam\u201d Brownback [R-KS, 1996-2010]"
+  }, 
+  "300014": {
+    "url": "http://www.govtrack.us/congress/members/jim_bunning/300014", 
+    "bioguide": "B001066", 
+    "votes": [
+      654, 
+      675
+    ], 
+    "name": "Sen. Jim Bunning [R-KY, 1999-2010]"
+  }, 
+  "300015": {
+    "url": "http://www.govtrack.us/congress/members/conrad_burns/300015", 
+    "bioguide": "B001126", 
+    "votes": [
+      668, 
+      675
+    ], 
+    "name": "Sen. Conrad Burns [R-MT, 1989-2006]"
+  }, 
+  "300016": {
+    "url": "http://www.govtrack.us/congress/members/robert_byrd/300016", 
+    "bioguide": "B001210", 
+    "votes": [
+      654, 
+      675
+    ], 
+    "name": "Sen. Robert Byrd [D-WV, 1959-2010]"
+  }, 
+  "300017": {
+    "url": "http://www.govtrack.us/congress/members/ben_campbell/300017", 
+    "bioguide": "C000077", 
+    "votes": [
+      611, 
+      675
+    ], 
+    "name": "Sen. Ben Campbell [R-CO, 1993-2004]"
+  }, 
+  "300018": {
+    "url": "http://www.govtrack.us/congress/members/maria_cantwell/300018", 
+    "bioguide": "C000127", 
+    "votes": [
+      672, 
+      675
+    ], 
+    "name": "Sen. Maria Cantwell [D-WA]"
+  }, 
+  "300019": {
+    "url": "http://www.govtrack.us/congress/members/thomas_carper/300019", 
+    "bioguide": "C000174", 
+    "votes": [
+      663, 
+      675
+    ], 
+    "name": "Sen. Thomas Carper [D-DE]"
+  }, 
+  "300087": {
+    "url": "http://www.govtrack.us/congress/members/charles_schumer/300087", 
+    "bioguide": "S000148", 
+    "votes": [
+      671, 
+      675
+    ], 
+    "name": "Sen. Charles Schumer [D-NY]"
+  }, 
+  "300086": {
+    "url": "http://www.govtrack.us/congress/members/paul_sarbanes/300086", 
+    "bioguide": "S000064", 
+    "votes": [
+      658, 
+      675
+    ], 
+    "name": "Sen. Paul Sarbanes [D-MD, 1977-2006]"
+  }, 
+  "300085": {
+    "url": "http://www.govtrack.us/congress/members/richard_santorum/300085", 
+    "bioguide": "S000059", 
+    "votes": [
+      664, 
+      675
+    ], 
+    "name": "Sen. Richard \u201cRick\u201d Santorum [R-PA, 1995-2006]"
+  }, 
+  "300084": {
+    "url": "http://www.govtrack.us/congress/members/john_rockefeller/300084", 
+    "bioguide": "R000361", 
+    "votes": [
+      672, 
+      675
+    ], 
+    "name": "Sen. John \u201cJay\u201d Rockefeller [D-WV]"
+  }, 
+  "300083": {
+    "url": "http://www.govtrack.us/congress/members/pat_roberts/300083", 
+    "bioguide": "R000307", 
+    "votes": [
+      670, 
+      675
+    ], 
+    "name": "Sen. Pat Roberts [R-KS]"
+  }, 
+  "300082": {
+    "url": "http://www.govtrack.us/congress/members/harry_reid/300082", 
+    "bioguide": "R000146", 
+    "votes": [
+      655, 
+      675
+    ], 
+    "name": "Sen. Harry Reid [D-NV]"
+  }, 
+  "300081": {
+    "url": "http://www.govtrack.us/congress/members/john_reed/300081", 
+    "bioguide": "R000122", 
+    "votes": [
+      667, 
+      675
+    ], 
+    "name": "Sen. John \u201cJack\u201d Reed [D-RI]"
+  }, 
+  "300080": {
+    "url": "http://www.govtrack.us/congress/members/mark_pryor/300080", 
+    "bioguide": "P000590", 
+    "votes": [
+      673, 
+      675
+    ], 
+    "name": "Sen. Mark Pryor [D-AR]"
+  }, 
+  "300089": {
+    "url": "http://www.govtrack.us/congress/members/richard_shelby/300089", 
+    "bioguide": "S000320", 
+    "votes": [
+      666, 
+      675
+    ], 
+    "name": "Sen. Richard Shelby [R-AL]"
+  }, 
+  "300088": {
+    "url": "http://www.govtrack.us/congress/members/jefferson_sessions/300088", 
+    "bioguide": "S001141", 
+    "votes": [
+      665, 
+      675
+    ], 
+    "name": "Sen. Jefferson \u201cJeff\u201d Sessions [R-AL]"
+  }, 
+  "300009": {
+    "url": "http://www.govtrack.us/congress/members/jeff_bingaman/300009", 
+    "bioguide": "B000468", 
+    "votes": [
+      665, 
+      675
+    ], 
+    "name": "Sen. Jeff Bingaman [D-NM, 1983-2013]"
+  }, 
+  "300008": {
+    "url": "http://www.govtrack.us/congress/members/joseph_biden/300008", 
+    "bioguide": "B000444", 
+    "votes": [
+      623, 
+      675
+    ], 
+    "name": "Sen. Joseph Biden [D-DE, 1973-2009]"
+  }, 
+  "300007": {
+    "url": "http://www.govtrack.us/congress/members/robert_bennett/300007", 
+    "bioguide": "B000382", 
+    "votes": [
+      658, 
+      675
+    ], 
+    "name": "Sen. Robert Bennett [R-UT, 1993-2010]"
+  }, 
+  "300006": {
+    "url": "http://www.govtrack.us/congress/members/evan_bayh/300006", 
+    "bioguide": "B001233", 
+    "votes": [
+      667, 
+      675
+    ], 
+    "name": "Sen. Evan Bayh [D-IN, 1999-2010]"
+  }, 
+  "300005": {
+    "url": "http://www.govtrack.us/congress/members/max_baucus/300005", 
+    "bioguide": "B000243", 
+    "votes": [
+      658, 
+      675
+    ], 
+    "name": "Sen. Max Baucus [D-MT]"
+  }, 
+  "300004": {
+    "url": "http://www.govtrack.us/congress/members/george_allen/300004", 
+    "bioguide": "A000121", 
+    "votes": [
+      673, 
+      675
+    ], 
+    "name": "Sen. George Allen [R-VA, 2001-2006]"
+  }, 
+  "300003": {
+    "url": "http://www.govtrack.us/congress/members/wayne_allard/300003", 
+    "bioguide": "A000109", 
+    "votes": [
+      672, 
+      675
+    ], 
+    "name": "Sen. Wayne Allard [R-CO, 1997-2009]"
+  }, 
+  "300002": {
+    "url": "http://www.govtrack.us/congress/members/lamar_alexander/300002", 
+    "bioguide": "A000360", 
+    "votes": [
+      662, 
+      675
+    ], 
+    "name": "Sen. Lamar Alexander [R-TN]"
+  }, 
+  "300001": {
+    "url": "http://www.govtrack.us/congress/members/daniel_akaka/300001", 
+    "bioguide": "A000069", 
+    "votes": [
+      639, 
+      675
+    ], 
+    "name": "Sen. Daniel Akaka [D-HI, 1990-2013]"
+  }, 
+  "300078": {
+    "url": "http://www.govtrack.us/congress/members/bill_nelson/300078", 
+    "bioguide": "N000032", 
+    "votes": [
+      662, 
+      675
+    ], 
+    "name": "Sen. Bill Nelson [D-FL]"
+  }, 
+  "300079": {
+    "url": "http://www.govtrack.us/congress/members/don_nickles/300079", 
+    "bioguide": "N000102", 
+    "votes": [
+      668, 
+      675
+    ], 
+    "name": "Sen. Don Nickles [R-OK, 1981-2004]"
+  }, 
+  "300072": {
+    "url": "http://www.govtrack.us/congress/members/mitch_mcconnell/300072", 
+    "bioguide": "M000355", 
+    "votes": [
+      651, 
+      675
+    ], 
+    "name": "Sen. Mitch McConnell [R-KY]"
+  }, 
+  "300073": {
+    "url": "http://www.govtrack.us/congress/members/barbara_mikulski/300073", 
+    "bioguide": "M000702", 
+    "votes": [
+      659, 
+      675
+    ], 
+    "name": "Sen. Barbara Mikulski [D-MD]"
+  }, 
+  "300070": {
+    "url": "http://www.govtrack.us/congress/members/richard_lugar/300070", 
+    "bioguide": "L000504", 
+    "votes": [
+      660, 
+      675
+    ], 
+    "name": "Sen. Richard Lugar [R-IN, 1977-2013]"
+  }, 
+  "300071": {
+    "url": "http://www.govtrack.us/congress/members/john_mccain/300071", 
+    "bioguide": "M000303", 
+    "votes": [
+      663, 
+      675
+    ], 
+    "name": "Sen. John McCain [R-AZ]"
+  }, 
+  "300076": {
+    "url": "http://www.govtrack.us/congress/members/patty_murray/300076", 
+    "bioguide": "M001111", 
+    "votes": [
+      666, 
+      675
+    ], 
+    "name": "Sen. Patty Murray [D-WA]"
+  }, 
+  "300077": {
+    "url": "http://www.govtrack.us/congress/members/ben_nelson/300077", 
+    "bioguide": "N000180", 
+    "votes": [
+      656, 
+      675
+    ], 
+    "name": "Sen. Ben Nelson [D-NE, 2001-2013]"
+  }, 
+  "300074": {
+    "url": "http://www.govtrack.us/congress/members/zell_miller/300074", 
+    "bioguide": "M001141", 
+    "votes": [
+      554, 
+      675
+    ], 
+    "name": "Sen. Zell Miller [D-GA, 2000-2004]"
+  }, 
+  "300075": {
+    "url": "http://www.govtrack.us/congress/members/lisa_murkowski/300075", 
+    "bioguide": "M001153", 
+    "votes": [
+      638, 
+      675
+    ], 
+    "name": "Sen. Lisa Murkowski [R-AK]"
+  }, 
+  "300069": {
+    "url": "http://www.govtrack.us/congress/members/trent_lott/300069", 
+    "bioguide": "L000447", 
+    "votes": [
+      655, 
+      675
+    ], 
+    "name": "Sen. Trent Lott [R-MS, 1989-2007]"
+  }, 
+  "300068": {
+    "url": "http://www.govtrack.us/congress/members/blanche_lincoln/300068", 
+    "bioguide": "L000035", 
+    "votes": [
+      667, 
+      675
+    ], 
+    "name": "Sen. Blanche Lincoln [D-AR, 1999-2010]"
+  }, 
+  "300100": {
+    "url": "http://www.govtrack.us/congress/members/ron_wyden/300100", 
+    "bioguide": "W000779", 
+    "votes": [
+      670, 
+      675
+    ], 
+    "name": "Sen. Ron Wyden [D-OR]"
+  }, 
+  "300061": {
+    "url": "http://www.govtrack.us/congress/members/herbert_kohl/300061", 
+    "bioguide": "K000305", 
+    "votes": [
+      668, 
+      675
+    ], 
+    "name": "Sen. Herbert \u201cHerb\u201d Kohl [D-WI, 1989-2013]"
+  }, 
+  "300060": {
+    "url": "http://www.govtrack.us/congress/members/john_kerry/300060", 
+    "bioguide": "K000148", 
+    "votes": [
+      187, 
+      675
+    ], 
+    "name": "Sen. John Kerry [D-MA, 1985-2013]"
+  }, 
+  "300063": {
+    "url": "http://www.govtrack.us/congress/members/mary_landrieu/300063", 
+    "bioguide": "L000550", 
+    "votes": [
+      661, 
+      675
+    ], 
+    "name": "Sen. Mary Landrieu [D-LA]"
+  }, 
+  "300062": {
+    "url": "http://www.govtrack.us/congress/members/jon_kyl/300062", 
+    "bioguide": "K000352", 
+    "votes": [
+      668, 
+      675
+    ], 
+    "name": "Sen. Jon Kyl [R-AZ, 1995-2013]"
+  }, 
+  "300065": {
+    "url": "http://www.govtrack.us/congress/members/patrick_leahy/300065", 
+    "bioguide": "L000174", 
+    "votes": [
+      662, 
+      675
+    ], 
+    "name": "Sen. Patrick Leahy [D-VT]"
+  }, 
+  "300064": {
+    "url": "http://www.govtrack.us/congress/members/frank_lautenberg/300064", 
+    "bioguide": "L000123", 
+    "votes": [
+      656, 
+      675
+    ], 
+    "name": "Sen. Frank Lautenberg [D-NJ]"
+  }, 
+  "300067": {
+    "url": "http://www.govtrack.us/congress/members/joseph_lieberman/300067", 
+    "bioguide": "L000304", 
+    "votes": [
+      411, 
+      675
+    ], 
+    "name": "Sen. Joseph Lieberman [I-CT, 1989-2013]"
+  }, 
+  "300066": {
+    "url": "http://www.govtrack.us/congress/members/carl_levin/300066", 
+    "bioguide": "L000261", 
+    "votes": [
+      675, 
+      675
+    ], 
+    "name": "Sen. Carl Levin [D-MI]"
+  }, 
+  "300054": {
+    "url": "http://www.govtrack.us/congress/members/kay_hutchison/300054", 
+    "bioguide": "H001016", 
+    "votes": [
+      663, 
+      675
+    ], 
+    "name": "Sen. Kay Hutchison [R-TX, 1993-2013]"
+  }, 
+  "300055": {
+    "url": "http://www.govtrack.us/congress/members/james_inhofe/300055", 
+    "bioguide": "I000024", 
+    "votes": [
+      652, 
+      675
+    ], 
+    "name": "Sen. James \u201cJim\u201d Inhofe [R-OK]"
+  }, 
+  "300056": {
+    "url": "http://www.govtrack.us/congress/members/daniel_inouye/300056", 
+    "bioguide": "I000025", 
+    "votes": [
+      609, 
+      675
+    ], 
+    "name": "Sen. Daniel Inouye [D-HI, 1963-2012]"
+  }, 
+  "300057": {
+    "url": "http://www.govtrack.us/congress/members/james_jeffords/300057", 
+    "bioguide": "J000072", 
+    "votes": [
+      650, 
+      675
+    ], 
+    "name": "Sen. James \u201cJim\u201d Jeffords [I-VT, 1989-2006]"
+  }, 
+  "300050": {
+    "url": "http://www.govtrack.us/congress/members/charles_hagel/300050", 
+    "bioguide": "H001028", 
+    "votes": [
+      655, 
+      675
+    ], 
+    "name": "Sen. Charles \u201cChuck\u201d Hagel [R-NE, 1997-2009]"
+  }, 
+  "300051": {
+    "url": "http://www.govtrack.us/congress/members/thomas_harkin/300051", 
+    "bioguide": "H000206", 
+    "votes": [
+      642, 
+      675
+    ], 
+    "name": "Sen. Thomas \u201cTom\u201d Harkin [D-IA]"
+  }, 
+  "300052": {
+    "url": "http://www.govtrack.us/congress/members/orrin_hatch/300052", 
+    "bioguide": "H000338", 
+    "votes": [
+      668, 
+      675
+    ], 
+    "name": "Sen. Orrin Hatch [R-UT]"
+  }, 
+  "300053": {
+    "url": "http://www.govtrack.us/congress/members/ernest_hollings/300053", 
+    "bioguide": "H000725", 
+    "votes": [
+      625, 
+      675
+    ], 
+    "name": "Sen. Ernest \u201cFritz\u201d Hollings [D-SC, 1966-2004]"
+  }, 
+  "300058": {
+    "url": "http://www.govtrack.us/congress/members/tim_johnson/300058", 
+    "bioguide": "J000177", 
+    "votes": [
+      635, 
+      675
+    ], 
+    "name": "Sen. Tim Johnson [D-SD]"
+  }, 
+  "300059": {
+    "url": "http://www.govtrack.us/congress/members/edward_kennedy/300059", 
+    "bioguide": "K000105", 
+    "votes": [
+      648, 
+      675
+    ], 
+    "name": "Sen. Edward \u201cTed\u201d Kennedy [D-MA, 1962-2009]"
+  }, 
+  "300043": {
+    "url": "http://www.govtrack.us/congress/members/dianne_feinstein/300043", 
+    "bioguide": "F000062", 
+    "votes": [
+      664, 
+      675
+    ], 
+    "name": "Sen. Dianne Feinstein [D-CA]"
+  }, 
+  "300042": {
+    "url": "http://www.govtrack.us/congress/members/russell_feingold/300042", 
+    "bioguide": "F000061", 
+    "votes": [
+      675, 
+      675
+    ], 
+    "name": "Sen. Russell Feingold [D-WI, 1993-2010]"
+  }, 
+  "300041": {
+    "url": "http://www.govtrack.us/congress/members/michael_enzi/300041", 
+    "bioguide": "E000285", 
+    "votes": [
+      671, 
+      675
+    ], 
+    "name": "Sen. Michael Enzi [R-WY]"
+  }, 
+  "300040": {
+    "url": "http://www.govtrack.us/congress/members/john_ensign/300040", 
+    "bioguide": "E000194", 
+    "votes": [
+      661, 
+      675
+    ], 
+    "name": "Sen. John Ensign [R-NV, 2001-2011]"
+  }, 
+  "300047": {
+    "url": "http://www.govtrack.us/congress/members/lindsey_graham/300047", 
+    "bioguide": "G000359", 
+    "votes": [
+      664, 
+      675
+    ], 
+    "name": "Sen. Lindsey Graham [R-SC]"
+  }, 
+  "300046": {
+    "url": "http://www.govtrack.us/congress/members/bob_graham/300046", 
+    "bioguide": "G000352", 
+    "votes": [
+      505, 
+      675
+    ], 
+    "name": "Sen. Bob Graham [D-FL, 1987-2004]"
+  }, 
+  "300045": {
+    "url": "http://www.govtrack.us/congress/members/william_frist/300045", 
+    "bioguide": "F000439", 
+    "votes": [
+      672, 
+      675
+    ], 
+    "name": "Sen. William \u201cBill\u201d Frist [R-TN, 1995-2006]"
+  }, 
+  "300044": {
+    "url": "http://www.govtrack.us/congress/members/peter_fitzgerald/300044", 
+    "bioguide": "F000442", 
+    "votes": [
+      662, 
+      675
+    ], 
+    "name": "Sen. Peter Fitzgerald [R-IL, 1999-2004]"
+  }, 
+  "300049": {
+    "url": "http://www.govtrack.us/congress/members/judd_gregg/300049", 
+    "bioguide": "G000445", 
+    "votes": [
+      659, 
+      675
+    ], 
+    "name": "Sen. Judd Gregg [R-NH, 1993-2010]"
+  }, 
+  "300048": {
+    "url": "http://www.govtrack.us/congress/members/charles_grassley/300048", 
+    "bioguide": "G000386", 
+    "votes": [
+      675, 
+      675
+    ], 
+    "name": "Sen. Charles \u201cChuck\u201d Grassley [R-IA]"
+  }, 
+  "300036": {
+    "url": "http://www.govtrack.us/congress/members/pete_domenici/300036", 
+    "bioguide": "D000407", 
+    "votes": [
+      615, 
+      675
+    ], 
+    "name": "Sen. Pete Domenici [R-NM, 1973-2009]"
+  }, 
+  "300037": {
+    "url": "http://www.govtrack.us/congress/members/byron_dorgan/300037", 
+    "bioguide": "D000432", 
+    "votes": [
+      670, 
+      675
+    ], 
+    "name": "Sen. Byron Dorgan [D-ND, 1992-2010]"
+  }, 
+  "300034": {
+    "url": "http://www.govtrack.us/congress/members/christopher_dodd/300034", 
+    "bioguide": "D000388", 
+    "votes": [
+      664, 
+      675
+    ], 
+    "name": "Sen. Christopher Dodd [D-CT, 1981-2010]"
+  }, 
+  "300035": {
+    "url": "http://www.govtrack.us/congress/members/elizabeth_dole/300035", 
+    "bioguide": "D000601", 
+    "votes": [
+      669, 
+      675
+    ], 
+    "name": "Sen. Elizabeth Dole [R-NC, 2003-2009]"
+  }, 
+  "300032": {
+    "url": "http://www.govtrack.us/congress/members/mark_dayton/300032", 
+    "bioguide": "D000596", 
+    "votes": [
+      661, 
+      675
+    ], 
+    "name": "Sen. Mark Dayton [D-MN, 2001-2006]"
+  }, 
+  "300033": {
+    "url": "http://www.govtrack.us/congress/members/michael_dewine/300033", 
+    "bioguide": "D000294", 
+    "votes": [
+      674, 
+      675
+    ], 
+    "name": "Sen. Michael \u201cMike\u201d DeWine [R-OH, 1995-2006]"
+  }, 
+  "300030": {
+    "url": "http://www.govtrack.us/congress/members/michael_crapo/300030", 
+    "bioguide": "C000880", 
+    "votes": [
+      666, 
+      675
+    ], 
+    "name": "Sen. Michael Crapo [R-ID]"
+  }, 
+  "300031": {
+    "url": "http://www.govtrack.us/congress/members/thomas_daschle/300031", 
+    "bioguide": "D000064", 
+    "votes": [
+      668, 
+      675
+    ], 
+    "name": "Sen. Thomas \u201cTom\u201d Daschle [D-SD, 1987-2004]"
+  }, 
+  "300038": {
+    "url": "http://www.govtrack.us/congress/members/richard_durbin/300038", 
+    "bioguide": "D000563", 
+    "votes": [
+      665, 
+      675
+    ], 
+    "name": "Sen. Richard Durbin [D-IL]"
+  }, 
+  "300039": {
+    "url": "http://www.govtrack.us/congress/members/john_edwards/300039", 
+    "bioguide": "E000286", 
+    "votes": [
+      370, 
+      675
+    ], 
+    "name": "Sen. John Edwards [D-NC, 1999-2004]"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "bioguideid": "C000077",
+  "birthday": "1933-04-13",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Ben",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300017",
+  "lastname": "Campbell",
+  "link": "http://www.govtrack.us/congress/members/ben_campbell/300017",
+  "middlename": "Nighthorse",
+  "name": "Sen. Ben Campbell [R-CO, 1993-2004]",
+  "name_no_details": "Ben Campbell",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00006202",
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300017/",
+  "roles": [
+    "/api/v1/role/3892/",
+    "/api/v1/role/3893/",
+    "/api/v1/role/3894/",
+    "/api/v1/role/3895/",
+    "/api/v1/role/3896/"
+  ],
+  "sortname": "Campbell, Ben (Sen.) [R-CO, 1993-2004]",
+  "twitterid": null,
+  "youtubeid": null
+}

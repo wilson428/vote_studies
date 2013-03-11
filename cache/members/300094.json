@@ -1,0 +1,32 @@
+{
+  "bioguideid": "S000888",
+  "birthday": "1923-11-18",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Ted",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300094",
+  "lastname": "Stevens",
+  "link": "http://www.govtrack.us/congress/members/ted_stevens/300094",
+  "middlename": "F.",
+  "name": "Sen. Ted Stevens [R-AK, 1968-2009]",
+  "name_no_details": "Ted Stevens",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00007997",
+  "pvsid": "53268",
+  "resource_uri": "/api/v1/person/300094/",
+  "roles": [
+    "/api/v1/role/4317/",
+    "/api/v1/role/4318/",
+    "/api/v1/role/4319/",
+    "/api/v1/role/4320/",
+    "/api/v1/role/4321/",
+    "/api/v1/role/4322/",
+    "/api/v1/role/4323/"
+  ],
+  "sortname": "Stevens, Ted (Sen.) [R-AK, 1968-2009]",
+  "twitterid": null,
+  "youtubeid": null
+}

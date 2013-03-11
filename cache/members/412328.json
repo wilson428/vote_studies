@@ -1,0 +1,26 @@
+{
+  "bioguideid": "B001266",
+  "birthday": "1937-08-03",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Roland",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412328",
+  "lastname": "Burris",
+  "link": "http://www.govtrack.us/congress/members/roland_burris/412328",
+  "middlename": "",
+  "name": "Sen. Roland Burris [D-IL, 2009-2010]",
+  "name_no_details": "Roland Burris",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00015389",
+  "pvsid": "18168",
+  "resource_uri": "/api/v1/person/412328/",
+  "roles": [
+    "/api/v1/role/41912/"
+  ],
+  "sortname": "Burris, Roland (Sen.) [D-IL, 2009-2010]",
+  "twitterid": null,
+  "youtubeid": null
+}

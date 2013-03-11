@@ -1,0 +1,30 @@
+{
+  "bioguideid": "W000154",
+  "birthday": "1927-02-18",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "John",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300099",
+  "lastname": "Warner",
+  "link": "http://www.govtrack.us/congress/members/john_warner/300099",
+  "middlename": "W.",
+  "name": "Sen. John Warner [R-VA, 1979-2009]",
+  "name_no_details": "John Warner",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00002061",
+  "pvsid": "53356",
+  "resource_uri": "/api/v1/person/300099/",
+  "roles": [
+    "/api/v1/role/4341/",
+    "/api/v1/role/4342/",
+    "/api/v1/role/4343/",
+    "/api/v1/role/4344/",
+    "/api/v1/role/4345/"
+  ],
+  "sortname": "Warner, John (Sen.) [R-VA, 1979-2009]",
+  "twitterid": null,
+  "youtubeid": null
+}

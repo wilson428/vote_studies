@@ -1,0 +1,27 @@
+{
+  "bioguideid": "A000121",
+  "birthday": "1952-03-08",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "George",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300004",
+  "lastname": "Allen",
+  "link": "http://www.govtrack.us/congress/members/george_allen/300004",
+  "middlename": "Felix",
+  "name": "Sen. George Allen [R-VA, 2001-2006]",
+  "name_no_details": "George Allen",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00009957",
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300004/",
+  "roles": [
+    "/api/v1/role/3813/",
+    "/api/v1/role/3814/"
+  ],
+  "sortname": "Allen, George (Sen.) [R-VA, 2001-2006]",
+  "twitterid": null,
+  "youtubeid": null
+}

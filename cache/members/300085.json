@@ -1,0 +1,29 @@
+{
+  "bioguideid": "S000059",
+  "birthday": "1958-05-10",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Richard",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300085",
+  "lastname": "Santorum",
+  "link": "http://www.govtrack.us/congress/members/richard_santorum/300085",
+  "middlename": "J.",
+  "name": "Sen. Richard “Rick” Santorum [R-PA, 1995-2006]",
+  "name_no_details": "Richard “Rick” Santorum",
+  "namemod": "",
+  "nickname": "Rick",
+  "osid": "N00001380",
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300085/",
+  "roles": [
+    "/api/v1/role/4259/",
+    "/api/v1/role/4260/",
+    "/api/v1/role/4261/",
+    "/api/v1/role/4262/"
+  ],
+  "sortname": "Santorum, Richard “Rick” (Sen.) [R-PA, 1995-2006]",
+  "twitterid": null,
+  "youtubeid": null
+}

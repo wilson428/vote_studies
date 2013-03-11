@@ -1,0 +1,33 @@
+{
+  "bioguideid": "C000858",
+  "birthday": "1945-07-20",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Larry",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300029",
+  "lastname": "Craig",
+  "link": "http://www.govtrack.us/congress/members/larry_craig/300029",
+  "middlename": "E.",
+  "name": "Sen. Larry Craig [R-ID, 1991-2009]",
+  "name_no_details": "Larry Craig",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00002091",
+  "pvsid": "53288",
+  "resource_uri": "/api/v1/person/300029/",
+  "roles": [
+    "/api/v1/role/3940/",
+    "/api/v1/role/3941/",
+    "/api/v1/role/3942/",
+    "/api/v1/role/3943/",
+    "/api/v1/role/3944/",
+    "/api/v1/role/3945/",
+    "/api/v1/role/3946/",
+    "/api/v1/role/3947/"
+  ],
+  "sortname": "Craig, Larry (Sen.) [R-ID, 1991-2009]",
+  "twitterid": null,
+  "youtubeid": null
+}

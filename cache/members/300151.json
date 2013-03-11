@@ -1,0 +1,28 @@
+{
+  "bioguideid": "H001015",
+  "birthday": "1949-08-11",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Tim",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300151",
+  "lastname": "Hutchinson",
+  "link": "http://www.govtrack.us/congress/members/tim_hutchinson/300151",
+  "middlename": "",
+  "name": "Sen. Tim Hutchinson [R-AR, 1997-2002]",
+  "name_no_details": "Tim Hutchinson",
+  "namemod": "",
+  "nickname": "",
+  "osid": null,
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300151/",
+  "roles": [
+    "/api/v1/role/4693/",
+    "/api/v1/role/4694/",
+    "/api/v1/role/4695/"
+  ],
+  "sortname": "Hutchinson, Tim (Sen.) [R-AR, 1997-2002]",
+  "twitterid": null,
+  "youtubeid": null
+}

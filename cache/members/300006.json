@@ -1,0 +1,27 @@
+{
+  "bioguideid": "B001233",
+  "birthday": "1955-12-26",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Evan",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300006",
+  "lastname": "Bayh",
+  "link": "http://www.govtrack.us/congress/members/evan_bayh/300006",
+  "middlename": "",
+  "name": "Sen. Evan Bayh [D-IN, 1999-2010]",
+  "name_no_details": "Evan Bayh",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00003762",
+  "pvsid": "22418",
+  "resource_uri": "/api/v1/person/300006/",
+  "roles": [
+    "/api/v1/role/3824/",
+    "/api/v1/role/3825/"
+  ],
+  "sortname": "Bayh, Evan (Sen.) [D-IN, 1999-2010]",
+  "twitterid": null,
+  "youtubeid": null
+}

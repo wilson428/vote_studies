@@ -1,0 +1,26 @@
+{
+  "bioguideid": "L000572",
+  "birthday": "1969-05-21",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "George",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412380",
+  "lastname": "LeMieux",
+  "link": "http://www.govtrack.us/congress/members/george_lemieux/412380",
+  "middlename": "S.",
+  "name": "Sen. George LeMieux [R-FL, 2009-2010]",
+  "name_no_details": "George LeMieux",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00031304",
+  "pvsid": "17431",
+  "resource_uri": "/api/v1/person/412380/",
+  "roles": [
+    "/api/v1/role/41935/"
+  ],
+  "sortname": "LeMieux, George (Sen.) [R-FL, 2009-2010]",
+  "twitterid": null,
+  "youtubeid": null
+}

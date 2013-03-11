@@ -1,0 +1,29 @@
+{
+  "bioguideid": "B000953",
+  "birthday": "1956-09-12",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Samuel",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300013",
+  "lastname": "Brownback",
+  "link": "http://www.govtrack.us/congress/members/samuel_brownback/300013",
+  "middlename": "D.",
+  "name": "Sen. Samuel “Sam” Brownback [R-KS, 1996-2010]",
+  "name_no_details": "Samuel “Sam” Brownback",
+  "namemod": "",
+  "nickname": "Sam",
+  "osid": "N00005244",
+  "pvsid": "21952",
+  "resource_uri": "/api/v1/person/300013/",
+  "roles": [
+    "/api/v1/role/3865/",
+    "/api/v1/role/3866/",
+    "/api/v1/role/3867/",
+    "/api/v1/role/3868/"
+  ],
+  "sortname": "Brownback, Samuel “Sam” (Sen.) [R-KS, 1996-2010]",
+  "twitterid": null,
+  "youtubeid": null
+}

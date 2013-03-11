@@ -1,0 +1,26 @@
+{
+  "bioguideid": "B001237",
+  "birthday": "1950-08-31",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Dean",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "401147",
+  "lastname": "Barkley",
+  "link": "http://www.govtrack.us/congress/members/dean_barkley/401147",
+  "middlename": "",
+  "name": "Sen. Dean Barkley [I-MN, 2002-2002]",
+  "name_no_details": "Dean Barkley",
+  "namemod": "",
+  "nickname": "",
+  "osid": null,
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/401147/",
+  "roles": [
+    "/api/v1/role/6812/"
+  ],
+  "sortname": "Barkley, Dean (Sen.) [I-MN, 2002-2002]",
+  "twitterid": null,
+  "youtubeid": null
+}

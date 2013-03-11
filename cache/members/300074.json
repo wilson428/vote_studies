@@ -1,0 +1,26 @@
+{
+  "bioguideid": "M001141",
+  "birthday": "1932-02-24",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Zell",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300074",
+  "lastname": "Miller",
+  "link": "http://www.govtrack.us/congress/members/zell_miller/300074",
+  "middlename": "Bryan",
+  "name": "Sen. Zell Miller [D-GA, 2000-2004]",
+  "name_no_details": "Zell Miller",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00013436",
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300074/",
+  "roles": [
+    "/api/v1/role/4206/"
+  ],
+  "sortname": "Miller, Zell (Sen.) [D-GA, 2000-2004]",
+  "twitterid": null,
+  "youtubeid": null
+}

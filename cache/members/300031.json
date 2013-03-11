@@ -1,0 +1,32 @@
+{
+  "bioguideid": "D000064",
+  "birthday": "1947-12-09",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Thomas",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300031",
+  "lastname": "Daschle",
+  "link": "http://www.govtrack.us/congress/members/thomas_daschle/300031",
+  "middlename": "A.",
+  "name": "Sen. Thomas “Tom” Daschle [D-SD, 1987-2004]",
+  "name_no_details": "Thomas “Tom” Daschle",
+  "namemod": "",
+  "nickname": "Tom",
+  "osid": "N00004583",
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300031/",
+  "roles": [
+    "/api/v1/role/3954/",
+    "/api/v1/role/3955/",
+    "/api/v1/role/3956/",
+    "/api/v1/role/3957/",
+    "/api/v1/role/3958/",
+    "/api/v1/role/3959/",
+    "/api/v1/role/3960/"
+  ],
+  "sortname": "Daschle, Thomas “Tom” (Sen.) [D-SD, 1987-2004]",
+  "twitterid": null,
+  "youtubeid": null
+}

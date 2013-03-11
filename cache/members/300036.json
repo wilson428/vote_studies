@@ -1,0 +1,31 @@
+{
+  "bioguideid": "D000407",
+  "birthday": "1932-05-07",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Pete",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300036",
+  "lastname": "Domenici",
+  "link": "http://www.govtrack.us/congress/members/pete_domenici/300036",
+  "middlename": "V.",
+  "name": "Sen. Pete Domenici [R-NM, 1973-2009]",
+  "name_no_details": "Pete Domenici",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00006515",
+  "pvsid": "53325",
+  "resource_uri": "/api/v1/person/300036/",
+  "roles": [
+    "/api/v1/role/3977/",
+    "/api/v1/role/3978/",
+    "/api/v1/role/3979/",
+    "/api/v1/role/3980/",
+    "/api/v1/role/3981/",
+    "/api/v1/role/3982/"
+  ],
+  "sortname": "Domenici, Pete (Sen.) [R-NM, 1973-2009]",
+  "twitterid": null,
+  "youtubeid": null
+}

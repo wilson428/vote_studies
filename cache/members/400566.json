@@ -1,0 +1,27 @@
+{
+  "bioguideid": "W000288",
+  "birthday": "1944-07-21",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Paul",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "400566",
+  "lastname": "Wellstone",
+  "link": "http://www.govtrack.us/congress/members/paul_wellstone/400566",
+  "middlename": "David",
+  "name": "Sen. Paul Wellstone [D-MN, 1991-2002]",
+  "name_no_details": "Paul Wellstone",
+  "namemod": "",
+  "nickname": "",
+  "osid": null,
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/400566/",
+  "roles": [
+    "/api/v1/role/4764/",
+    "/api/v1/role/4765/"
+  ],
+  "sortname": "Wellstone, Paul (Sen.) [D-MN, 1991-2002]",
+  "twitterid": null,
+  "youtubeid": null
+}

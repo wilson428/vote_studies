@@ -1,0 +1,26 @@
+{
+  "bioguideid": "C001042",
+  "birthday": "1947-01-01",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Jon",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300028",
+  "lastname": "Corzine",
+  "link": "http://www.govtrack.us/congress/members/jon_corzine/300028",
+  "middlename": "Stevens",
+  "name": "Sen. Jon Corzine [D-NJ, 2001-2006]",
+  "name_no_details": "Jon Corzine",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00009945",
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300028/",
+  "roles": [
+    "/api/v1/role/3939/"
+  ],
+  "sortname": "Corzine, Jon (Sen.) [D-NJ, 2001-2006]",
+  "twitterid": null,
+  "youtubeid": null
+}

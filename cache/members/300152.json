@@ -1,0 +1,25 @@
+{
+  "bioguideid": "C001034",
+  "birthday": "1942-08-24",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "J.",
+  "gender": null,
+  "id": "300152",
+  "lastname": "Cleland",
+  "link": "http://www.govtrack.us/congress/members/maxwell_cleland/300152",
+  "middlename": "Maxwell",
+  "name": "Sen. Maxwell Cleland [D-GA, 1997-2002]",
+  "name_no_details": "Maxwell Cleland",
+  "namemod": "",
+  "nickname": "",
+  "osid": null,
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300152/",
+  "roles": [
+    "/api/v1/role/4696/"
+  ],
+  "sortname": "Cleland, Maxwell (Sen.) [D-GA, 1997-2002]",
+  "twitterid": null,
+  "youtubeid": null
+}

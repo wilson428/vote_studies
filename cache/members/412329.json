@@ -1,0 +1,26 @@
+{
+  "bioguideid": "K000373",
+  "birthday": "1939-03-15",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Edward",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "412329",
+  "lastname": "Kaufman",
+  "link": "http://www.govtrack.us/congress/members/edward_kaufman/412329",
+  "middlename": "E.",
+  "name": "Sen. Edward Kaufman [D-DE, 2009-2010]",
+  "name_no_details": "Edward Kaufman",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00030767",
+  "pvsid": "110918",
+  "resource_uri": "/api/v1/person/412329/",
+  "roles": [
+    "/api/v1/role/41913/"
+  ],
+  "sortname": "Kaufman, Edward (Sen.) [D-DE, 2009-2010]",
+  "twitterid": null,
+  "youtubeid": null
+}

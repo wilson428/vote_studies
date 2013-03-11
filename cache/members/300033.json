@@ -1,0 +1,31 @@
+{
+  "bioguideid": "D000294",
+  "birthday": "1947-01-05",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Michael",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300033",
+  "lastname": "DeWine",
+  "link": "http://www.govtrack.us/congress/members/michael_dewine/300033",
+  "middlename": "",
+  "name": "Sen. Michael “Mike” DeWine [R-OH, 1995-2006]",
+  "name_no_details": "Michael “Mike” DeWine",
+  "namemod": "",
+  "nickname": "Mike",
+  "osid": "N00003709",
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300033/",
+  "roles": [
+    "/api/v1/role/3962/",
+    "/api/v1/role/3963/",
+    "/api/v1/role/3964/",
+    "/api/v1/role/3965/",
+    "/api/v1/role/3966/",
+    "/api/v1/role/3967/"
+  ],
+  "sortname": "DeWine, Michael “Mike” (Sen.) [R-OH, 1995-2006]",
+  "twitterid": null,
+  "youtubeid": null
+}

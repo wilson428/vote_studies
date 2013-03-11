@@ -1,0 +1,30 @@
+{
+  "bioguideid": "S000606",
+  "birthday": "1941-03-30",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Bob",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300155",
+  "lastname": "Smith",
+  "link": "http://www.govtrack.us/congress/members/bob_smith/300155",
+  "middlename": "",
+  "name": "Sen. Bob Smith [R-NH, 1990-2002]",
+  "name_no_details": "Bob Smith",
+  "namemod": "",
+  "nickname": "",
+  "osid": null,
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300155/",
+  "roles": [
+    "/api/v1/role/4703/",
+    "/api/v1/role/4704/",
+    "/api/v1/role/4705/",
+    "/api/v1/role/4706/",
+    "/api/v1/role/4707/"
+  ],
+  "sortname": "Smith, Bob (Sen.) [R-NH, 1990-2002]",
+  "twitterid": null,
+  "youtubeid": null
+}

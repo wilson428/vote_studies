@@ -1,0 +1,32 @@
+{
+  "bioguideid": "G000445",
+  "birthday": "1947-02-14",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Judd",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300049",
+  "lastname": "Gregg",
+  "link": "http://www.govtrack.us/congress/members/judd_gregg/300049",
+  "middlename": "A.",
+  "name": "Sen. Judd Gregg [R-NH, 1993-2010]",
+  "name_no_details": "Judd Gregg",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00000444",
+  "pvsid": "53321",
+  "resource_uri": "/api/v1/person/300049/",
+  "roles": [
+    "/api/v1/role/4039/",
+    "/api/v1/role/4040/",
+    "/api/v1/role/4041/",
+    "/api/v1/role/4042/",
+    "/api/v1/role/4043/",
+    "/api/v1/role/4044/",
+    "/api/v1/role/4045/"
+  ],
+  "sortname": "Gregg, Judd (Sen.) [R-NH, 1993-2010]",
+  "twitterid": null,
+  "youtubeid": null
+}

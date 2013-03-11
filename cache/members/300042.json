@@ -1,0 +1,28 @@
+{
+  "bioguideid": "F000061",
+  "birthday": "1953-03-02",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Russell",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300042",
+  "lastname": "Feingold",
+  "link": "http://www.govtrack.us/congress/members/russell_feingold/300042",
+  "middlename": "D.",
+  "name": "Sen. Russell Feingold [D-WI, 1993-2010]",
+  "name_no_details": "Russell Feingold",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00000036",
+  "pvsid": "53361",
+  "resource_uri": "/api/v1/person/300042/",
+  "roles": [
+    "/api/v1/role/4011/",
+    "/api/v1/role/4012/",
+    "/api/v1/role/4013/"
+  ],
+  "sortname": "Feingold, Russell (Sen.) [D-WI, 1993-2010]",
+  "twitterid": null,
+  "youtubeid": null
+}

@@ -1,0 +1,33 @@
+{
+  "bioguideid": "S000064",
+  "birthday": "1933-02-03",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Paul",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300086",
+  "lastname": "Sarbanes",
+  "link": "http://www.govtrack.us/congress/members/paul_sarbanes/300086",
+  "middlename": "S.",
+  "name": "Sen. Paul Sarbanes [D-MD, 1977-2006]",
+  "name_no_details": "Paul Sarbanes",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00001979",
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300086/",
+  "roles": [
+    "/api/v1/role/4263/",
+    "/api/v1/role/4264/",
+    "/api/v1/role/4265/",
+    "/api/v1/role/4266/",
+    "/api/v1/role/4267/",
+    "/api/v1/role/4268/",
+    "/api/v1/role/4269/",
+    "/api/v1/role/4270/"
+  ],
+  "sortname": "Sarbanes, Paul (Sen.) [D-MD, 1977-2006]",
+  "twitterid": null,
+  "youtubeid": null
+}

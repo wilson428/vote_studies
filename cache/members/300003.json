@@ -1,0 +1,30 @@
+{
+  "bioguideid": "A000109",
+  "birthday": "1943-12-02",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Wayne",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300003",
+  "lastname": "Allard",
+  "link": "http://www.govtrack.us/congress/members/wayne_allard/300003",
+  "middlename": "A.",
+  "name": "Sen. Wayne Allard [R-CO, 1997-2009]",
+  "name_no_details": "Wayne Allard",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00009082",
+  "pvsid": "26783",
+  "resource_uri": "/api/v1/person/300003/",
+  "roles": [
+    "/api/v1/role/3808/",
+    "/api/v1/role/3809/",
+    "/api/v1/role/3810/",
+    "/api/v1/role/3811/",
+    "/api/v1/role/3812/"
+  ],
+  "sortname": "Allard, Wayne (Sen.) [R-CO, 1997-2009]",
+  "twitterid": null,
+  "youtubeid": null
+}

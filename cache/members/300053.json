@@ -1,0 +1,32 @@
+{
+  "bioguideid": "H000725",
+  "birthday": "1922-01-01",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Ernest",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300053",
+  "lastname": "Hollings",
+  "link": "http://www.govtrack.us/congress/members/ernest_hollings/300053",
+  "middlename": "F.",
+  "name": "Sen. Ernest “Fritz” Hollings [D-SC, 1966-2004]",
+  "name_no_details": "Ernest “Fritz” Hollings",
+  "namemod": "",
+  "nickname": "Fritz",
+  "osid": "N00002423",
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300053/",
+  "roles": [
+    "/api/v1/role/4064/",
+    "/api/v1/role/4065/",
+    "/api/v1/role/4066/",
+    "/api/v1/role/4067/",
+    "/api/v1/role/4068/",
+    "/api/v1/role/4069/",
+    "/api/v1/role/4070/"
+  ],
+  "sortname": "Hollings, Ernest “Fritz” (Sen.) [D-SC, 1966-2004]",
+  "twitterid": null,
+  "youtubeid": null
+}

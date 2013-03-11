@@ -1,0 +1,32 @@
+{
+  "bioguideid": "B000444",
+  "birthday": "1942-11-20",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Joseph",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300008",
+  "lastname": "Biden",
+  "link": "http://www.govtrack.us/congress/members/joseph_biden/300008",
+  "middlename": "R.",
+  "name": "Sen. Joseph Biden [D-DE, 1973-2009]",
+  "name_no_details": "Joseph Biden Jr.",
+  "namemod": "Jr.",
+  "nickname": "",
+  "osid": "N00001669",
+  "pvsid": "53279",
+  "resource_uri": "/api/v1/person/300008/",
+  "roles": [
+    "/api/v1/role/3829/",
+    "/api/v1/role/3830/",
+    "/api/v1/role/3831/",
+    "/api/v1/role/3832/",
+    "/api/v1/role/3833/",
+    "/api/v1/role/3834/",
+    "/api/v1/role/3835/"
+  ],
+  "sortname": "Biden, Joseph (Sen.) [D-DE, 1973-2009]",
+  "twitterid": null,
+  "youtubeid": null
+}

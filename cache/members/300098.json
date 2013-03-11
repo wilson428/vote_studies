@@ -1,0 +1,27 @@
+{
+  "bioguideid": "V000126",
+  "birthday": "1936-07-15",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "George",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300098",
+  "lastname": "Voinovich",
+  "link": "http://www.govtrack.us/congress/members/george_voinovich/300098",
+  "middlename": "V.",
+  "name": "Sen. George Voinovich [R-OH, 1999-2010]",
+  "name_no_details": "George Voinovich",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00003583",
+  "pvsid": "21745",
+  "resource_uri": "/api/v1/person/300098/",
+  "roles": [
+    "/api/v1/role/4339/",
+    "/api/v1/role/4340/"
+  ],
+  "sortname": "Voinovich, George (Sen.) [R-OH, 1999-2010]",
+  "twitterid": null,
+  "youtubeid": null
+}

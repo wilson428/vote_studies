@@ -1,0 +1,31 @@
+{
+  "bioguideid": "G000365",
+  "birthday": "1942-07-08",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Phil",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "300159",
+  "lastname": "Gramm",
+  "link": "http://www.govtrack.us/congress/members/phil_gramm/300159",
+  "middlename": "",
+  "name": "Sen. Phil Gramm [R-TX, 1985-2002]",
+  "name_no_details": "Phil Gramm",
+  "namemod": "",
+  "nickname": "",
+  "osid": null,
+  "pvsid": null,
+  "resource_uri": "/api/v1/person/300159/",
+  "roles": [
+    "/api/v1/role/4727/",
+    "/api/v1/role/4728/",
+    "/api/v1/role/4729/",
+    "/api/v1/role/4730/",
+    "/api/v1/role/4731/",
+    "/api/v1/role/4732/"
+  ],
+  "sortname": "Gramm, Phil (Sen.) [R-TX, 1985-2002]",
+  "twitterid": null,
+  "youtubeid": null
+}

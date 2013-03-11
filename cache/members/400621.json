@@ -1,0 +1,26 @@
+{
+  "bioguideid": "M001162",
+  "birthday": "1946-10-23",
+  "cspanid": null,
+  "current_role": null,
+  "firstname": "Mel",
+  "gender": "male",
+  "gender_label": "Male",
+  "id": "400621",
+  "lastname": "Martinez",
+  "link": "http://www.govtrack.us/congress/members/mel_martinez/400621",
+  "middlename": "",
+  "name": "Sen. Mel Martinez [R-FL, 2005-2009]",
+  "name_no_details": "Mel Martinez",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00026748",
+  "pvsid": "31193",
+  "resource_uri": "/api/v1/person/400621/",
+  "roles": [
+    "/api/v1/role/5103/"
+  ],
+  "sortname": "Martinez, Mel (Sen.) [R-FL, 2005-2009]",
+  "twitterid": null,
+  "youtubeid": null
+}
