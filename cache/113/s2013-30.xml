@@ -1,0 +1,111 @@
+<roll where="senate" session="113" year="2013" roll="30" datetime="2013-03-06T10:44:00-05:00" updated="2013-03-06T15:15:07-05:00" aye="51" nay="41" present="0" nv="8" source="senate.gov">
+  <category>cloture</category>
+  <type>On the Cloture Motion</type>
+  <question>On the Cloture Motion PN2: Caitlin Joan Halligan, of New York, to be United States Circuit Judge for the District of Columbia Circuit</question>
+  <required>3/5</required>
+  <result>Cloture Motion Rejected</result>
+  <option key="+">Yea</option>
+  <option key="-">Nay</option>
+  <option key="P">Present</option>
+  <option key="0">Not Voting</option>
+  <voter vote="+" state="WI" id="400013" value="Yea"/>
+  <voter vote="+" state="MT" id="300005" value="Yea"/>
+  <voter vote="+" state="AK" id="412326" value="Yea"/>
+  <voter vote="+" state="CO" id="412330" value="Yea"/>
+  <voter vote="+" state="CT" id="412490" value="Yea"/>
+  <voter vote="+" state="CA" id="300011" value="Yea"/>
+  <voter vote="+" state="OH" id="400050" value="Yea"/>
+  <voter vote="+" state="WA" id="300018" value="Yea"/>
+  <voter vote="+" state="MD" id="400064" value="Yea"/>
+  <voter vote="+" state="DE" id="300019" value="Yea"/>
+  <voter vote="+" state="PA" id="412246" value="Yea"/>
+  <voter vote="+" state="DE" id="412390" value="Yea"/>
+  <voter vote="+" state="MA" id="412586" value="Yea"/>
+  <voter vote="+" state="IN" id="412205" value="Yea"/>
+  <voter vote="+" state="IL" id="300038" value="Yea"/>
+  <voter vote="+" state="CA" id="300043" value="Yea"/>
+  <voter vote="+" state="MN" id="412378" value="Yea"/>
+  <voter vote="+" state="NY" id="412223" value="Yea"/>
+  <voter vote="+" state="NC" id="412324" value="Yea"/>
+  <voter vote="+" state="IA" id="300051" value="Yea"/>
+  <voter vote="+" state="NM" id="412281" value="Yea"/>
+  <voter vote="+" state="ND" id="412554" value="Yea"/>
+  <voter vote="+" state="HI" id="412200" value="Yea"/>
+  <voter vote="+" state="VA" id="412582" value="Yea"/>
+  <voter vote="+" state="ME" id="412545" value="Yea"/>
+  <voter vote="+" state="MN" id="412242" value="Yea"/>
+  <voter vote="+" state="LA" id="300063" value="Yea"/>
+  <voter vote="+" state="VT" id="300065" value="Yea"/>
+  <voter vote="+" state="MI" id="300066" value="Yea"/>
+  <voter vote="+" state="WV" id="412391" value="Yea"/>
+  <voter vote="+" state="MO" id="412243" value="Yea"/>
+  <voter vote="+" state="NJ" id="400272" value="Yea"/>
+  <voter vote="+" state="OR" id="412325" value="Yea"/>
+  <voter vote="+" state="AK" id="300075" value="Yea"/>
+  <voter vote="+" state="CT" id="412194" value="Yea"/>
+  <voter vote="+" state="WA" id="300076" value="Yea"/>
+  <voter vote="+" state="FL" id="300078" value="Yea"/>
+  <voter vote="+" state="AR" id="300080" value="Yea"/>
+  <voter vote="+" state="RI" id="300081" value="Yea"/>
+  <voter vote="+" state="WV" id="300084" value="Yea"/>
+  <voter vote="+" state="VT" id="400357" value="Yea"/>
+  <voter vote="+" state="HI" id="412507" value="Yea"/>
+  <voter vote="+" state="NY" id="300087" value="Yea"/>
+  <voter vote="+" state="NH" id="412323" value="Yea"/>
+  <voter vote="+" state="MI" id="300093" value="Yea"/>
+  <voter vote="+" state="MT" id="412244" value="Yea"/>
+  <voter vote="+" state="NM" id="400413" value="Yea"/>
+  <voter vote="+" state="VA" id="412321" value="Yea"/>
+  <voter vote="+" state="MA" id="412542" value="Yea"/>
+  <voter vote="+" state="RI" id="412247" value="Yea"/>
+  <voter vote="+" state="OR" id="300100" value="Yea"/>
+  <voter vote="-" state="TN" id="300002" value="Nay"/>
+  <voter vote="-" state="NH" id="412493" value="Nay"/>
+  <voter vote="-" state="WY" id="412251" value="Nay"/>
+  <voter vote="-" state="MO" id="400034" value="Nay"/>
+  <voter vote="-" state="AR" id="400040" value="Nay"/>
+  <voter vote="-" state="NC" id="400054" value="Nay"/>
+  <voter vote="-" state="GA" id="300021" value="Nay"/>
+  <voter vote="-" state="IN" id="402675" value="Nay"/>
+  <voter vote="-" state="OK" id="400576" value="Nay"/>
+  <voter vote="-" state="MS" id="300023" value="Nay"/>
+  <voter vote="-" state="ME" id="300025" value="Nay"/>
+  <voter vote="-" state="TN" id="412248" value="Nay"/>
+  <voter vote="-" state="TX" id="300027" value="Nay"/>
+  <voter vote="-" state="TX" id="412573" value="Nay"/>
+  <voter vote="-" state="WY" id="300041" value="Nay"/>
+  <voter vote="-" state="NE" id="412556" value="Nay"/>
+  <voter vote="-" state="AZ" id="400134" value="Nay"/>
+  <voter vote="-" state="SC" id="300047" value="Nay"/>
+  <voter vote="-" state="IA" id="300048" value="Nay"/>
+  <voter vote="-" state="NV" id="412218" value="Nay"/>
+  <voter vote="-" state="ND" id="412494" value="Nay"/>
+  <voter vote="-" state="OK" id="300055" value="Nay"/>
+  <voter vote="-" state="GA" id="400194" value="Nay"/>
+  <voter vote="-" state="WI" id="412496" value="Nay"/>
+  <voter vote="-" state="IL" id="400222" value="Nay"/>
+  <voter vote="-" state="UT" id="412495" value="Nay"/>
+  <voter vote="-" state="AZ" id="300071" value="Nay"/>
+  <voter vote="-" state="KY" id="300072" value="Nay"/>
+  <voter vote="-" state="KS" id="400284" value="Nay"/>
+  <voter vote="-" state="KY" id="412492" value="Nay"/>
+  <voter vote="-" state="OH" id="400325" value="Nay"/>
+  <voter vote="-" state="NV" id="300082" value="Nay"/>
+  <voter vote="-" state="ID" id="412322" value="Nay"/>
+  <voter vote="-" state="KS" id="300083" value="Nay"/>
+  <voter vote="-" state="FL" id="412491" value="Nay"/>
+  <voter vote="-" state="SC" id="412471" value="Nay"/>
+  <voter vote="-" state="AL" id="300088" value="Nay"/>
+  <voter vote="-" state="AL" id="300089" value="Nay"/>
+  <voter vote="-" state="SD" id="400546" value="Nay"/>
+  <voter vote="-" state="PA" id="400408" value="Nay"/>
+  <voter vote="-" state="MS" id="400432" value="Nay"/>
+  <voter vote="0" state="ID" id="300030" value="Not Voting"/>
+  <voter vote="0" state="UT" id="300052" value="Not Voting"/>
+  <voter vote="0" state="NE" id="412320" value="Not Voting"/>
+  <voter vote="0" state="SD" id="300058" value="Not Voting"/>
+  <voter vote="0" state="NJ" id="300064" value="Not Voting"/>
+  <voter vote="0" state="MD" id="300073" value="Not Voting"/>
+  <voter vote="0" state="CO" id="400412" value="Not Voting"/>
+  <voter vote="0" state="LA" id="400418" value="Not Voting"/>
+</roll>

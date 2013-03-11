@@ -16,7 +16,6 @@ def fetch_votes(session, rootdir):
     for vote in [x for x in votes.xpath("//a/@href") if x[-4:] == ".xml"]:
         chamber = "house" if vote[0] == 'h' else "senate"
         url = "http://www.govtrack.us/data/us/%s/rolls/%s" % (session, vote)
-        print url
         doc = download(url, session + "/" + vote)
         doc = doc.replace("&", "&amp;")
         try:
