@@ -9,6 +9,8 @@ from collections import defaultdict
 from utils import write
 import argparse
 
+replacements = json.load(open(os.getcwd() + 
+
 def get_cross(session, chamber, rootdir):
     base = "http://www.govtrack.us/data/us/%s/rolls/" % session
     chamber = 'senate'

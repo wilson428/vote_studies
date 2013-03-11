@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -57,25 +56,35 @@
             <div class="title">Vote Patterns</div>
             <div class="intro"></div>
             <div class="control">
-                <div style="display: inline-block; width: 400px">
+                <div class="left">
                     <div class="label">Connect <span id="members">senators</span> who voted together at least <span id="thresh">75%</span> of the time</div>
                     <div class="slider" id="slider"></div>
                 </div>        
-                <div style="display: inline-block; width: 180px">
-                    <select id="roster" data-placeholder="Choose a senator..." style="width:180px;" class="chzn-select">
+                <div class="right">
+                    <div class="subhead">SESSION</div>
+                    <select id="sessions" data-placeholder="Choose a session..." style="width:180px;" class="chzn-select">
                         <option value=""></option>
                     </select>
                 </div>
             </div>
-    		<div class="canvas" id="canvas"></div>
-        	<div class="kiosk" id="kiosk">
-                <div class="head"></div>            
-                <div class="details"></div>            
-                <img class="pic" />    
-                <div class="databox"></div>                
-                <div class="bff"></div>                
+            <div class="funstuff">
+                <div class="left">
+                	<div class="canvas" id="canvas" style="width:400px;float:left"></div>
+                </div>
+                <div class="right">
+                    <div class="subhead">LAWMAKER</div>
+                    <select id="roster" data-placeholder="Choose a senator..." style="width:180px;" class="chzn-select">
+                        <option value=""></option>
+                    </select>
+                    <div class="kiosk" id="kiosk">
+                        <div class="head"></div>            
+                        <div class="details"></div>            
+                        <img class="pic" />    
+                        <div class="databox"></div>                
+                        <div class="bff"></div>                
+                    </div>
+                </div>
             </div>
-            <div style="clear: both"></div>
             <div class="notes">[Notes]</div>
         	<div class="btn"><a id="data" href="" target="_blank">DATA</a></div>    
     		<div class="btn"><a id="source" href="" target="_blank">SOURCE</a></div>
@@ -98,29 +107,45 @@
         <script src="src/js/init.js"></script>
         <script>
 /*global d3 tooltip*/
-$.when($.get("data/output/senate/113/crossvote.json"), $.get("data/output/senate/113/phonebook.json")).then(function(d1, d2) {
-    init(d1[0], d2[0]);
-    //init(JSON.parse(d1[0]), JSON.parse(d2[0]));
-});
+
 
 var width = 380,
     height = 380,
     margin = 50,
+    sessions = [110, 113],
     session = 113,
     floor = 12,
     start = 75;
+    
+for (var s=sessions[0]; s <= sessions[1]; s += 1) {
+    $("<option />", {
+        value: s,
+        html: s
+    }).appendTo("#sessions");
+}
 
-$('#slider').slider("value", start);
-$('#thresh').html(start + "%");
+load(113);
 
-function init(crossvote, phonebook) {
+function load(session) {
+    d3.select("#sessions > option[value='113']").attr("selected", "true");
+    $.when($.get("data/output/senate/" + session + "/crossvote.json"), $.get("data/output/senate/" + session + "/phonebook.json")).then(function(d1, d2) {
+        make(d1[0], d2[0]);
+        //init(JSON.parse(d1[0]), JSON.parse(d2[0]));
+    });
+}
+
+function make(crossvote, phonebook) {
+    $('#slider').slider("value", start);
+    $('#thresh').html(start + "%");
+
     var members = d3.keys(phonebook),
         nodes = {},
         links = {},
         every_link = {},
         besties = {},
         nodebook;
-        
+    
+
     // make list of nodes
     for (var c = 0; c < members.length; c += 1) {
         if (phonebook[members[c]].votes >= floor) {
@@ -137,11 +162,12 @@ function init(crossvote, phonebook) {
             $("<option />", {
                 value: nodes[members[c]].id,
                 html: nodes[members[c]].realname
-            }).appendTo("#roster");
+            }).appendTo("#roster");            
         }
     }
 
     $("#roster").chosen();
+    //$("#sessions").chosen();
 
     $.each(crossvote, function(i, v) {
         $.each(v, function(ii, vv) {

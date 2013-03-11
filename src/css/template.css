@@ -17,9 +17,9 @@ body {
 .subhead {
   font-family: 'Roboto', sans-serif;
   color: steelblue;
-  font-size: 14px;
+  font-size: 12px;
   font-weight: bold;
-  margin: 6px 0 0 0;
+  margin: 3px 0 0 0;
 }
 
 .title {
@@ -37,6 +37,7 @@ body {
 .control {
     font-size: 12px;
     margin-bottom: 10px;
+    height: 50px;
 }
 
 #canvas {
@@ -155,11 +156,6 @@ a {
     font-size: 12px;
 }
 
-.subhead {
-    font-size: 12px;
-    font-weight: bold;
-}
-
 .bff {
     font-size: 12px;
     max-height: 120px;
@@ -171,4 +167,15 @@ a {
     position: relative;
     left: 385px;
     cursor: pointer;
+}
+
+.left {
+    width: 400px;
+    float: left;
+}
+
+.right {
+    width: 180px;
+    float: left;
+    margin-left: 15px;
 }

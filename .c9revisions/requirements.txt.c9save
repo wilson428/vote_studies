@@ -1,4 +1,0 @@
-{"ts":1361390074238,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"scrapelib\nargparse\nlogging\nlxml"]],"start1":0,"start2":0,"length1":0,"length2":31}]],"length":31}
-{"contributors":[],"silentsave":true,"ts":1361832865620,"patch":[[{"diffs":[[0,"ing\nlxml"],[1,">=2.2"]],"start1":23,"start2":23,"length1":8,"length2":13}]],"length":36,"saved":false}
-{"ts":1361832868294,"patch":[[{"diffs":[[0,"rse\n"],[-1,"logging\n"],[0,"lxml"]],"start1":15,"start2":15,"length1":16,"length2":8}]],"length":28,"saved":false}
-{"ts":1361833109928,"patch":[[{"diffs":[[0,"rgparse\n"],[1,"logging\n"],[0,"lxml>=2."]],"start1":11,"start2":11,"length1":16,"length2":24}]],"length":36,"saved":false}
