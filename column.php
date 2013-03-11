@@ -63,7 +63,6 @@
                 <div class="right">
                     <div class="subhead">SESSION</div>
                     <select id="sessions" data-placeholder="Choose a session..." style="width:180px;" class="chzn-select">
-                        <option value=""></option>
                     </select>
                 </div>
             </div>
@@ -85,6 +84,7 @@
                     </div>
                 </div>
             </div>
+            <div style="clear:both"></div>
             <div class="notes">[Notes]</div>
         	<div class="btn"><a id="data" href="" target="_blank">DATA</a></div>    
     		<div class="btn"><a id="source" href="" target="_blank">SOURCE</a></div>
@@ -107,13 +107,10 @@
         <script src="src/js/init.js"></script>
         <script>
 /*global d3 tooltip*/
-
-
 var width = 380,
     height = 380,
     margin = 50,
     sessions = [110, 113],
-    session = 113,
     floor = 12,
     start = 75;
     
@@ -137,18 +134,17 @@ function load(session) {
 function make(crossvote, phonebook) {
     $('#slider').slider("value", start);
     $('#thresh').html(start + "%");
-
+    
     var members = d3.keys(phonebook),
         nodes = {},
         links = {},
         every_link = {},
         besties = {},
         nodebook;
-    
 
     // make list of nodes
     for (var c = 0; c < members.length; c += 1) {
-        if (phonebook[members[c]].votes >= floor) {
+        if (phonebook[members[c]].votes[1] >= floor) {
             nodes[members[c]] = { 
                 id: members[c],
                 name: phonebook[members[c]].name,
@@ -166,8 +162,7 @@ function make(crossvote, phonebook) {
         }
     }
 
-    $("#roster").chosen();
-    //$("#sessions").chosen();
+    $("#roster").chosen();    
 
     $.each(crossvote, function(i, v) {
         $.each(v, function(ii, vv) {
@@ -183,8 +178,7 @@ function make(crossvote, phonebook) {
         });
     });
     
-    //optional party filter
-    
+    //optional party filter    
     
     //get besties
     var besties = {}
