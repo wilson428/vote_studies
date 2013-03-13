@@ -13,6 +13,9 @@ All voting information comes from the incomparably awesome GovTrack.us. To preve
 
 If you insist on downloading them yourself, you can do so by running the ```fetch.py``` script:
 
+Information on members comes from the congress-legislators project on the [United States GitHub group)[https://github.com/unitedstates/congress-legislators].
+The YAML files from this project were converted to JSON for continuity and indexed by govtrack ID for easy lookup
+
 ### fetch.py
 Options:
 
