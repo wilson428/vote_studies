@@ -1,920 +1,1226 @@
 {
   "400576": {
-    "url": "http://www.govtrack.us/congress/members/thomas_coburn/400576", 
     "bioguide": "C000560", 
+    "last": "Coburn", 
+    "name": "Tom Coburn", 
+    "url": "http://www.coburn.senate.gov", 
     "votes": [
       454, 
       486
     ], 
-    "name": "Sen. Thomas Coburn [R-OK]"
+    "state": "OK", 
+    "party": "Republican"
   }, 
   "400222": {
-    "url": "http://www.govtrack.us/congress/members/mark_kirk/400222", 
     "bioguide": "K000360", 
+    "last": "Kirk", 
+    "name": "Mark Kirk", 
+    "url": "http://www.kirk.senate.gov", 
     "votes": [
       223, 
       486
     ], 
-    "name": "Sen. Mark Kirk [R-IL]"
+    "state": "IL", 
+    "party": "Republican"
   }, 
   "300025": {
-    "url": "http://www.govtrack.us/congress/members/susan_collins/300025", 
     "bioguide": "C001035", 
+    "last": "Collins", 
+    "name": "Susan M. Collins", 
+    "url": "http://www.collins.senate.gov", 
     "votes": [
       486, 
       486
     ], 
-    "name": "Sen. Susan Collins [R-ME]"
+    "state": "ME", 
+    "party": "Republican"
   }, 
   "300027": {
-    "url": "http://www.govtrack.us/congress/members/john_cornyn/300027", 
     "bioguide": "C001056", 
+    "last": "Cornyn", 
+    "name": "John Cornyn", 
+    "url": "http://www.cornyn.senate.gov", 
     "votes": [
       480, 
       486
     ], 
-    "name": "Sen. John Cornyn [R-TX]"
+    "state": "TX", 
+    "party": "Republican"
   }, 
   "300026": {
-    "url": "http://www.govtrack.us/congress/members/kent_conrad/300026", 
     "bioguide": "C000705", 
+    "last": "Conrad", 
+    "name": "Kent Conrad", 
+    "url": "http://conrad.senate.gov", 
     "votes": [
       474, 
       486
     ], 
-    "name": "Sen. Kent Conrad [D-ND, 1992-2013]"
+    "state": "ND", 
+    "party": "Democrat"
   }, 
   "300021": {
-    "url": "http://www.govtrack.us/congress/members/saxby_chambliss/300021", 
     "bioguide": "C000286", 
+    "last": "Chambliss", 
+    "name": "Saxby Chambliss", 
+    "url": "http://www.chambliss.senate.gov", 
     "votes": [
       470, 
       486
     ], 
-    "name": "Sen. Saxby Chambliss [R-GA]"
+    "state": "GA", 
+    "party": "Republican"
   }, 
   "300023": {
-    "url": "http://www.govtrack.us/congress/members/thad_cochran/300023", 
     "bioguide": "C000567", 
+    "last": "Cochran", 
+    "name": "Thad Cochran", 
+    "url": "http://www.cochran.senate.gov", 
     "votes": [
       482, 
       486
     ], 
-    "name": "Sen. Thad Cochran [R-MS]"
+    "state": "MS", 
+    "party": "Republican"
   }, 
   "400034": {
-    "url": "http://www.govtrack.us/congress/members/roy_blunt/400034", 
     "bioguide": "B000575", 
+    "last": "Blunt", 
+    "name": "Roy Blunt", 
+    "url": "http://www.blunt.senate.gov", 
     "votes": [
       475, 
       486
     ], 
-    "name": "Sen. Roy Blunt [R-MO]"
+    "state": "MO", 
+    "party": "Republican"
   }, 
   "412507": {
-    "url": "http://www.govtrack.us/congress/members/brian_schatz/412507", 
     "bioguide": "S001194", 
+    "last": "Schatz", 
+    "name": "Brian Schatz", 
+    "url": "http://www.schatz.senate.gov", 
     "votes": [
       20, 
       20
     ], 
-    "name": "Sen. Brian Schatz [D-HI]"
+    "state": "HI", 
+    "party": "Democrat"
   }, 
   "400408": {
-    "url": "http://www.govtrack.us/congress/members/patrick_toomey/400408", 
     "bioguide": "T000461", 
+    "last": "Toomey", 
+    "name": "Patrick J. Toomey", 
+    "url": "http://www.toomey.senate.gov", 
     "votes": [
       477, 
       486
     ], 
-    "name": "Sen. Patrick \u201cPat\u201d Toomey [R-PA]"
+    "state": "PA", 
+    "party": "Republican"
   }, 
   "412378": {
-    "url": "http://www.govtrack.us/congress/members/alan_franken/412378", 
     "bioguide": "F000457", 
+    "last": "Franken", 
+    "name": "Al Franken", 
+    "url": "http://www.franken.senate.gov", 
     "votes": [
       484, 
       486
     ], 
-    "name": "Sen. Alan \u201cAl\u201d Franken [D-MN]"
+    "state": "MN", 
+    "party": "Democrat"
   }, 
   "300091": {
-    "url": "http://www.govtrack.us/congress/members/olympia_snowe/300091", 
     "bioguide": "S000663", 
+    "last": "Snowe", 
+    "name": "Olympia J. Snowe", 
+    "url": "http://snowe.senate.gov/", 
     "votes": [
       486, 
       486
     ], 
-    "name": "Sen. Olympia Snowe [R-ME, 1995-2013]"
+    "state": "ME", 
+    "party": "Republican"
   }, 
   "300093": {
-    "url": "http://www.govtrack.us/congress/members/debbie_stabenow/300093", 
     "bioguide": "S000770", 
+    "last": "Stabenow", 
+    "name": "Debbie Stabenow", 
+    "url": "http://www.stabenow.senate.gov", 
     "votes": [
       479, 
       486
     ], 
-    "name": "Sen. Debbie Stabenow [D-MI]"
+    "state": "MI", 
+    "party": "Democrat"
   }, 
   "300011": {
-    "url": "http://www.govtrack.us/congress/members/barbara_boxer/300011", 
     "bioguide": "B000711", 
+    "last": "Boxer", 
+    "name": "Barbara Boxer", 
+    "url": "http://www.boxer.senate.gov", 
     "votes": [
       447, 
       486
     ], 
-    "name": "Sen. Barbara Boxer [D-CA]"
+    "state": "CA", 
+    "party": "Democrat"
   }, 
   "300018": {
-    "url": "http://www.govtrack.us/congress/members/maria_cantwell/300018", 
     "bioguide": "C000127", 
+    "last": "Cantwell", 
+    "name": "Maria Cantwell", 
+    "url": "http://www.cantwell.senate.gov", 
     "votes": [
       484, 
       486
     ], 
-    "name": "Sen. Maria Cantwell [D-WA]"
+    "state": "WA", 
+    "party": "Democrat"
   }, 
   "300019": {
-    "url": "http://www.govtrack.us/congress/members/thomas_carper/300019", 
     "bioguide": "C000174", 
+    "last": "Carper", 
+    "name": "Thomas R. Carper", 
+    "url": "http://www.carper.senate.gov", 
     "votes": [
       485, 
       486
     ], 
-    "name": "Sen. Thomas Carper [D-DE]"
+    "state": "DE", 
+    "party": "Democrat"
   }, 
   "400432": {
-    "url": "http://www.govtrack.us/congress/members/roger_wicker/400432", 
     "bioguide": "W000437", 
+    "last": "Wicker", 
+    "name": "Roger F. Wicker", 
+    "url": "http://www.wicker.senate.gov", 
     "votes": [
       472, 
       486
     ], 
-    "name": "Sen. Roger Wicker [R-MS]"
+    "state": "MS", 
+    "party": "Republican"
   }, 
   "400105": {
-    "url": "http://www.govtrack.us/congress/members/jim_demint/400105", 
     "bioguide": "D000595", 
+    "last": "DeMint", 
+    "name": "Jim DeMint", 
+    "url": "http://demint.senate.gov", 
     "votes": [
       431, 
       486
     ], 
-    "name": "Sen. Jim DeMint [R-SC, 2005-2013]"
+    "state": "SC", 
+    "party": "Republican"
   }, 
   "412384": {
-    "url": "http://www.govtrack.us/congress/members/scott_brown/412384", 
     "bioguide": "B001268", 
+    "last": "Brown", 
+    "name": "Scott P. Brown", 
+    "url": "http://scottbrown.senate.gov", 
     "votes": [
       482, 
       486
     ], 
-    "name": "Sen. Scott Brown [R-MA, 2010-2013]"
+    "state": "MA", 
+    "party": "Republican"
   }, 
   "400325": {
-    "url": "http://www.govtrack.us/congress/members/robert_portman/400325", 
     "bioguide": "P000449", 
+    "last": "Portman", 
+    "name": "Rob Portman", 
+    "url": "http://www.portman.senate.gov", 
     "votes": [
       481, 
       486
     ], 
-    "name": "Sen. Robert \u201cRob\u201d Portman [R-OH]"
+    "state": "OH", 
+    "party": "Republican"
   }, 
   "300087": {
-    "url": "http://www.govtrack.us/congress/members/charles_schumer/300087", 
     "bioguide": "S000148", 
+    "last": "Schumer", 
+    "name": "Charles E. Schumer", 
+    "url": "http://www.schumer.senate.gov", 
     "votes": [
       477, 
       486
     ], 
-    "name": "Sen. Charles Schumer [D-NY]"
+    "state": "NY", 
+    "party": "Democrat"
   }, 
   "300084": {
-    "url": "http://www.govtrack.us/congress/members/john_rockefeller/300084", 
     "bioguide": "R000361", 
+    "last": "Rockefeller", 
+    "name": "John D. Rockefeller, IV", 
+    "url": "http://www.rockefeller.senate.gov", 
     "votes": [
       441, 
       486
     ], 
-    "name": "Sen. John \u201cJay\u201d Rockefeller [D-WV]"
+    "state": "WV", 
+    "party": "Democrat"
   }, 
   "300083": {
-    "url": "http://www.govtrack.us/congress/members/pat_roberts/300083", 
     "bioguide": "R000307", 
+    "last": "Roberts", 
+    "name": "Pat Roberts", 
+    "url": "http://www.roberts.senate.gov", 
     "votes": [
       467, 
       486
     ], 
-    "name": "Sen. Pat Roberts [R-KS]"
+    "state": "KS", 
+    "party": "Republican"
   }, 
   "300082": {
-    "url": "http://www.govtrack.us/congress/members/harry_reid/300082", 
     "bioguide": "R000146", 
+    "last": "Reid", 
+    "name": "Harry Reid", 
+    "url": "http://www.reid.senate.gov", 
     "votes": [
       485, 
       486
     ], 
-    "name": "Sen. Harry Reid [D-NV]"
+    "state": "NV", 
+    "party": "Democrat"
   }, 
   "300081": {
-    "url": "http://www.govtrack.us/congress/members/john_reed/300081", 
     "bioguide": "R000122", 
+    "last": "Reed", 
+    "name": "Jack Reed", 
+    "url": "http://www.reed.senate.gov", 
     "votes": [
       484, 
       486
     ], 
-    "name": "Sen. John \u201cJack\u201d Reed [D-RI]"
+    "state": "RI", 
+    "party": "Democrat"
   }, 
   "300080": {
-    "url": "http://www.govtrack.us/congress/members/mark_pryor/300080", 
     "bioguide": "P000590", 
+    "last": "Pryor", 
+    "name": "Mark L. Pryor", 
+    "url": "http://www.pryor.senate.gov", 
     "votes": [
       478, 
       486
     ], 
-    "name": "Sen. Mark Pryor [D-AR]"
+    "state": "AR", 
+    "party": "Democrat"
   }, 
   "300089": {
-    "url": "http://www.govtrack.us/congress/members/richard_shelby/300089", 
     "bioguide": "S000320", 
+    "last": "Shelby", 
+    "name": "Richard C. Shelby", 
+    "url": "http://www.shelby.senate.gov", 
     "votes": [
       483, 
       486
     ], 
-    "name": "Sen. Richard Shelby [R-AL]"
+    "state": "AL", 
+    "party": "Republican"
   }, 
   "300088": {
-    "url": "http://www.govtrack.us/congress/members/jefferson_sessions/300088", 
     "bioguide": "S001141", 
+    "last": "Sessions", 
+    "name": "Jeff Sessions", 
+    "url": "http://www.sessions.senate.gov", 
     "votes": [
       478, 
       486
     ], 
-    "name": "Sen. Jefferson \u201cJeff\u201d Sessions [R-AL]"
+    "state": "AL", 
+    "party": "Republican"
   }, 
   "400284": {
-    "url": "http://www.govtrack.us/congress/members/jerry_moran/400284", 
     "bioguide": "M000934", 
+    "last": "Moran", 
+    "name": "Jerry Moran", 
+    "url": "http://www.moran.senate.gov", 
     "votes": [
       461, 
       486
     ], 
-    "name": "Sen. Jerry Moran [R-KS]"
+    "state": "KS", 
+    "party": "Republican"
   }, 
   "400418": {
-    "url": "http://www.govtrack.us/congress/members/david_vitter/400418", 
     "bioguide": "V000127", 
+    "last": "Vitter", 
+    "name": "David Vitter", 
+    "url": "http://www.vitter.senate.gov", 
     "votes": [
       446, 
       486
     ], 
-    "name": "Sen. David Vitter [R-LA]"
+    "state": "LA", 
+    "party": "Republican"
   }, 
   "400040": {
-    "url": "http://www.govtrack.us/congress/members/john_boozman/400040", 
     "bioguide": "B001236", 
+    "last": "Boozman", 
+    "name": "John Boozman", 
+    "url": "http://www.boozman.senate.gov", 
     "votes": [
       475, 
       486
     ], 
-    "name": "Sen. John Boozman [R-AR]"
+    "state": "AR", 
+    "party": "Republican"
   }, 
   "400413": {
-    "url": "http://www.govtrack.us/congress/members/tom_udall/400413", 
     "bioguide": "U000039", 
+    "last": "Udall", 
+    "name": "Tom Udall", 
+    "url": "http://www.tomudall.senate.gov", 
     "votes": [
       473, 
       486
     ], 
-    "name": "Sen. Tom Udall [D-NM]"
+    "state": "NM", 
+    "party": "Democrat"
   }, 
   "400412": {
-    "url": "http://www.govtrack.us/congress/members/mark_udall/400412", 
     "bioguide": "U000038", 
+    "last": "Udall", 
+    "name": "Mark Udall", 
+    "url": "http://www.markudall.senate.gov", 
     "votes": [
       477, 
       486
     ], 
-    "name": "Sen. Mark Udall [D-CO]"
+    "state": "CO", 
+    "party": "Democrat"
   }, 
   "300009": {
-    "url": "http://www.govtrack.us/congress/members/jeff_bingaman/300009", 
     "bioguide": "B000468", 
+    "last": "Bingaman", 
+    "name": "Jeff Bingaman", 
+    "url": "http://bingaman.senate.gov", 
     "votes": [
       481, 
       486
     ], 
-    "name": "Sen. Jeff Bingaman [D-NM, 1983-2013]"
+    "state": "NM", 
+    "party": "Democrat"
   }, 
   "300005": {
-    "url": "http://www.govtrack.us/congress/members/max_baucus/300005", 
     "bioguide": "B000243", 
+    "last": "Baucus", 
+    "name": "Max Baucus", 
+    "url": "http://www.baucus.senate.gov", 
     "votes": [
       482, 
       486
     ], 
-    "name": "Sen. Max Baucus [D-MT]"
+    "state": "MT", 
+    "party": "Democrat"
   }, 
   "300002": {
-    "url": "http://www.govtrack.us/congress/members/lamar_alexander/300002", 
     "bioguide": "A000360", 
+    "last": "Alexander", 
+    "name": "Lamar Alexander", 
+    "url": "http://www.alexander.senate.gov", 
     "votes": [
       470, 
       486
     ], 
-    "name": "Sen. Lamar Alexander [R-TN]"
+    "state": "TN", 
+    "party": "Republican"
   }, 
   "300001": {
-    "url": "http://www.govtrack.us/congress/members/daniel_akaka/300001", 
     "bioguide": "A000069", 
+    "last": "Akaka", 
+    "name": "Daniel K. Akaka", 
+    "url": "http://akaka.senate.gov", 
     "votes": [
       475, 
       486
     ], 
-    "name": "Sen. Daniel Akaka [D-HI, 1990-2013]"
+    "state": "HI", 
+    "party": "Democrat"
   }, 
   "412391": {
-    "url": "http://www.govtrack.us/congress/members/joe_manchin/412391", 
     "bioguide": "M001183", 
+    "last": "Manchin", 
+    "name": "Joe Manchin, III", 
+    "url": "http://www.manchin.senate.gov", 
     "votes": [
       483, 
       486
     ], 
-    "name": "Sen. Joe Manchin [D-WV]"
+    "state": "WV", 
+    "party": "Democrat"
   }, 
   "412390": {
-    "url": "http://www.govtrack.us/congress/members/chris_coons/412390", 
     "bioguide": "C001088", 
+    "last": "Coons", 
+    "name": "Christopher A. Coons", 
+    "url": "http://www.coons.senate.gov", 
     "votes": [
       485, 
       486
     ], 
-    "name": "Sen. Chris Coons [D-DE]"
+    "state": "DE", 
+    "party": "Democrat"
   }, 
   "400194": {
-    "url": "http://www.govtrack.us/congress/members/john_isakson/400194", 
     "bioguide": "I000055", 
+    "last": "Isakson", 
+    "name": "Johnny Isakson", 
+    "url": "http://www.isakson.senate.gov", 
     "votes": [
       475, 
       486
     ], 
-    "name": "Sen. John \u201cJohnny\u201d Isakson [R-GA]"
+    "state": "GA", 
+    "party": "Republican"
   }, 
   "412496": {
-    "url": "http://www.govtrack.us/congress/members/ron_johnson/412496", 
     "bioguide": "J000293", 
+    "last": "Johnson", 
+    "name": "Ron Johnson", 
+    "url": "http://www.ronjohnson.senate.gov", 
     "votes": [
       485, 
       486
     ], 
-    "name": "Sen. Ron Johnson [R-WI]"
+    "state": "WI", 
+    "party": "Republican"
   }, 
   "400357": {
-    "url": "http://www.govtrack.us/congress/members/bernard_sanders/400357", 
     "bioguide": "S000033", 
+    "last": "Sanders", 
+    "name": "Bernard Sanders", 
+    "url": "http://www.sanders.senate.gov", 
     "votes": [
       470, 
       486
     ], 
-    "name": "Sen. Bernard \u201cBernie\u201d Sanders [I-VT]"
+    "state": "VT", 
+    "party": "Independent"
   }, 
   "412494": {
-    "url": "http://www.govtrack.us/congress/members/john_hoeven/412494", 
     "bioguide": "H001061", 
+    "last": "Hoeven", 
+    "name": "John Hoeven", 
+    "url": "http://www.hoeven.senate.gov", 
     "votes": [
       476, 
       486
     ], 
-    "name": "Sen. John Hoeven [R-ND]"
+    "state": "ND", 
+    "party": "Republican"
   }, 
   "412495": {
-    "url": "http://www.govtrack.us/congress/members/mike_lee/412495", 
     "bioguide": "L000577", 
+    "last": "Lee", 
+    "name": "Mike Lee", 
+    "url": "http://www.lee.senate.gov", 
     "votes": [
       473, 
       486
     ], 
-    "name": "Sen. Mike Lee [R-UT]"
+    "state": "UT", 
+    "party": "Republican"
   }, 
   "412492": {
-    "url": "http://www.govtrack.us/congress/members/rand_paul/412492", 
     "bioguide": "P000603", 
+    "last": "Paul", 
+    "name": "Rand Paul", 
+    "url": "http://www.paul.senate.gov", 
     "votes": [
       465, 
       486
     ], 
-    "name": "Sen. Rand Paul [R-KY]"
+    "state": "KY", 
+    "party": "Republican"
   }, 
   "412493": {
-    "url": "http://www.govtrack.us/congress/members/kelly_ayotte/412493", 
     "bioguide": "A000368", 
+    "last": "Ayotte", 
+    "name": "Kelly Ayotte", 
+    "url": "http://www.ayotte.senate.gov", 
     "votes": [
       482, 
       486
     ], 
-    "name": "Sen. Kelly Ayotte [R-NH]"
+    "state": "NH", 
+    "party": "Republican"
   }, 
   "412490": {
-    "url": "http://www.govtrack.us/congress/members/richard_blumenthal/412490", 
     "bioguide": "B001277", 
+    "last": "Blumenthal", 
+    "name": "Richard Blumenthal", 
+    "url": "http://www.blumenthal.senate.gov", 
     "votes": [
       472, 
       486
     ], 
-    "name": "Sen. Richard Blumenthal [D-CT]"
+    "state": "CT", 
+    "party": "Democrat"
   }, 
   "412491": {
-    "url": "http://www.govtrack.us/congress/members/marco_rubio/412491", 
     "bioguide": "R000595", 
+    "last": "Rubio", 
+    "name": "Marco Rubio", 
+    "url": "http://www.rubio.senate.gov", 
     "votes": [
       454, 
       486
     ], 
-    "name": "Sen. Marco Rubio [R-FL]"
+    "state": "FL", 
+    "party": "Republican"
   }, 
   "412251": {
-    "url": "http://www.govtrack.us/congress/members/john_barrasso/412251", 
     "bioguide": "B001261", 
+    "last": "Barrasso", 
+    "name": "John Barrasso", 
+    "url": "http://www.barrasso.senate.gov", 
     "votes": [
       476, 
       486
     ], 
-    "name": "Sen. John Barrasso [R-WY]"
+    "state": "WY", 
+    "party": "Republican"
   }, 
   "400050": {
-    "url": "http://www.govtrack.us/congress/members/sherrod_brown/400050", 
     "bioguide": "B000944", 
+    "last": "Brown", 
+    "name": "Sherrod Brown", 
+    "url": "http://www.brown.senate.gov", 
     "votes": [
       480, 
       486
     ], 
-    "name": "Sen. Sherrod Brown [D-OH]"
+    "state": "OH", 
+    "party": "Democrat"
   }, 
   "300078": {
-    "url": "http://www.govtrack.us/congress/members/bill_nelson/300078", 
     "bioguide": "N000032", 
+    "last": "Nelson", 
+    "name": "Bill Nelson", 
+    "url": "http://www.billnelson.senate.gov", 
     "votes": [
       483, 
       486
     ], 
-    "name": "Sen. Bill Nelson [D-FL]"
+    "state": "FL", 
+    "party": "Democrat"
   }, 
   "300072": {
-    "url": "http://www.govtrack.us/congress/members/mitch_mcconnell/300072", 
     "bioguide": "M000355", 
+    "last": "McConnell", 
+    "name": "Mitch McConnell", 
+    "url": "http://www.mcconnell.senate.gov", 
     "votes": [
       486, 
       486
     ], 
-    "name": "Sen. Mitch McConnell [R-KY]"
+    "state": "KY", 
+    "party": "Republican"
   }, 
   "300073": {
-    "url": "http://www.govtrack.us/congress/members/barbara_mikulski/300073", 
     "bioguide": "M000702", 
+    "last": "Mikulski", 
+    "name": "Barbara A. Mikulski", 
+    "url": "http://www.mikulski.senate.gov", 
     "votes": [
       479, 
       486
     ], 
-    "name": "Sen. Barbara Mikulski [D-MD]"
+    "state": "MD", 
+    "party": "Democrat"
   }, 
   "300070": {
-    "url": "http://www.govtrack.us/congress/members/richard_lugar/300070", 
     "bioguide": "L000504", 
+    "last": "Lugar", 
+    "name": "Richard G. Lugar", 
+    "url": "http://lugar.senate.gov/", 
     "votes": [
       480, 
       486
     ], 
-    "name": "Sen. Richard Lugar [R-IN, 1977-2013]"
+    "state": "IN", 
+    "party": "Republican"
   }, 
   "300071": {
-    "url": "http://www.govtrack.us/congress/members/john_mccain/300071", 
     "bioguide": "M000303", 
+    "last": "McCain", 
+    "name": "John McCain", 
+    "url": "http://www.mccain.senate.gov", 
     "votes": [
       456, 
       486
     ], 
-    "name": "Sen. John McCain [R-AZ]"
+    "state": "AZ", 
+    "party": "Republican"
   }, 
   "300076": {
-    "url": "http://www.govtrack.us/congress/members/patty_murray/300076", 
     "bioguide": "M001111", 
+    "last": "Murray", 
+    "name": "Patty Murray", 
+    "url": "http://www.murray.senate.gov", 
     "votes": [
       478, 
       486
     ], 
-    "name": "Sen. Patty Murray [D-WA]"
+    "state": "WA", 
+    "party": "Democrat"
   }, 
   "300077": {
-    "url": "http://www.govtrack.us/congress/members/ben_nelson/300077", 
     "bioguide": "N000180", 
+    "last": "Nelson", 
+    "name": "Ben Nelson", 
+    "url": "http://bennelson.senate.gov/", 
     "votes": [
       482, 
       486
     ], 
-    "name": "Sen. Ben Nelson [D-NE, 2001-2013]"
+    "state": "NE", 
+    "party": "Democrat"
   }, 
   "300075": {
-    "url": "http://www.govtrack.us/congress/members/lisa_murkowski/300075", 
     "bioguide": "M001153", 
+    "last": "Murkowski", 
+    "name": "Lisa Murkowski", 
+    "url": "http://www.murkowski.senate.gov", 
     "votes": [
       462, 
       486
     ], 
-    "name": "Sen. Lisa Murkowski [R-AK]"
+    "state": "AK", 
+    "party": "Republican"
   }, 
   "412324": {
-    "url": "http://www.govtrack.us/congress/members/kay_hagan/412324", 
     "bioguide": "H001049", 
+    "last": "Hagan", 
+    "name": "Kay R. Hagan", 
+    "url": "http://www.hagan.senate.gov", 
     "votes": [
       477, 
       486
     ], 
-    "name": "Sen. Kay Hagan [D-NC]"
+    "state": "NC", 
+    "party": "Democrat"
   }, 
   "412325": {
-    "url": "http://www.govtrack.us/congress/members/jeff_merkley/412325", 
     "bioguide": "M001176", 
+    "last": "Merkley", 
+    "name": "Jeff Merkley", 
+    "url": "http://www.merkley.senate.gov", 
     "votes": [
       479, 
       486
     ], 
-    "name": "Sen. Jeff Merkley [D-OR]"
+    "state": "OR", 
+    "party": "Democrat"
   }, 
   "412326": {
-    "url": "http://www.govtrack.us/congress/members/mark_begich/412326", 
     "bioguide": "B001265", 
+    "last": "Begich", 
+    "name": "Mark Begich", 
+    "url": "http://www.begich.senate.gov", 
     "votes": [
       476, 
       486
     ], 
-    "name": "Sen. Mark Begich [D-AK]"
+    "state": "AK", 
+    "party": "Democrat"
   }, 
   "412320": {
-    "url": "http://www.govtrack.us/congress/members/mike_johanns/412320", 
     "bioguide": "J000291", 
+    "last": "Johanns", 
+    "name": "Mike Johanns", 
+    "url": "http://www.johanns.senate.gov", 
     "votes": [
       484, 
       486
     ], 
-    "name": "Sen. Mike Johanns [R-NE]"
+    "state": "NE", 
+    "party": "Republican"
   }, 
   "412321": {
-    "url": "http://www.govtrack.us/congress/members/mark_warner/412321", 
     "bioguide": "W000805", 
+    "last": "Warner", 
+    "name": "Mark R. Warner", 
+    "url": "http://www.warner.senate.gov", 
     "votes": [
       463, 
       486
     ], 
-    "name": "Sen. Mark Warner [D-VA]"
+    "state": "VA", 
+    "party": "Democrat"
   }, 
   "412322": {
-    "url": "http://www.govtrack.us/congress/members/james_risch/412322", 
     "bioguide": "R000584", 
+    "last": "Risch", 
+    "name": "James E. Risch", 
+    "url": "http://www.risch.senate.gov", 
     "votes": [
       473, 
       486
     ], 
-    "name": "Sen. James Risch [R-ID]"
+    "state": "ID", 
+    "party": "Republican"
   }, 
   "412323": {
-    "url": "http://www.govtrack.us/congress/members/jeanne_shaheen/412323", 
     "bioguide": "S001181", 
+    "last": "Shaheen", 
+    "name": "Jeanne Shaheen", 
+    "url": "http://www.shaheen.senate.gov", 
     "votes": [
       481, 
       486
     ], 
-    "name": "Sen. Jeanne Shaheen [D-NH]"
+    "state": "NH", 
+    "party": "Democrat"
   }, 
   "400064": {
-    "url": "http://www.govtrack.us/congress/members/benjamin_cardin/400064", 
     "bioguide": "C000141", 
+    "last": "Cardin", 
+    "name": "Benjamin L. Cardin", 
+    "url": "http://www.cardin.senate.gov", 
     "votes": [
       485, 
       486
     ], 
-    "name": "Sen. Benjamin Cardin [D-MD]"
+    "state": "MD", 
+    "party": "Democrat"
   }, 
   "412249": {
-    "url": "http://www.govtrack.us/congress/members/jim_webb/412249", 
     "bioguide": "W000803", 
+    "last": "Webb", 
+    "name": "Jim Webb", 
+    "url": "http://webb.senate.gov/", 
     "votes": [
       465, 
       486
     ], 
-    "name": "Sen. Jim Webb [D-VA, 2007-2013]"
+    "state": "VA", 
+    "party": "Democrat"
   }, 
   "412248": {
-    "url": "http://www.govtrack.us/congress/members/bob_corker/412248", 
     "bioguide": "C001071", 
+    "last": "Corker", 
+    "name": "Bob Corker", 
+    "url": "http://www.corker.senate.gov", 
     "votes": [
       477, 
       486
     ], 
-    "name": "Sen. Bob Corker [R-TN]"
+    "state": "TN", 
+    "party": "Republican"
   }, 
   "412247": {
-    "url": "http://www.govtrack.us/congress/members/sheldon_whitehouse/412247", 
     "bioguide": "W000802", 
+    "last": "Whitehouse", 
+    "name": "Sheldon Whitehouse", 
+    "url": "http://www.whitehouse.senate.gov", 
     "votes": [
       483, 
       486
     ], 
-    "name": "Sen. Sheldon Whitehouse [D-RI]"
+    "state": "RI", 
+    "party": "Democrat"
   }, 
   "412246": {
-    "url": "http://www.govtrack.us/congress/members/robert_casey/412246", 
     "bioguide": "C001070", 
+    "last": "Casey", 
+    "name": "Robert P. Casey, Jr.", 
+    "url": "http://www.casey.senate.gov", 
     "votes": [
       479, 
       486
     ], 
-    "name": "Sen. Robert \u201cBob\u201d Casey [D-PA]"
+    "state": "PA", 
+    "party": "Democrat"
   }, 
   "412244": {
-    "url": "http://www.govtrack.us/congress/members/jon_tester/412244", 
     "bioguide": "T000464", 
+    "last": "Tester", 
+    "name": "Jon Tester", 
+    "url": "http://www.tester.senate.gov", 
     "votes": [
       483, 
       486
     ], 
-    "name": "Sen. Jon Tester [D-MT]"
+    "state": "MT", 
+    "party": "Democrat"
   }, 
   "412243": {
-    "url": "http://www.govtrack.us/congress/members/claire_mccaskill/412243", 
     "bioguide": "M001170", 
+    "last": "McCaskill", 
+    "name": "Claire McCaskill", 
+    "url": "http://www.mccaskill.senate.gov", 
     "votes": [
       469, 
       486
     ], 
-    "name": "Sen. Claire McCaskill [D-MO]"
+    "state": "MO", 
+    "party": "Democrat"
   }, 
   "412242": {
-    "url": "http://www.govtrack.us/congress/members/amy_klobuchar/412242", 
     "bioguide": "K000367", 
+    "last": "Klobuchar", 
+    "name": "Amy Klobuchar", 
+    "url": "http://www.klobuchar.senate.gov", 
     "votes": [
       484, 
       486
     ], 
-    "name": "Sen. Amy Klobuchar [D-MN]"
+    "state": "MN", 
+    "party": "Democrat"
   }, 
   "400546": {
-    "url": "http://www.govtrack.us/congress/members/john_thune/400546", 
     "bioguide": "T000250", 
+    "last": "Thune", 
+    "name": "John Thune", 
+    "url": "http://www.thune.senate.gov", 
     "votes": [
       475, 
       486
     ], 
-    "name": "Sen. John Thune [R-SD]"
+    "state": "SD", 
+    "party": "Republican"
   }, 
   "300100": {
-    "url": "http://www.govtrack.us/congress/members/ron_wyden/300100", 
     "bioguide": "W000779", 
+    "last": "Wyden", 
+    "name": "Ron Wyden", 
+    "url": "http://www.wyden.senate.gov", 
     "votes": [
       470, 
       486
     ], 
-    "name": "Sen. Ron Wyden [D-OR]"
+    "state": "OR", 
+    "party": "Democrat"
   }, 
   "300061": {
-    "url": "http://www.govtrack.us/congress/members/herbert_kohl/300061", 
     "bioguide": "K000305", 
+    "last": "Kohl", 
+    "name": "Herb Kohl", 
+    "url": "http://kohl.senate.gov/", 
     "votes": [
       469, 
       486
     ], 
-    "name": "Sen. Herbert \u201cHerb\u201d Kohl [D-WI, 1989-2013]"
+    "state": "WI", 
+    "party": "Democrat"
   }, 
   "300060": {
-    "url": "http://www.govtrack.us/congress/members/john_kerry/300060", 
     "bioguide": "K000148", 
+    "last": "Kerry", 
+    "name": "John F. Kerry", 
+    "url": "http://www.kerry.senate.gov", 
     "votes": [
       461, 
       486
     ], 
-    "name": "Sen. John Kerry [D-MA, 1985-2013]"
+    "state": "MA", 
+    "party": "Democrat"
   }, 
   "300063": {
-    "url": "http://www.govtrack.us/congress/members/mary_landrieu/300063", 
     "bioguide": "L000550", 
+    "last": "Landrieu", 
+    "name": "Mary L. Landrieu", 
+    "url": "http://www.landrieu.senate.gov", 
     "votes": [
       472, 
       486
     ], 
-    "name": "Sen. Mary Landrieu [D-LA]"
+    "state": "LA", 
+    "party": "Democrat"
   }, 
   "300062": {
-    "url": "http://www.govtrack.us/congress/members/jon_kyl/300062", 
     "bioguide": "K000352", 
+    "last": "Kyl", 
+    "name": "Jon Kyl", 
+    "url": "http://kyl.senate.gov/", 
     "votes": [
       482, 
       486
     ], 
-    "name": "Sen. Jon Kyl [R-AZ, 1995-2013]"
+    "state": "AZ", 
+    "party": "Republican"
   }, 
   "300065": {
-    "url": "http://www.govtrack.us/congress/members/patrick_leahy/300065", 
     "bioguide": "L000174", 
+    "last": "Leahy", 
+    "name": "Patrick J. Leahy", 
+    "url": "http://www.leahy.senate.gov", 
     "votes": [
       475, 
       486
     ], 
-    "name": "Sen. Patrick Leahy [D-VT]"
+    "state": "VT", 
+    "party": "Democrat"
   }, 
   "300064": {
-    "url": "http://www.govtrack.us/congress/members/frank_lautenberg/300064", 
     "bioguide": "L000123", 
+    "last": "Lautenberg", 
+    "name": "Frank R. Lautenberg", 
+    "url": "http://www.lautenberg.senate.gov", 
     "votes": [
       449, 
       486
     ], 
-    "name": "Sen. Frank Lautenberg [D-NJ]"
+    "state": "NJ", 
+    "party": "Democrat"
   }, 
   "300067": {
-    "url": "http://www.govtrack.us/congress/members/joseph_lieberman/300067", 
     "bioguide": "L000304", 
+    "last": "Lieberman", 
+    "name": "Joseph I. Lieberman", 
+    "url": "http://lieberman.senate.gov/", 
     "votes": [
       467, 
       486
     ], 
-    "name": "Sen. Joseph Lieberman [I-CT, 1989-2013]"
+    "state": "CT", 
+    "party": "Independent"
   }, 
   "300066": {
-    "url": "http://www.govtrack.us/congress/members/carl_levin/300066", 
     "bioguide": "L000261", 
+    "last": "Levin", 
+    "name": "Carl Levin", 
+    "url": "http://www.levin.senate.gov", 
     "votes": [
       486, 
       486
     ], 
-    "name": "Sen. Carl Levin [D-MI]"
+    "state": "MI", 
+    "party": "Democrat"
   }, 
   "400272": {
-    "url": "http://www.govtrack.us/congress/members/robert_menendez/400272", 
     "bioguide": "M000639", 
+    "last": "Men\u00e9ndez", 
+    "name": "Robert Menendez", 
+    "url": "http://menendez.senate.gov", 
     "votes": [
       473, 
       486
     ], 
-    "name": "Sen. Robert \u201cBob\u201d Men\u00e9ndez [D-NJ]"
+    "state": "NJ", 
+    "party": "Democrat"
   }, 
   "400054": {
-    "url": "http://www.govtrack.us/congress/members/richard_burr/400054", 
     "bioguide": "B001135", 
+    "last": "Burr", 
+    "name": "Richard Burr", 
+    "url": "http://www.burr.senate.gov", 
     "votes": [
       456, 
       486
     ], 
-    "name": "Sen. Richard Burr [R-NC]"
+    "state": "NC", 
+    "party": "Republican"
   }, 
   "412330": {
-    "url": "http://www.govtrack.us/congress/members/michael_bennet/412330", 
     "bioguide": "B001267", 
+    "last": "Bennet", 
+    "name": "Michael F. Bennet", 
+    "url": "http://www.bennet.senate.gov", 
     "votes": [
       480, 
       486
     ], 
-    "name": "Sen. Michael Bennet [D-CO]"
+    "state": "CO", 
+    "party": "Democrat"
   }, 
   "300054": {
-    "url": "http://www.govtrack.us/congress/members/kay_hutchison/300054", 
     "bioguide": "H001016", 
+    "last": "Hutchison", 
+    "name": "Kay Bailey Hutchison", 
+    "url": "http://hutchison.senate.gov/", 
     "votes": [
       453, 
       486
     ], 
-    "name": "Sen. Kay Hutchison [R-TX, 1993-2013]"
+    "state": "TX", 
+    "party": "Republican"
   }, 
   "300055": {
-    "url": "http://www.govtrack.us/congress/members/james_inhofe/300055", 
     "bioguide": "I000024", 
+    "last": "Inhofe", 
+    "name": "James M. Inhofe", 
+    "url": "http://www.inhofe.senate.gov", 
     "votes": [
       456, 
       486
     ], 
-    "name": "Sen. James \u201cJim\u201d Inhofe [R-OK]"
+    "state": "OK", 
+    "party": "Republican"
   }, 
   "300056": {
-    "url": "http://www.govtrack.us/congress/members/daniel_inouye/300056", 
     "bioguide": "I000025", 
+    "last": "Inouye", 
+    "name": "Daniel K. Inouye", 
+    "url": "http://inouye.senate.gov/", 
     "votes": [
       428, 
       463
     ], 
-    "name": "Sen. Daniel Inouye [D-HI, 1963-2012]"
+    "state": "HI", 
+    "party": "Democrat"
   }, 
   "300051": {
-    "url": "http://www.govtrack.us/congress/members/thomas_harkin/300051", 
     "bioguide": "H000206", 
+    "last": "Harkin", 
+    "name": "Tom Harkin", 
+    "url": "http://www.harkin.senate.gov", 
     "votes": [
       469, 
       486
     ], 
-    "name": "Sen. Thomas \u201cTom\u201d Harkin [D-IA]"
+    "state": "IA", 
+    "party": "Democrat"
   }, 
   "300052": {
-    "url": "http://www.govtrack.us/congress/members/orrin_hatch/300052", 
     "bioguide": "H000338", 
+    "last": "Hatch", 
+    "name": "Orrin G. Hatch", 
+    "url": "http://www.hatch.senate.gov", 
     "votes": [
       438, 
       486
     ], 
-    "name": "Sen. Orrin Hatch [R-UT]"
+    "state": "UT", 
+    "party": "Republican"
   }, 
   "300058": {
-    "url": "http://www.govtrack.us/congress/members/tim_johnson/300058", 
     "bioguide": "J000177", 
+    "last": "Johnson", 
+    "name": "Tim Johnson", 
+    "url": "http://www.johnson.senate.gov", 
     "votes": [
       481, 
       486
     ], 
-    "name": "Sen. Tim Johnson [D-SD]"
+    "state": "SD", 
+    "party": "Democrat"
   }, 
   "300043": {
-    "url": "http://www.govtrack.us/congress/members/dianne_feinstein/300043", 
     "bioguide": "F000062", 
+    "last": "Feinstein", 
+    "name": "Dianne Feinstein", 
+    "url": "http://www.feinstein.senate.gov", 
     "votes": [
       477, 
       486
     ], 
-    "name": "Sen. Dianne Feinstein [D-CA]"
+    "state": "CA", 
+    "party": "Democrat"
   }, 
   "300041": {
-    "url": "http://www.govtrack.us/congress/members/michael_enzi/300041", 
     "bioguide": "E000285", 
+    "last": "Enzi", 
+    "name": "Michael B. Enzi", 
+    "url": "http://www.enzi.senate.gov", 
     "votes": [
       474, 
       486
     ], 
-    "name": "Sen. Michael Enzi [R-WY]"
+    "state": "WY", 
+    "party": "Republican"
   }, 
   "300040": {
-    "url": "http://www.govtrack.us/congress/members/john_ensign/300040", 
     "bioguide": "E000194", 
+    "last": "Ensign", 
+    "name": "John Ensign", 
+    "url": "http://ensign.senate.gov", 
     "votes": [
       57, 
       63
     ], 
-    "name": "Sen. John Ensign [R-NV, 2001-2011]"
+    "state": "NV", 
+    "party": "Republican"
   }, 
   "300047": {
-    "url": "http://www.govtrack.us/congress/members/lindsey_graham/300047", 
     "bioguide": "G000359", 
+    "last": "Graham", 
+    "name": "Lindsey Graham", 
+    "url": "http://www.lgraham.senate.gov", 
     "votes": [
       474, 
       486
     ], 
-    "name": "Sen. Lindsey Graham [R-SC]"
+    "state": "SC", 
+    "party": "Republican"
   }, 
   "412223": {
-    "url": "http://www.govtrack.us/congress/members/kirsten_gillibrand/412223", 
     "bioguide": "G000555", 
+    "last": "Gillibrand", 
+    "name": "Kirsten E. Gillibrand", 
+    "url": "http://www.gillibrand.senate.gov", 
     "votes": [
       483, 
       486
     ], 
-    "name": "Sen. Kirsten Gillibrand [D-NY]"
+    "state": "NY", 
+    "party": "Democrat"
   }, 
   "300048": {
-    "url": "http://www.govtrack.us/congress/members/charles_grassley/300048", 
     "bioguide": "G000386", 
+    "last": "Grassley", 
+    "name": "Chuck Grassley", 
+    "url": "http://www.grassley.senate.gov", 
     "votes": [
       486, 
       486
     ], 
-    "name": "Sen. Charles \u201cChuck\u201d Grassley [R-IA]"
+    "state": "IA", 
+    "party": "Republican"
   }, 
   "402675": {
-    "url": "http://www.govtrack.us/congress/members/daniel_coats/402675", 
     "bioguide": "C000542", 
+    "last": "Coats", 
+    "name": "Daniel Coats", 
+    "url": "http://www.coats.senate.gov", 
     "votes": [
       482, 
       486
     ], 
-    "name": "Sen. Daniel Coats [R-IN]"
+    "state": "IN", 
+    "party": "Republican"
   }, 
   "412218": {
-    "url": "http://www.govtrack.us/congress/members/dean_heller/412218", 
     "bioguide": "H001041", 
+    "last": "Heller", 
+    "name": "Dean Heller", 
+    "url": "http://www.heller.senate.gov", 
     "votes": [
       390, 
       420
     ], 
-    "name": "Sen. Dean Heller [R-NV]"
+    "state": "NV", 
+    "party": "Republican"
   }, 
   "300030": {
-    "url": "http://www.govtrack.us/congress/members/michael_crapo/300030", 
     "bioguide": "C000880", 
+    "last": "Crapo", 
+    "name": "Mike Crapo", 
+    "url": "http://www.crapo.senate.gov", 
     "votes": [
       478, 
       486
     ], 
-    "name": "Sen. Michael Crapo [R-ID]"
+    "state": "ID", 
+    "party": "Republican"
   }, 
   "300038": {
-    "url": "http://www.govtrack.us/congress/members/richard_durbin/300038", 
     "bioguide": "D000563", 
+    "last": "Durbin", 
+    "name": "Richard J. Durbin", 
+    "url": "http://www.durbin.senate.gov", 
     "votes": [
       481, 
       486
     ], 
-    "name": "Sen. Richard Durbin [D-IL]"
+    "state": "IL", 
+    "party": "Democrat"
   }
 }

@@ -9,14 +9,19 @@ from collections import defaultdict
 from utils import write
 import argparse
 
+#load list of every lawmaker ever
+member_roster = dict(json.load(open(os.getcwd() + "/data/json/members/current.json", "r")).items() + json.load(open(os.getcwd() + "/data/json/members/historical.json", "r")).items())
+
 #group lawmakers by seat if didn't finish term
 #e.g. John Kerry -> Mo Cowan
-replacements = json.load(open(os.getcwd() + "/data/replacements.json", 'r'))
+replacements = json.load(open(os.getcwd() + "/data/json/members/replacements.json", 'r'))
 
 def get_cross(session, chamber, rootdir):
     if session not in replacements:
         replacements[session] = {}
     
+    years = [1787 + int(session) * 2, 1787 + int(session) * 2 + 1]
+
     base = "http://www.govtrack.us/data/us/%s/rolls/" % session
     chamber = 'senate'
     all_votes = defaultdict(lambda: [0,[],[]])
@@ -38,8 +43,6 @@ def get_cross(session, chamber, rootdir):
 
         #add to vote count 
         for mid in ids:
-            if mid == '0':
-                print "zero", vote
             if mid in replacements[session]:
                 mid = replacements[session][mid]["id"]
             members[mid][1] += 1
@@ -72,22 +75,39 @@ def get_cross(session, chamber, rootdir):
     pb = {}
     inv_replacements = dict([(v['id'], k) for (k,v) in replacements[session].items()])
     print inv_replacements 
-    
+
+    #an id of '0' points to vice president breaking a tie    
     for mid in [x for x in members.keys() if x != '0']:
-        raw_member = download('http://www.govtrack.us/api/v1/person/' + mid, "members/" + mid + ".json")
-        try:
-            member = json.loads(raw_member)
-        except:
-            print mid, raw_member
-        name = member['name']
-        if len(inv_replacements.items()) > 0 and mid in inv_replacements:
-            alt_member = json.loads(download('http://www.govtrack.us/api/v1/person/' + inv_replacements[mid], "members/" + inv_replacements[mid] + ".json"))
-            print alt_member
-            name += " / " + alt_member['name']    
+        member = member_roster[mid]
+        
+        print mid, member['name']
+        last = member["name"]["last"]
+        name = member["name"]["first"] + " " + member["name"]["last"] if "official_full" not in member["name"] else member['name']['official_full']
+        term = None
+        
+        #scan through the terms for this member and find the one corresponding to our session
+        #this should correctly identify the party the lawmaker was in the given session if he/she switches at some point
+        #TODO: Go backward
+        for tt in range(len(member["terms"]) - 1, -1, -1):
+            t = member["terms"][tt]
+            start = int(t['start'].split('-')[0]) 
+            end = int(t['end'].split('-')[0]) 
+            if start in years or end >= years[0]:
+                term = t
+                break
+        if not term:
+            print "Error"
+            print mid, name
+            exit()
+        if mid in inv_replacements:
+            name += " / " + member_roster[inv_replacements[mid]]["name"]['official_full']    
         pb[mid] = {
             'name': name,
-            'bioguide': member['bioguideid'],
-            'url': member['link'],
+            'last': last,
+            'party': term["party"],
+            'state': term["state"],
+            'bioguide': member['id']['bioguide'],
+            'url': "" if "url" not in term else term["url"],
             'votes': members[mid]
         }
         
