@@ -58,7 +58,6 @@ def get_cross(session, chamber, rootdir):
             if int(A) > int(B):
                 B,A = A,B
             
-            all_votes[A + "_" + B][0] += 1
             crossvote[A][B][1] += 1
             #if voted the same way
             if data['rollcall'][A] == data['rollcall'][B] and data['rollcall'][A] != 'Not Voting':
@@ -68,7 +67,6 @@ def get_cross(session, chamber, rootdir):
                 all_votes[A + "_" + B][2].append(vote)
     
     write(json.dumps(crossvote, indent=2), rootdir + "/data/output/%s/%s/crossvote.json" % (chamber, session))
-    #write(json.dumps(all_votes, indent=2), rootdir + "/data/output/%s/%s/all_votes.json" % (chamber, session))
 
 
     #write members directory
@@ -113,6 +111,13 @@ def get_cross(session, chamber, rootdir):
         
     write(json.dumps(pb, indent=2), rootdir + "/data/output/%s/%s/phonebook.json" % (chamber, session))
 
+    '''
+    for k,v in all_votes.items():
+        A,B = k.split("_")        
+        v.append([pb[A]["name"], pb[B]["name"]])
+
+    write(json.dumps(all_votes, indent=2), rootdir + "/data/output/%s/%s/all_votes.json" % (chamber, session))
+    '''
 
 def main():
     parser = argparse.ArgumentParser(description="Retrieve rollcall votes for a session of Congress")
