@@ -68,7 +68,7 @@
             <div class="control">
                 <div class="left">
                     <!--<div class="label">This diagram examines factions in the Senate by connecting each lawmaker as a network.</div>-->
-                    <div class="label">Connect <span id="members">senators</span> who voted together at least <span id="thresh">70%</span> of the time</div>
+                    <div class="label">Connect <span id="members">senators</span> who voted together at least <span id="thresh">75%</span> of the time</div>
                     <div class="slider" id="slider"></div>
                 </div>        
                 <div class="right">
@@ -98,7 +98,7 @@
                 </div>
             </div>
             <div style="clear:both"></div>
-            <div class="notes">SOURCE: <a href="http://www.govtrack.us/">GovTrack.us</a></div>
+            <div class="notes">SOURCE: <a href="http://www.govtrack.us/">GovTrack.us</a>.<br/>NOTE: Missed votes count as not voting with any other senator.</div>
         	<div class="btn"><a id="data" href="https://github.com/wilson428/vote_studies/tree/master/data/output/senate" target="_blank">DATA</a></div>    
     		<div class="btn"><a id="source" href="https://github.com/wilson428/vote_studies" target="_blank">SOURCE</a></div>
             <div class="btn" id="embed">EMBED</div>    
@@ -170,8 +170,8 @@ var members,
     nodebook;
 
 function make(crossvote, phonebook) {
-    $('#slider').slider("value", start);
-    $('#thresh').html(start + "%");
+    $('#slider').slider("value", threshold);
+    $('#thresh').html(threshold + "%");
     $('#roster > option').remove();
     $('#roster').append("<option value=''></option>");
     unselect();
@@ -184,7 +184,8 @@ function make(crossvote, phonebook) {
     every_link = {};
     besties = {};
     parties = {D: 0, R: 0};
-    nodebook;
+    selected = '';
+    
 
     // make list of nodes
     members
@@ -232,7 +233,7 @@ function make(crossvote, phonebook) {
     });
         
     //optional party filter    
-    
+    /*
     //get besties
     var besties = {}
     $.each(every_link, function(i, v) {        
@@ -258,20 +259,20 @@ function make(crossvote, phonebook) {
         }
     });    
     
-    
+    */
     
         
     //every_link now has all possible connections    
-    links = filtered(start / 100, floor);
+    links = filtered(threshold / 100, floor);
     
-    function filtered(threshold, floor) {
+    function filtered(thresh, floor) {
         var g = [];
         
         //clear node references
         nodebook = {};
         
         $.each(every_link, function(i, v) {
-            if (!g.hasOwnProperty(i) && v.total >= floor && v.rate >= threshold) {
+            if (!g.hasOwnProperty(i) && v.total >= floor && v.rate >= thresh) {
                 g[i] = v;
                 //add to dictionary of links per nodes
                 var edges = i.split("_");
@@ -408,7 +409,9 @@ function make(crossvote, phonebook) {
     
     
     function select (mid) {   
-        //fill in info box        
+        $("#roster").val(mid).trigger("liszt:updated");
+        console.log($('#roster').val());
+        //fill in info box               
         $('#kiosk > .head').html(nodes[mid].name);
         $('#kiosk > .details').html(nodes[mid].party + "-" + nodes[mid].state);
         $('#kiosk > .pic').html("<img class='mug' src='' />");
