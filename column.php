@@ -43,6 +43,16 @@
     padding: 7px;
     font-size: 12px;
 }
+
+.red {
+    color: #900;
+    font-weight: bold;
+}
+
+.blue {
+    color: #009;
+    font-weight: bold;
+}
         </style>        
     </head>
     <body>
@@ -53,11 +63,12 @@
         <!-- Add your site or application content here -->
         <div class="main">
             <img class="logo" src="src/img/logo.png" />
-            <div class="title">Vote Patterns</div>
+            <div class="title">The Senate Social Network</div>
             <div class="intro"></div>
             <div class="control">
                 <div class="left">
-                    <div class="label">Connect <span id="members">senators</span> who voted together at least <span id="thresh">75%</span> of the time</div>
+                    <!--<div class="label">This diagram examines factions in the Senate by connecting each lawmaker as a network.</div>-->
+                    <div class="label">Connect <span id="members">senators</span> who voted together at least <span id="thresh">70%</span> of the time</div>
                     <div class="slider" id="slider"></div>
                 </div>        
                 <div class="right">
@@ -73,21 +84,23 @@
                 <div class="right">
                     <div class="subhead">LAWMAKER</div>
                     <select id="roster" data-placeholder="Choose a senator..." style="width:180px;" class="chzn-select">
-                        <option value=""></option>
+                        
                     </select>
                     <div class="kiosk" id="kiosk">
                         <div class="head"></div>            
                         <div class="details"></div>            
-                        <img class="pic" />    
-                        <div class="databox"></div>                
-                        <div class="bff"></div>                
+                        <div class="pic"></div>  
+                        <div class="databox">
+                            <div id="graph"></div>                        
+                        </div>                
+                        <!--<div class="bff"></div>-->
                     </div>
                 </div>
             </div>
             <div style="clear:both"></div>
-            <div class="notes">[Notes]</div>
-        	<div class="btn"><a id="data" href="" target="_blank">DATA</a></div>    
-    		<div class="btn"><a id="source" href="" target="_blank">SOURCE</a></div>
+            <div class="notes">SOURCE: <a href="http://www.govtrack.us/">GovTrack.us</a></div>
+        	<div class="btn"><a id="data" href="https://github.com/wilson428/vote_studies/tree/master/data/output/senate" target="_blank">DATA</a></div>    
+    		<div class="btn"><a id="source" href="https://github.com/wilson428/vote_studies" target="_blank">SOURCE</a></div>
             <div class="btn" id="embed">EMBED</div>    
             <div style="clear:both"></div>
         </div>
@@ -103,66 +116,106 @@
         <script src="src/js/plugins.js"></script>
         <script src="src/js/main.js"></script>
         <script src="src/js/vendor/chosen.jquery.js"></script>
-        <script src="src/js/vendor/d3.v3.js"></script>
+        <script src="src/js/vendor/d3.v3.min.js"></script>
         <script src="src/js/init.js"></script>
         <script>
 /*global d3 tooltip*/
 var width = 380,
     height = 380,
     margin = 50,
-    sessions = [110, 113],
+    sessions = [107, 113],
     floor = 12,
-    start = 75;
+    start = 75,
+    selected = '',
+    threshold = start;
+    
+var svg = d3.select("#canvas").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+//color by party
+var color = function(d) {
+    return (d.party !== "D" && d.party !== "R") ? "#90C" : (d.party === 'R' ? "#900" : "#009");
+};
     
 for (var s=sessions[0]; s <= sessions[1]; s += 1) {
     $("<option />", {
         value: s,
-        html: s
+        html: s + " (" + (1787 + s * 2) + "-" + (1787 + s * 2 + 1) + ")"
     }).appendTo("#sessions");
 }
 
+d3.select("#sessions > option[value='113']").attr("selected", "true");
+
 load(113);
 
+d3.select("#sessions")
+    .on("change", function() {
+        load(this.selectedIndex + 107);
+    });    
+
 function load(session) {
-    d3.select("#sessions > option[value='113']").attr("selected", "true");
     $.when($.get("data/output/senate/" + session + "/crossvote.json"), $.get("data/output/senate/" + session + "/phonebook.json")).then(function(d1, d2) {
         make(d1[0], d2[0]);
         //init(JSON.parse(d1[0]), JSON.parse(d2[0]));
     });
 }
 
+var members,
+    nodes,
+    links,
+    every_link,
+    besties,
+    parties,
+    nodebook;
+
 function make(crossvote, phonebook) {
     $('#slider').slider("value", start);
     $('#thresh').html(start + "%");
+    $('#roster > option').remove();
+    $('#roster').append("<option value=''></option>");
+    unselect();
     
-    var members = d3.keys(phonebook),
-        nodes = {},
-        links = {},
-        every_link = {},
-        besties = {},
-        nodebook;
+    svg.selectAll("g").remove();
+    
+    members = d3.keys(phonebook);
+    nodes = {};
+    links = {};
+    every_link = {};
+    besties = {};
+    parties = {D: 0, R: 0};
+    nodebook;
 
     // make list of nodes
-    for (var c = 0; c < members.length; c += 1) {
-        if (phonebook[members[c]].votes[1] >= floor) {
-            nodes[members[c]] = { 
-                id: members[c],
-                name: phonebook[members[c]].name,
-                votes: phonebook[members[c]].votes,
-                bioguide: phonebook[members[c]].bioguide,
-                info: phonebook[members[c]].name.match(/([A-z]+)\. (.+?) \[([A-Z]+)-([A-Z]+)/) 
-            };
-
-            nodes[members[c]].realname = nodes[members[c]].info[2] + " (" + nodes[members[c]].info[3] + "-" + nodes[members[c]].info[4] + ")";
+    members
+        .filter(function(element) { return phonebook[element].votes[1] >= floor; })
+        .sort(function(a, b) { return (phonebook[a].last > phonebook[b].last) ? 1 : -1; })    
+        .forEach(function(v, i) {
+            nodes[v] = phonebook[v];
+            nodes[v].id = v;
+            nodes[v].fullparty = nodes[v].party;
+            nodes[v].party = nodes[v].party[0];
+            nodes[v].title = nodes[v].name + " (" + nodes[v].party[0] + "-" + nodes[v].state + ")";
+            
+            parties[(nodes[v].party === 'R') ? 'R' : 'D'] += 1;
             
             $("<option />", {
-                value: nodes[members[c]].id,
-                html: nodes[members[c]].realname
-            }).appendTo("#roster");            
-        }
-    }
+                value: nodes[v].id,
+                html: nodes[v].title
+            }).appendTo("#roster");     
+        });
 
     $("#roster").chosen();    
+    $("#roster").val('').trigger("liszt:updated");
+    
+    /*
+    // party count
+    var parties = d3.nest()
+        .key(function(d) {
+            return (d.party === 'R' ? 'R' : 'D'); 
+        })
+        .entries(d3.values(nodes));
+    */
 
     $.each(crossvote, function(i, v) {
         $.each(v, function(ii, vv) {
@@ -177,7 +230,7 @@ function make(crossvote, phonebook) {
             }
         });
     });
-    
+        
     //optional party filter    
     
     //get besties
@@ -204,11 +257,12 @@ function make(crossvote, phonebook) {
             besties[edges[1]][1].push([edges[0]]);            
         }
     });    
+    
+    
+    
         
     //every_link now has all possible connections    
     links = filtered(start / 100, floor);
-    
-    //console.log(besties);
     
     function filtered(threshold, floor) {
         var g = [];
@@ -234,21 +288,19 @@ function make(crossvote, phonebook) {
         return g;
     }
 
+    //console.log(JSON.stringify(d3.values(links)));
+
     var force = d3.layout.force()
         .nodes(d3.values(nodes))
         .links(d3.values(links))
-        //.nodes(d3.values(nodes).filter(function(d) { return d.info[3] === 'R' }))
-        //.links(d3.values(links).filter(function(d) { return d.target.info[3] === 'R' && d.source.info[3] === 'R' }))
+        //.nodes(d3.values(nodes).filter(function(d) { return d.party === 'R' }))
+        //.links(d3.values(links).filter(function(d) { return d.target.party === 'R' && d.source.party === 'R' }))
         .size([width - 2 * margin, height - 2 * margin])
         .charge(-150)
         .gravity(0.4)
         .on("tick", tick)
         .start();
-
-    var svg = d3.select("#canvas").append("svg")
-        .attr("width", width)
-        .attr("height", height);
-
+        
     var network = svg.append("g").attr("transform", "translate(50,50)");
 
     var link = network.selectAll(".link")
@@ -264,26 +316,22 @@ function make(crossvote, phonebook) {
         .attr("r", 5)
         //.style("opacity", function(d) { return d.weight > 0 ? 1 : 0; })
         .on("mouseover", function(d) {
-            //d3.select(this).style("fill", "orange");
-            highlight(d.id);
-            tooltip.html(d.info[1] + ". " + d.realname + "<br /><em>Click to highlight</em>");
+            //highlight(d.id);
+            tooltip.html(d.title + "<br /><em>Click to highlight</em>");
             return tooltip.style("visibility", "visible");
         })
         .on("mousemove", function() { return tooltip.style("top", (event.pageY - 10)+"px").style("left",(event.pageX + 10)+"px");})
         .on("mouseout", function() { 
-            //d3.selectAll(".node").style("fill", function(d) { return !d.info ? "#CCC" : (d.info[3] === 'R' ? "#900" : "#009"); });        
-            d3.selectAll(".node").style({
-                'stroke-width': 1,
-                stroke: '#FFF'
-            });
-            d3.selectAll(".node").style("fill", function(d) { return !d.info ? "#CCC" : (d.info[3] === 'R' ? "#900" : "#009"); });                    
+            //d3.selectAll(".node").style({ 'stroke-width': 1, stroke: '#FFF' });
+            //d3.selectAll(".node").style("fill", color);
+            //unselect();
             return tooltip.style("visibility", "hidden");
         })
         .on("click", function (d) {
-            select(d.id);
-            
+            highlight(d.id);            
+            select(d.id);            
         })
-        .style("fill", function(d) { return !d.info ? "#CCC" : (d.info[3] === 'R' ? "#900" : "#009"); });
+        .style("fill", color);
         
     function tick () {
       node.attr("cx", function(d) { return d.x; })
@@ -296,7 +344,8 @@ function make(crossvote, phonebook) {
     }
     
     $('#slider').bind("slide", function(evt, ui) {    
-        unselect();
+        //unselect();
+        threshold = ui.value;
         $('#thresh').html(ui.value + "%");
         links = filtered(ui.value / 100, floor);
         force.links(d3.values(links));        
@@ -316,62 +365,152 @@ function make(crossvote, phonebook) {
             .remove();
             
         force.start();
+        highlight();
+        
+        maketext();  
+        /*
+        if (nodebook[mid]) {
+        }*/
+        
+        
     });
+    
+    function maketext() {
+        if (selected !== '') {
+            var splits = $.extend(true, {}, nodes[selected].splits[threshold]),
+                text = '';
+            splits[nodes[selected].party] -= 1;
+            
+            if (nodes[selected].party === 'R') {
+                text = "Voted with <span class='blue'>" + splits.D + " of " + parties.D + "</span> Democrats or independents and <span class='red'>" + splits.R + " of " + (parties.R - 1) + "</span> fellow Republicans at least " + threshold + " percent of the time.<br />";                    
+            } else {
+                text = "Voted with <span class='blue'>" + splits.D + " of " + (parties.D - 1) + "</span> fellow Democrats or independents and <span class='red'>" + splits.R + " of " + parties.R + "</span> fellow Republicans at least " + threshold + " percent of the time.<br />";
+            }            
+            $('#kiosk > .databox').html(
+                "<div class='subhead'>Connections</div>" + text
+            );            
+        }      
+    }
     
     $('#roster').bind("change", function() {        
         highlight($(this).val());
         select($(this).val());
-        //d3.selectAll(".node").style("fill", function(d) { return !d.info ? "#CCC" : (d.info[3] === 'R' ? "#900" : "#009"); });        
+        //d3.selectAll(".node").style("fill", color);        
         //d3.select('#node-' + $(this).val()).style("fill", "orange");        
     });
     
-    function select (mid) {   
-        //unselect();
-        //fill in info box        
-        $('#kiosk > .head').html(nodes[mid].info[2]);
-        $('#kiosk > .details').html(nodes[mid].info[3] + "-" + nodes[mid].info[4]);
-        $('#kiosk > .pic').attr("src", "//bioguide.congress.gov/bioguide/photo/" + nodes[mid].bioguide[0] + "/" + nodes[mid].bioguide + ".jpg" );
-        $('#kiosk > .pic').show();        
-        if (nodebook[mid]) {
-            $('#kiosk > .databox').html(
-                "<div class='subhead'>Connections</div>" + 
-                "Voted with " + nodebook[mid].length + " other senators at least " + $('#slider').slider("value") + " percent of the time.<br />"            
-            );
+    svg.on("click", function() {
+        if (d3.event.toElement.tagName === "svg") {
+            unhighlight();
+            unselect();
         }
-        var bffs = "";
-        $.each(besties[mid][1], function(i, v) {
-            bffs += nodes[v].realname + "<br />";
-        });        
-        $('#kiosk > .bff').html("<div class='subhead'>BFFs</div>" + bffs);
-        
-        //highlight(mid);
-    }
-    
-    $(".pic").error(function(e) {
-        $('#kiosk > .pic').hide();        
     });
     
+    
+    function select (mid) {   
+        //fill in info box        
+        $('#kiosk > .head').html(nodes[mid].name);
+        $('#kiosk > .details').html(nodes[mid].party + "-" + nodes[mid].state);
+        $('#kiosk > .pic').html("<img class='mug' src='' />");
+        $(".mug").error(function(e) {
+            $('.mug').attr("src", "src/img/noone.png");        
+        });
+        $('.mug').attr("src", "//bioguide.congress.gov/bioguide/photo/" + nodes[mid].bioguide[0] + "/" + nodes[mid].bioguide + ".jpg" );
+        
+        var myconnections = d3.values(every_link).filter(function(d) {
+            return (d.source.id === mid || d.target.id === mid);        
+        });
+        
+        if (!nodes[mid].hasOwnProperty("splits")) {        
+            var splits = [];
+            // for each percentage value, calculate partisanship score
+            for (var c = 0; c <= 100; c += 1) {
+                var split = {D: 0, R: 0};
+                var connections = myconnections.filter(function(d) {
+                    return (100 * d.common / d.total >= c);
+                });
+                var byparty = d3.nest(connections)
+                    .key(function(d) {
+                        var other = (d.source.id === mid) ? d.target : d.source;
+                        //this is lazy, but I believe all independents are Dem caucusers back to 107
+                        return (other.party === 'R' ? 'R' : 'D');
+                    })
+                    .entries(connections);
+                for (var b in byparty) {
+                    split[byparty[b].key] = byparty[b].values.length;
+                }
+                split[nodes[mid].party] += 1;
+                split.R_ratio = split.R / parties.R;
+                split.D_ratio = split.D / parties.D;
+                
+                if (nodes[mid].party === 'R') {
+                    split.score = split.D_ratio / split.R_ratio;
+                } else {
+                    split.score = split.R_ratio / split.D_ratio;
+                }
+                splits.push(split);
+            }
+            nodes[mid].splits = splits;
+        }
+        maketext();
+        /*
+        var bffs = "";
+        $.each(besties[mid][1], function(i, v) {
+            bffs += nodes[v].title + "<br />";
+        });        
+        $('#kiosk > .bff').html("<div class='subhead'>BFFs</div>" + bffs);
+        */
+    }
+    
+    
+    
     function unselect() {
+        //clear the kiosk
+        //.style("fill", color);   
+        $('#roster').val('').trigger("liszt:updated");
+        $('#kiosk > div').html("");
+        $('#kiosk > img').attr("src", "");
+        
+    }
+    
+    function unhighlight () {
+        selected = "";
+        //color + size everyone the same
+        d3.selectAll(".node").attr("r", 5);
+    
         d3.selectAll(".node").style({
             'stroke-width': 1,
             stroke: '#FFF'
         });
-        d3.selectAll(".node").style("fill", function(d) { return !d.info ? "#CCC" : (d.info[3] === 'R' ? "#900" : "#009"); });                        
-        //$('#kiosk > div').empty();
+        d3.selectAll(".node").style("fill", color);        
     }
     
-    function highlight (mid) {    
-        unselect();
-        d3.select('#node-' + mid).style("fill", "orange");        
+    function highlight (mid) { 
+        if (!mid) {
+            if (selected === '') {
+                //unlight();
+                return;
+            }
+            else {
+                mid = selected;
+            }
+        }
+        //dim all nodes except the select one and his/her neighbors
+        selected = mid;
+        d3.selectAll(".node").style({
+            fill: '#CCC'
+        });
+        d3.selectAll(".node").attr("r", 5);
+        
+        d3.select('#node-' + mid).style("fill", "orange");
+        d3.select('#node-' + mid).attr("r", 7);
+
         if (nodebook[mid]) {
             var neighbors = 
                 d3.selectAll(".node").filter(function(e) { 
                     return nodebook[mid].indexOf(e.id) != -1; 
                 });
-            neighbors.style({
-                stroke: "#FFFF99",
-                'stroke-width': 3
-            });        
+            neighbors.style("fill", color);
         }
     }
 }
