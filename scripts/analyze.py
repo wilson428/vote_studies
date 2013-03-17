@@ -72,7 +72,7 @@ def get_cross(session, chamber, rootdir):
     #write members directory
     pb = {}
     inv_replacements = dict([(v['id'], k) for (k,v) in replacements[session].items()])
-    print inv_replacements 
+    print inv_replacements
 
     #an id of '0' points to vice president breaking a tie    
     for mid in [x for x in members.keys() if x != '0']:
@@ -118,6 +118,9 @@ def get_cross(session, chamber, rootdir):
 
     write(json.dumps(all_votes, indent=2), rootdir + "/data/output/%s/%s/all_votes.json" % (chamber, session))
     '''
+
+def bipartisan(member):
+    
 
 def main():
     parser = argparse.ArgumentParser(description="Retrieve rollcall votes for a session of Congress")

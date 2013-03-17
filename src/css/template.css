@@ -60,7 +60,7 @@ body {
     font-size: 13px;
     margin: 0 0 5px 0;
     color: #666;
-    line-height:2em;
+    line-height:1.2em;
     height: 30px;
 }
 
@@ -73,7 +73,7 @@ body {
     font-size: 12px;
 }
 
-.pic {
+.mug {
     width: 125px;
 }
 
@@ -84,6 +84,7 @@ body {
 }
 
 .notes {
+    float: left;
     font-size: 10px;
 }
 
@@ -158,8 +159,8 @@ a {
 
 .bff {
     font-size: 12px;
-    max-height: 120px;
-    overflow-y: scroll;
+    max-height: 90px;
+    overflow-y: auto;
     padding-right: 10px;
 }
     
