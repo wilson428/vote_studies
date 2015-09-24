@@ -40,8 +40,8 @@ def fetch_votes(session, rootdir):
     
 def main():
     parser = argparse.ArgumentParser(description="Retrieve rollcall votes for a session of Congress")
-    parser.add_argument("-s", "--session", metavar="STRING", dest="session", type=str, default='113',
-                        help="a session of congress. Default is 113")
+    parser.add_argument("-s", "--session", metavar="STRING", dest="session", type=str, default='114',
+                        help="a session of congress. Default is 114")
     parser.add_argument("-r", "--rootdir", metavar="STRING", dest="rootdir", type=str, default=os.getcwd(),
                         help="root directory for files. Default is os.getcwd()")
     args = parser.parse_args()
