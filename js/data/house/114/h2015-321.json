@@ -1,0 +1,3542 @@
+{
+  "roll": {
+    "$": {
+      "where": "house",
+      "session": "114",
+      "year": "2015",
+      "roll": "321",
+      "source": "house.gov",
+      "datetime": "2015-06-09T22:47:00-04:00",
+      "updated": "2015-06-10T10:15:16-04:00",
+      "aye": "240",
+      "nay": "186",
+      "nv": "7",
+      "present": "0"
+    },
+    "category": [
+      "amendment"
+    ],
+    "type": [
+      "On the Amendment"
+    ],
+    "question": [
+      "On Agreeing to the Amendment: Amendment 64 to H R 2577"
+    ],
+    "required": [
+      "1/2"
+    ],
+    "result": [
+      "Agreed to"
+    ],
+    "bill": [
+      {
+        "$": {
+          "session": "114",
+          "type": "h",
+          "number": "2577"
+        }
+      }
+    ],
+    "amendment": [
+      {
+        "$": {
+          "ref": "bill-serial",
+          "session": "114",
+          "number": "64"
+        }
+      }
+    ],
+    "option": [
+      {
+        "_": "Aye",
+        "$": {
+          "key": "+"
+        }
+      },
+      {
+        "_": "No",
+        "$": {
+          "key": "-"
+        }
+      },
+      {
+        "_": "Present",
+        "$": {
+          "key": "P"
+        }
+      },
+      {
+        "_": "Not Voting",
+        "$": {
+          "key": "0"
+        }
+      }
+    ],
+    "voter": [
+      {
+        "$": {
+          "id": "412630",
+          "vote": "+",
+          "value": "Aye",
+          "state": "LA"
+        }
+      },
+      {
+        "$": {
+          "id": "400004",
+          "vote": "+",
+          "value": "Aye",
+          "state": "AL"
+        }
+      },
+      {
+        "$": {
+          "id": "412625",
+          "vote": "+",
+          "value": "Aye",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "412438",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "412500",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NV"
+        }
+      },
+      {
+        "$": {
+          "id": "412642",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NE"
+        }
+      },
+      {
+        "$": {
+          "id": "412655",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412469",
+          "vote": "+",
+          "value": "Aye",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412541",
+          "vote": "+",
+          "value": "Aye",
+          "state": "KY"
+        }
+      },
+      {
+        "$": {
+          "id": "400029",
+          "vote": "+",
+          "value": "Aye",
+          "state": "UT"
+        }
+      },
+      {
+        "$": {
+          "id": "412478",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TN"
+        }
+      },
+      {
+        "$": {
+          "id": "400032",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TN"
+        }
+      },
+      {
+        "$": {
+          "id": "412627",
+          "vote": "+",
+          "value": "Aye",
+          "state": "IA"
+        }
+      },
+      {
+        "$": {
+          "id": "412501",
+          "vote": "+",
+          "value": "Aye",
+          "state": "OR"
+        }
+      },
+      {
+        "$": {
+          "id": "412629",
+          "vote": "+",
+          "value": "Aye",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "400636",
+          "vote": "+",
+          "value": "Aye",
+          "state": "LA"
+        }
+      },
+      {
+        "$": {
+          "id": "400046",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412605",
+          "vote": "+",
+          "value": "Aye",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "412567",
+          "vote": "+",
+          "value": "Aye",
+          "state": "OK"
+        }
+      },
+      {
+        "$": {
+          "id": "412395",
+          "vote": "+",
+          "value": "Aye",
+          "state": "AL"
+        }
+      },
+      {
+        "$": {
+          "id": "412196",
+          "vote": "+",
+          "value": "Aye",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412619",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CO"
+        }
+      },
+      {
+        "$": {
+          "id": "412427",
+          "vote": "+",
+          "value": "Aye",
+          "state": "IN"
+        }
+      },
+      {
+        "$": {
+          "id": "400052",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412537",
+          "vote": "+",
+          "value": "Aye",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "412601",
+          "vote": "+",
+          "value": "Aye",
+          "state": "AL"
+        }
+      },
+      {
+        "$": {
+          "id": "400057",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412622",
+          "vote": "+",
+          "value": "Aye",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "400071",
+          "vote": "+",
+          "value": "Aye",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "412270",
+          "vote": "+",
+          "value": "Aye",
+          "state": "UT"
+        }
+      },
+      {
+        "$": {
+          "id": "412604",
+          "vote": "+",
+          "value": "Aye",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412271",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CO"
+        }
+      },
+      {
+        "$": {
+          "id": "400077",
+          "vote": "+",
+          "value": "Aye",
+          "state": "OK"
+        }
+      },
+      {
+        "$": {
+          "id": "412531",
+          "vote": "+",
+          "value": "Aye",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "412658",
+          "vote": "+",
+          "value": "Aye",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "400655",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412513",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412193",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CT"
+        }
+      },
+      {
+        "$": {
+          "id": "412555",
+          "vote": "+",
+          "value": "Aye",
+          "state": "ND"
+        }
+      },
+      {
+        "$": {
+          "id": "412400",
+          "vote": "+",
+          "value": "Aye",
+          "state": "AR"
+        }
+      },
+      {
+        "$": {
+          "id": "400087",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412536",
+          "vote": "+",
+          "value": "Aye",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "412505",
+          "vote": "+",
+          "value": "Aye",
+          "state": "WA"
+        }
+      },
+      {
+        "$": {
+          "id": "400648",
+          "vote": "+",
+          "value": "Aye",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412526",
+          "vote": "+",
+          "value": "Aye",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412477",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TN"
+        }
+      },
+      {
+        "$": {
+          "id": "412637",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "412672",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412533",
+          "vote": "+",
+          "value": "Aye",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "412488",
+          "vote": "+",
+          "value": "Aye",
+          "state": "WI"
+        }
+      },
+      {
+        "$": {
+          "id": "412472",
+          "vote": "+",
+          "value": "Aye",
+          "state": "SC"
+        }
+      },
+      {
+        "$": {
+          "id": "400116",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TN"
+        }
+      },
+      {
+        "$": {
+          "id": "412263",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MD"
+        }
+      },
+      {
+        "$": {
+          "id": "412457",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "412639",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MN"
+        }
+      },
+      {
+        "$": {
+          "id": "400124",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412524",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CT"
+        }
+      },
+      {
+        "$": {
+          "id": "412482",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400129",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400646",
+          "vote": "+",
+          "value": "Aye",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412476",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TN"
+        }
+      },
+      {
+        "$": {
+          "id": "412275",
+          "vote": "+",
+          "value": "Aye",
+          "state": "LA"
+        }
+      },
+      {
+        "$": {
+          "id": "412480",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400137",
+          "vote": "+",
+          "value": "Aye",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "400640",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NE"
+        }
+      },
+      {
+        "$": {
+          "id": "412257",
+          "vote": "+",
+          "value": "Aye",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "400643",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "412529",
+          "vote": "+",
+          "value": "Aye",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400141",
+          "vote": "+",
+          "value": "Aye",
+          "state": "AZ"
+        }
+      },
+      {
+        "$": {
+          "id": "400142",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "400145",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "412463",
+          "vote": "+",
+          "value": "Aye",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "412453",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "400651",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400154",
+          "vote": "+",
+          "value": "Aye",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "412397",
+          "vote": "+",
+          "value": "Aye",
+          "state": "AZ"
+        }
+      },
+      {
+        "$": {
+          "id": "412473",
+          "vote": "+",
+          "value": "Aye",
+          "state": "SC"
+        }
+      },
+      {
+        "$": {
+          "id": "412388",
+          "vote": "+",
+          "value": "Aye",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "412631",
+          "vote": "+",
+          "value": "Aye",
+          "state": "LA"
+        }
+      },
+      {
+        "$": {
+          "id": "400158",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MO"
+        }
+      },
+      {
+        "$": {
+          "id": "412485",
+          "vote": "+",
+          "value": "Aye",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "412661",
+          "vote": "+",
+          "value": "Aye",
+          "state": "WI"
+        }
+      },
+      {
+        "$": {
+          "id": "412447",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NH"
+        }
+      },
+      {
+        "$": {
+          "id": "412278",
+          "vote": "+",
+          "value": "Aye",
+          "state": "KY"
+        }
+      },
+      {
+        "$": {
+          "id": "400163",
+          "vote": "+",
+          "value": "Aye",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "412645",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NV"
+        }
+      },
+      {
+        "$": {
+          "id": "412280",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MS"
+        }
+      },
+      {
+        "$": {
+          "id": "412434",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MD"
+        }
+      },
+      {
+        "$": {
+          "id": "412444",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MO"
+        }
+      },
+      {
+        "$": {
+          "id": "400170",
+          "vote": "+",
+          "value": "Aye",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400175",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412486",
+          "vote": "+",
+          "value": "Aye",
+          "state": "WA"
+        }
+      },
+      {
+        "$": {
+          "id": "412623",
+          "vote": "+",
+          "value": "Aye",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "412609",
+          "vote": "+",
+          "value": "Aye",
+          "state": "AR"
+        }
+      },
+      {
+        "$": {
+          "id": "412553",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "412550",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "412429",
+          "vote": "+",
+          "value": "Aye",
+          "state": "KS"
+        }
+      },
+      {
+        "$": {
+          "id": "412437",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "412422",
+          "vote": "+",
+          "value": "Aye",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "412283",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412654",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412484",
+          "vote": "+",
+          "value": "Aye",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "400196",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412284",
+          "vote": "+",
+          "value": "Aye",
+          "state": "KS"
+        }
+      },
+      {
+        "$": {
+          "id": "412663",
+          "vote": "+",
+          "value": "Aye",
+          "state": "WV"
+        }
+      },
+      {
+        "$": {
+          "id": "412460",
+          "vote": "+",
+          "value": "Aye",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "412603",
+          "vote": "+",
+          "value": "Aye",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400209",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "412226",
+          "vote": "+",
+          "value": "Aye",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "412566",
+          "vote": "+",
+          "value": "Aye",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "412649",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412673",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MS"
+        }
+      },
+      {
+        "$": {
+          "id": "412465",
+          "vote": "+",
+          "value": "Aye",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "400220",
+          "vote": "+",
+          "value": "Aye",
+          "state": "IA"
+        }
+      },
+      {
+        "$": {
+          "id": "400219",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "400224",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MN"
+        }
+      },
+      {
+        "$": {
+          "id": "412614",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412419",
+          "vote": "+",
+          "value": "Aye",
+          "state": "ID"
+        }
+      },
+      {
+        "$": {
+          "id": "412510",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412191",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CO"
+        }
+      },
+      {
+        "$": {
+          "id": "412290",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "412256",
+          "vote": "+",
+          "value": "Aye",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "400630",
+          "vote": "+",
+          "value": "Aye",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "400244",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "412445",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MO"
+        }
+      },
+      {
+        "$": {
+          "id": "412624",
+          "vote": "+",
+          "value": "Aye",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "412656",
+          "vote": "+",
+          "value": "Aye",
+          "state": "UT"
+        }
+      },
+      {
+        "$": {
+          "id": "400247",
+          "vote": "+",
+          "value": "Aye",
+          "state": "OK"
+        }
+      },
+      {
+        "$": {
+          "id": "412292",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MO"
+        }
+      },
+      {
+        "$": {
+          "id": "412294",
+          "vote": "+",
+          "value": "Aye",
+          "state": "WY"
+        }
+      },
+      {
+        "$": {
+          "id": "400249",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MA"
+        }
+      },
+      {
+        "$": {
+          "id": "412643",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "412562",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "400656",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412468",
+          "vote": "+",
+          "value": "Aye",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412503",
+          "vote": "+",
+          "value": "Aye",
+          "state": "KY"
+        }
+      },
+      {
+        "$": {
+          "id": "412190",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400654",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412295",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400259",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MN"
+        }
+      },
+      {
+        "$": {
+          "id": "400644",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "400659",
+          "vote": "+",
+          "value": "Aye",
+          "state": "WA"
+        }
+      },
+      {
+        "$": {
+          "id": "412189",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412552",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "412560",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "400273",
+          "vote": "+",
+          "value": "Aye",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400279",
+          "vote": "+",
+          "value": "Aye",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412634",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "412662",
+          "vote": "+",
+          "value": "Aye",
+          "state": "WV"
+        }
+      },
+      {
+        "$": {
+          "id": "412632",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MA"
+        }
+      },
+      {
+        "$": {
+          "id": "412568",
+          "vote": "+",
+          "value": "Aye",
+          "state": "OK"
+        }
+      },
+      {
+        "$": {
+          "id": "412474",
+          "vote": "+",
+          "value": "Aye",
+          "state": "SC"
+        }
+      },
+      {
+        "$": {
+          "id": "412527",
+          "vote": "+",
+          "value": "Aye",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400285",
+          "vote": "+",
+          "value": "Aye",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "400441",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412475",
+          "vote": "+",
+          "value": "Aye",
+          "state": "SD"
+        }
+      },
+      {
+        "$": {
+          "id": "408211",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MN"
+        }
+      },
+      {
+        "$": {
+          "id": "412409",
+          "vote": "+",
+          "value": "Aye",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400297",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412302",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412443",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MS"
+        }
+      },
+      {
+        "$": {
+          "id": "412608",
+          "vote": "+",
+          "value": "Aye",
+          "state": "AL"
+        }
+      },
+      {
+        "$": {
+          "id": "412303",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MN"
+        }
+      },
+      {
+        "$": {
+          "id": "400313",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NM"
+        }
+      },
+      {
+        "$": {
+          "id": "412192",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CO"
+        }
+      },
+      {
+        "$": {
+          "id": "412569",
+          "vote": "+",
+          "value": "Aye",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412523",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400316",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MN"
+        }
+      },
+      {
+        "$": {
+          "id": "412307",
+          "vote": "+",
+          "value": "Aye",
+          "state": "ME"
+        }
+      },
+      {
+        "$": {
+          "id": "412551",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "400320",
+          "vote": "+",
+          "value": "Aye",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "400652",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412633",
+          "vote": "+",
+          "value": "Aye",
+          "state": "ME"
+        }
+      },
+      {
+        "$": {
+          "id": "412431",
+          "vote": "+",
+          "value": "Aye",
+          "state": "KS"
+        }
+      },
+      {
+        "$": {
+          "id": "412309",
+          "vote": "+",
+          "value": "Aye",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400626",
+          "vote": "+",
+          "value": "Aye",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "412653",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412393",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412462",
+          "vote": "+",
+          "value": "Aye",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "412489",
+          "vote": "+",
+          "value": "Aye",
+          "state": "WI"
+        }
+      },
+      {
+        "$": {
+          "id": "412572",
+          "vote": "+",
+          "value": "Aye",
+          "state": "SC"
+        }
+      },
+      {
+        "$": {
+          "id": "412483",
+          "vote": "+",
+          "value": "Aye",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "412394",
+          "vote": "+",
+          "value": "Aye",
+          "state": "AL"
+        }
+      },
+      {
+        "$": {
+          "id": "412310",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TN"
+        }
+      },
+      {
+        "$": {
+          "id": "412426",
+          "vote": "+",
+          "value": "Aye",
+          "state": "IN"
+        }
+      },
+      {
+        "$": {
+          "id": "412311",
+          "vote": "+",
+          "value": "Aye",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412202",
+          "vote": "+",
+          "value": "Aye",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "412411",
+          "vote": "+",
+          "value": "Aye",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412570",
+          "vote": "+",
+          "value": "Aye",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412641",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "400348",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412519",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412650",
+          "vote": "+",
+          "value": "Aye",
+          "state": "OK"
+        }
+      },
+      {
+        "$": {
+          "id": "400352",
+          "vote": "+",
+          "value": "Aye",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "400351",
+          "vote": "+",
+          "value": "Aye",
+          "state": "WI"
+        }
+      },
+      {
+        "$": {
+          "id": "400606",
+          "vote": "+",
+          "value": "Aye",
+          "state": "AZ"
+        }
+      },
+      {
+        "$": {
+          "id": "400607",
+          "vote": "+",
+          "value": "Aye",
+          "state": "SC"
+        }
+      },
+      {
+        "$": {
+          "id": "412261",
+          "vote": "+",
+          "value": "Aye",
+          "state": "LA"
+        }
+      },
+      {
+        "$": {
+          "id": "412399",
+          "vote": "+",
+          "value": "Aye",
+          "state": "AZ"
+        }
+      },
+      {
+        "$": {
+          "id": "412417",
+          "vote": "+",
+          "value": "Aye",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "400365",
+          "vote": "+",
+          "value": "Aye",
+          "state": "WI"
+        }
+      },
+      {
+        "$": {
+          "id": "400367",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400373",
+          "vote": "+",
+          "value": "Aye",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "400376",
+          "vote": "+",
+          "value": "Aye",
+          "state": "ID"
+        }
+      },
+      {
+        "$": {
+          "id": "412509",
+          "vote": "+",
+          "value": "Aye",
+          "state": "AZ"
+        }
+      },
+      {
+        "$": {
+          "id": "412596",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MO"
+        }
+      },
+      {
+        "$": {
+          "id": "412217",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NE"
+        }
+      },
+      {
+        "$": {
+          "id": "400380",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "400381",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412648",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412581",
+          "vote": "+",
+          "value": "Aye",
+          "state": "UT"
+        }
+      },
+      {
+        "$": {
+          "id": "412461",
+          "vote": "+",
+          "value": "Aye",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "412392",
+          "vote": "+",
+          "value": "Aye",
+          "state": "IN"
+        }
+      },
+      {
+        "$": {
+          "id": "412317",
+          "vote": "+",
+          "value": "Aye",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "400404",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412405",
+          "vote": "+",
+          "value": "Aye",
+          "state": "CO"
+        }
+      },
+      {
+        "$": {
+          "id": "412548",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MO"
+        }
+      },
+      {
+        "$": {
+          "id": "412213",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "400419",
+          "vote": "+",
+          "value": "Aye",
+          "state": "OR"
+        }
+      },
+      {
+        "$": {
+          "id": "412670",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "412538",
+          "vote": "+",
+          "value": "Aye",
+          "state": "IN"
+        }
+      },
+      {
+        "$": {
+          "id": "412214",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MN"
+        }
+      },
+      {
+        "$": {
+          "id": "400623",
+          "vote": "+",
+          "value": "Aye",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412574",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412410",
+          "vote": "+",
+          "value": "Aye",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412564",
+          "vote": "+",
+          "value": "Aye",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "412610",
+          "vote": "+",
+          "value": "Aye",
+          "state": "AR"
+        }
+      },
+      {
+        "$": {
+          "id": "400431",
+          "vote": "+",
+          "value": "Aye",
+          "state": "KY"
+        }
+      },
+      {
+        "$": {
+          "id": "412578",
+          "vote": "+",
+          "value": "Aye",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400433",
+          "vote": "+",
+          "value": "Aye",
+          "state": "SC"
+        }
+      },
+      {
+        "$": {
+          "id": "412255",
+          "vote": "+",
+          "value": "Aye",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "412402",
+          "vote": "+",
+          "value": "Aye",
+          "state": "AR"
+        }
+      },
+      {
+        "$": {
+          "id": "412416",
+          "vote": "+",
+          "value": "Aye",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "412430",
+          "vote": "+",
+          "value": "Aye",
+          "state": "KS"
+        }
+      },
+      {
+        "$": {
+          "id": "412525",
+          "vote": "+",
+          "value": "Aye",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400440",
+          "vote": "+",
+          "value": "Aye",
+          "state": "AK"
+        }
+      },
+      {
+        "$": {
+          "id": "412628",
+          "vote": "+",
+          "value": "Aye",
+          "state": "IA"
+        }
+      },
+      {
+        "$": {
+          "id": "412428",
+          "vote": "+",
+          "value": "Aye",
+          "state": "IN"
+        }
+      },
+      {
+        "$": {
+          "id": "412646",
+          "vote": "+",
+          "value": "Aye",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412640",
+          "vote": "+",
+          "value": "Aye",
+          "state": "MT"
+        }
+      },
+      {
+        "$": {
+          "id": "412615",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400018",
+          "vote": "-",
+          "value": "No",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412404",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412565",
+          "vote": "-",
+          "value": "No",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "412436",
+          "vote": "-",
+          "value": "No",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "412512",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412657",
+          "vote": "-",
+          "value": "No",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "412250",
+          "vote": "-",
+          "value": "No",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400030",
+          "vote": "-",
+          "value": "No",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "412635",
+          "vote": "-",
+          "value": "No",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "400033",
+          "vote": "-",
+          "value": "No",
+          "state": "OR"
+        }
+      },
+      {
+        "$": {
+          "id": "412652",
+          "vote": "-",
+          "value": "No",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "400047",
+          "vote": "-",
+          "value": "No",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412539",
+          "vote": "-",
+          "value": "No",
+          "state": "IN"
+        }
+      },
+      {
+        "$": {
+          "id": "400048",
+          "vote": "-",
+          "value": "No",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412516",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400616",
+          "vote": "-",
+          "value": "No",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "400062",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400063",
+          "vote": "-",
+          "value": "No",
+          "state": "MA"
+        }
+      },
+      {
+        "$": {
+          "id": "412407",
+          "vote": "-",
+          "value": "No",
+          "state": "DE"
+        }
+      },
+      {
+        "$": {
+          "id": "412258",
+          "vote": "-",
+          "value": "No",
+          "state": "IN"
+        }
+      },
+      {
+        "$": {
+          "id": "400068",
+          "vote": "-",
+          "value": "No",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412571",
+          "vote": "-",
+          "value": "No",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412195",
+          "vote": "-",
+          "value": "No",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412576",
+          "vote": "-",
+          "value": "No",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412379",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412470",
+          "vote": "-",
+          "value": "No",
+          "state": "RI"
+        }
+      },
+      {
+        "$": {
+          "id": "412600",
+          "vote": "-",
+          "value": "No",
+          "state": "MA"
+        }
+      },
+      {
+        "$": {
+          "id": "412221",
+          "vote": "-",
+          "value": "No",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "400074",
+          "vote": "-",
+          "value": "No",
+          "state": "MO"
+        }
+      },
+      {
+        "$": {
+          "id": "400075",
+          "vote": "-",
+          "value": "No",
+          "state": "SC"
+        }
+      },
+      {
+        "$": {
+          "id": "412236",
+          "vote": "-",
+          "value": "No",
+          "state": "TN"
+        }
+      },
+      {
+        "$": {
+          "id": "412563",
+          "vote": "-",
+          "value": "No",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412272",
+          "vote": "-",
+          "value": "No",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "400080",
+          "vote": "-",
+          "value": "No",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "400081",
+          "vote": "-",
+          "value": "No",
+          "state": "TN"
+        }
+      },
+      {
+        "$": {
+          "id": "400618",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412651",
+          "vote": "-",
+          "value": "No",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "400086",
+          "vote": "-",
+          "value": "No",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400657",
+          "vote": "-",
+          "value": "No",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400089",
+          "vote": "-",
+          "value": "No",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400090",
+          "vote": "-",
+          "value": "No",
+          "state": "MD"
+        }
+      },
+      {
+        "$": {
+          "id": "412621",
+          "vote": "-",
+          "value": "No",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400097",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400093",
+          "vote": "-",
+          "value": "No",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "400101",
+          "vote": "-",
+          "value": "No",
+          "state": "CO"
+        }
+      },
+      {
+        "$": {
+          "id": "412544",
+          "vote": "-",
+          "value": "No",
+          "state": "MD"
+        }
+      },
+      {
+        "$": {
+          "id": "400103",
+          "vote": "-",
+          "value": "No",
+          "state": "CT"
+        }
+      },
+      {
+        "$": {
+          "id": "412403",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412613",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412385",
+          "vote": "-",
+          "value": "No",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400108",
+          "vote": "-",
+          "value": "No",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400111",
+          "vote": "-",
+          "value": "No",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412420",
+          "vote": "-",
+          "value": "No",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "400114",
+          "vote": "-",
+          "value": "No",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412215",
+          "vote": "-",
+          "value": "No",
+          "state": "MN"
+        }
+      },
+      {
+        "$": {
+          "id": "400122",
+          "vote": "-",
+          "value": "No",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "400130",
+          "vote": "-",
+          "value": "No",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412327",
+          "vote": "-",
+          "value": "No",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "412532",
+          "vote": "-",
+          "value": "No",
+          "state": "HI"
+        }
+      },
+      {
+        "$": {
+          "id": "412612",
+          "vote": "-",
+          "value": "No",
+          "state": "AZ"
+        }
+      },
+      {
+        "$": {
+          "id": "412382",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412620",
+          "vote": "-",
+          "value": "No",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400157",
+          "vote": "-",
+          "value": "No",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412276",
+          "vote": "-",
+          "value": "No",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400653",
+          "vote": "-",
+          "value": "No",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400160",
+          "vote": "-",
+          "value": "No",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400162",
+          "vote": "-",
+          "value": "No",
+          "state": "AZ"
+        }
+      },
+      {
+        "$": {
+          "id": "412498",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412454",
+          "vote": "-",
+          "value": "No",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412446",
+          "vote": "-",
+          "value": "No",
+          "state": "NV"
+        }
+      },
+      {
+        "$": {
+          "id": "412584",
+          "vote": "-",
+          "value": "No",
+          "state": "WA"
+        }
+      },
+      {
+        "$": {
+          "id": "400641",
+          "vote": "-",
+          "value": "No",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412282",
+          "vote": "-",
+          "value": "No",
+          "state": "CT"
+        }
+      },
+      {
+        "$": {
+          "id": "400179",
+          "vote": "-",
+          "value": "No",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400185",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400189",
+          "vote": "-",
+          "value": "No",
+          "state": "MD"
+        }
+      },
+      {
+        "$": {
+          "id": "412511",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400195",
+          "vote": "-",
+          "value": "No",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "400199",
+          "vote": "-",
+          "value": "No",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412561",
+          "vote": "-",
+          "value": "No",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412199",
+          "vote": "-",
+          "value": "No",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "400204",
+          "vote": "-",
+          "value": "No",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400206",
+          "vote": "-",
+          "value": "No",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400211",
+          "vote": "-",
+          "value": "No",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "412435",
+          "vote": "-",
+          "value": "No",
+          "state": "MA"
+        }
+      },
+      {
+        "$": {
+          "id": "412595",
+          "vote": "-",
+          "value": "No",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "412543",
+          "vote": "-",
+          "value": "No",
+          "state": "MA"
+        }
+      },
+      {
+        "$": {
+          "id": "412546",
+          "vote": "-",
+          "value": "No",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "412583",
+          "vote": "-",
+          "value": "No",
+          "state": "WA"
+        }
+      },
+      {
+        "$": {
+          "id": "400218",
+          "vote": "-",
+          "value": "No",
+          "state": "WI"
+        }
+      },
+      {
+        "$": {
+          "id": "412421",
+          "vote": "-",
+          "value": "No",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "412286",
+          "vote": "-",
+          "value": "No",
+          "state": "AZ"
+        }
+      },
+      {
+        "$": {
+          "id": "412557",
+          "vote": "-",
+          "value": "No",
+          "state": "NH"
+        }
+      },
+      {
+        "$": {
+          "id": "400230",
+          "vote": "-",
+          "value": "No",
+          "state": "RI"
+        }
+      },
+      {
+        "$": {
+          "id": "400232",
+          "vote": "-",
+          "value": "No",
+          "state": "WA"
+        }
+      },
+      {
+        "$": {
+          "id": "400233",
+          "vote": "-",
+          "value": "No",
+          "state": "CT"
+        }
+      },
+      {
+        "$": {
+          "id": "412638",
+          "vote": "-",
+          "value": "No",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "400237",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400238",
+          "vote": "-",
+          "value": "No",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "400240",
+          "vote": "-",
+          "value": "No",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "412616",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412209",
+          "vote": "-",
+          "value": "No",
+          "state": "IA"
+        }
+      },
+      {
+        "$": {
+          "id": "400245",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412521",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400246",
+          "vote": "-",
+          "value": "No",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412558",
+          "vote": "-",
+          "value": "No",
+          "state": "NM"
+        }
+      },
+      {
+        "$": {
+          "id": "412293",
+          "vote": "-",
+          "value": "No",
+          "state": "NM"
+        }
+      },
+      {
+        "$": {
+          "id": "400663",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400262",
+          "vote": "-",
+          "value": "No",
+          "state": "WA"
+        }
+      },
+      {
+        "$": {
+          "id": "400263",
+          "vote": "-",
+          "value": "No",
+          "state": "MA"
+        }
+      },
+      {
+        "$": {
+          "id": "412487",
+          "vote": "-",
+          "value": "No",
+          "state": "WV"
+        }
+      },
+      {
+        "$": {
+          "id": "412611",
+          "vote": "-",
+          "value": "No",
+          "state": "AZ"
+        }
+      },
+      {
+        "$": {
+          "id": "412466",
+          "vote": "-",
+          "value": "No",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "400271",
+          "vote": "-",
+          "value": "No",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412540",
+          "vote": "-",
+          "value": "No",
+          "state": "IN"
+        }
+      },
+      {
+        "$": {
+          "id": "400276",
+          "vote": "-",
+          "value": "No",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "400661",
+          "vote": "-",
+          "value": "No",
+          "state": "WI"
+        }
+      },
+      {
+        "$": {
+          "id": "400289",
+          "vote": "-",
+          "value": "No",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "400290",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400291",
+          "vote": "-",
+          "value": "No",
+          "state": "MA"
+        }
+      },
+      {
+        "$": {
+          "id": "412660",
+          "vote": "-",
+          "value": "No",
+          "state": "WA"
+        }
+      },
+      {
+        "$": {
+          "id": "412606",
+          "vote": "-",
+          "value": "No",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "412575",
+          "vote": "-",
+          "value": "No",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400308",
+          "vote": "-",
+          "value": "No",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "400309",
+          "vote": "-",
+          "value": "No",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "412506",
+          "vote": "-",
+          "value": "No",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "400314",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412585",
+          "vote": "-",
+          "value": "No",
+          "state": "WI"
+        }
+      },
+      {
+        "$": {
+          "id": "412308",
+          "vote": "-",
+          "value": "No",
+          "state": "CO"
+        }
+      },
+      {
+        "$": {
+          "id": "400326",
+          "vote": "-",
+          "value": "No",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "412331",
+          "vote": "-",
+          "value": "No",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "400333",
+          "vote": "-",
+          "value": "No",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "400660",
+          "vote": "-",
+          "value": "No",
+          "state": "WA"
+        }
+      },
+      {
+        "$": {
+          "id": "412647",
+          "vote": "-",
+          "value": "No",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412432",
+          "vote": "-",
+          "value": "No",
+          "state": "LA"
+        }
+      },
+      {
+        "$": {
+          "id": "400341",
+          "vote": "-",
+          "value": "No",
+          "state": "AL"
+        }
+      },
+      {
+        "$": {
+          "id": "400340",
+          "vote": "-",
+          "value": "No",
+          "state": "KY"
+        }
+      },
+      {
+        "$": {
+          "id": "400343",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400344",
+          "vote": "-",
+          "value": "No",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400347",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400349",
+          "vote": "-",
+          "value": "No",
+          "state": "MD"
+        }
+      },
+      {
+        "$": {
+          "id": "400350",
+          "vote": "-",
+          "value": "No",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "400355",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400356",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412212",
+          "vote": "-",
+          "value": "No",
+          "state": "MD"
+        }
+      },
+      {
+        "$": {
+          "id": "400360",
+          "vote": "-",
+          "value": "No",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "400361",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412315",
+          "vote": "-",
+          "value": "No",
+          "state": "OR"
+        }
+      },
+      {
+        "$": {
+          "id": "400364",
+          "vote": "-",
+          "value": "No",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "400363",
+          "vote": "-",
+          "value": "No",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "400366",
+          "vote": "-",
+          "value": "No",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412396",
+          "vote": "-",
+          "value": "No",
+          "state": "AL"
+        }
+      },
+      {
+        "$": {
+          "id": "400371",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "409888",
+          "vote": "-",
+          "value": "No",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412186",
+          "vote": "-",
+          "value": "No",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "400378",
+          "vote": "-",
+          "value": "No",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "400379",
+          "vote": "-",
+          "value": "No",
+          "state": "WA"
+        }
+      },
+      {
+        "$": {
+          "id": "412259",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412514",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412626",
+          "vote": "-",
+          "value": "No",
+          "state": "HI"
+        }
+      },
+      {
+        "$": {
+          "id": "412520",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400403",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400402",
+          "vote": "-",
+          "value": "No",
+          "state": "MS"
+        }
+      },
+      {
+        "$": {
+          "id": "400406",
+          "vote": "-",
+          "value": "No",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "412318",
+          "vote": "-",
+          "value": "No",
+          "state": "NV"
+        }
+      },
+      {
+        "$": {
+          "id": "412319",
+          "vote": "-",
+          "value": "No",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412617",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412636",
+          "vote": "-",
+          "value": "No",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "412254",
+          "vote": "-",
+          "value": "No",
+          "state": "MA"
+        }
+      },
+      {
+        "$": {
+          "id": "400411",
+          "vote": "-",
+          "value": "No",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "400414",
+          "vote": "-",
+          "value": "No",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "412515",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400415",
+          "vote": "-",
+          "value": "No",
+          "state": "MD"
+        }
+      },
+      {
+        "$": {
+          "id": "412522",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412579",
+          "vote": "-",
+          "value": "No",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412580",
+          "vote": "-",
+          "value": "No",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400416",
+          "vote": "-",
+          "value": "No",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "400417",
+          "vote": "-",
+          "value": "No",
+          "state": "IN"
+        }
+      },
+      {
+        "$": {
+          "id": "412618",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400422",
+          "vote": "-",
+          "value": "No",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412644",
+          "vote": "-",
+          "value": "No",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "412239",
+          "vote": "-",
+          "value": "No",
+          "state": "VT"
+        }
+      },
+      {
+        "$": {
+          "id": "400627",
+          "vote": "-",
+          "value": "No",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "412412",
+          "vote": "-",
+          "value": "No",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412211",
+          "vote": "-",
+          "value": "No",
+          "state": "KY"
+        }
+      },
+      {
+        "$": {
+          "id": "412607",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "400021",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412517",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400639",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "MO"
+        }
+      },
+      {
+        "$": {
+          "id": "400100",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "OR"
+        }
+      },
+      {
+        "$": {
+          "id": "412479",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "TN"
+        }
+      },
+      {
+        "$": {
+          "id": "400251",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "NY"
+        }
+      }
+    ]
+  }
+}

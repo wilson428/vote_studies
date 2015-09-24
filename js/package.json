@@ -1,0 +1,26 @@
+{
+  "name": "vote_studies",
+  "version": "1.0.0",
+  "description": "Get structured vote data",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "downcache": "0.0.8",
+    "exec": "^0.2.1",
+    "github-download": "^0.4.0",
+    "install": "^0.1.8",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "npm": "^3.3.3",
+    "request": "^2.63.0",
+    "rimraf": "^2.4.3",
+    "xml2js": "^0.4.12",
+    "yamljs": "^0.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Wilson",
+  "license": "MIT"
+}

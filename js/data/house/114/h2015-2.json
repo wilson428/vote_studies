@@ -1,0 +1,3610 @@
+{
+  "roll": {
+    "$": {
+      "where": "house",
+      "session": "114",
+      "year": "2015",
+      "roll": "2",
+      "source": "house.gov",
+      "datetime": "2015-01-06T14:02:00-05:00",
+      "updated": "2015-01-07T11:15:23-05:00",
+      "aye": "0",
+      "nay": "0",
+      "nv": "25",
+      "present": "1"
+    },
+    "category": [
+      "leadership"
+    ],
+    "type": [
+      "Election of the Speaker"
+    ],
+    "question": [
+      "Election of the Speaker"
+    ],
+    "required": [
+      "1/2"
+    ],
+    "result": [
+      "Boehner"
+    ],
+    "option": [
+      {
+        "_": "Hon. Jeff Sessions",
+        "$": {
+          "key": "Hon. Jeff Sessions"
+        }
+      },
+      {
+        "_": "Cooper",
+        "$": {
+          "key": "Cooper"
+        }
+      },
+      {
+        "_": "Yoho",
+        "$": {
+          "key": "Yoho"
+        }
+      },
+      {
+        "_": "Lewis",
+        "$": {
+          "key": "Lewis"
+        }
+      },
+      {
+        "_": "DeFazio",
+        "$": {
+          "key": "DeFazio"
+        }
+      },
+      {
+        "_": "McCarthy",
+        "$": {
+          "key": "McCarthy"
+        }
+      },
+      {
+        "_": "Gowdy",
+        "$": {
+          "key": "Gowdy"
+        }
+      },
+      {
+        "_": "Boehner",
+        "$": {
+          "key": "Boehner"
+        }
+      },
+      {
+        "_": "Jordan",
+        "$": {
+          "key": "Jordan"
+        }
+      },
+      {
+        "_": "Webster (FL)",
+        "$": {
+          "key": "Webster (FL)"
+        }
+      },
+      {
+        "_": "Hon. Rand Paul",
+        "$": {
+          "key": "Hon. Rand Paul"
+        }
+      },
+      {
+        "_": "Colin Powell",
+        "$": {
+          "key": "Colin Powell"
+        }
+      },
+      {
+        "_": "Duncan (SC)",
+        "$": {
+          "key": "Duncan (SC)"
+        }
+      },
+      {
+        "_": "Pelosi",
+        "$": {
+          "key": "Pelosi"
+        }
+      },
+      {
+        "_": "Gohmert",
+        "$": {
+          "key": "Gohmert"
+        }
+      },
+      {
+        "_": "Present",
+        "$": {
+          "key": "P"
+        }
+      },
+      {
+        "_": "Not Voting",
+        "$": {
+          "key": "0"
+        }
+      }
+    ],
+    "voter": [
+      {
+        "$": {
+          "id": "412608",
+          "vote": "Hon. Jeff Sessions",
+          "value": "Hon. Jeff Sessions",
+          "state": "AL"
+        }
+      },
+      {
+        "$": {
+          "id": "412620",
+          "vote": "Cooper",
+          "value": "Cooper",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412503",
+          "vote": "Yoho",
+          "value": "Yoho",
+          "state": "KY"
+        }
+      },
+      {
+        "$": {
+          "id": "412525",
+          "vote": "Yoho",
+          "value": "Yoho",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412509",
+          "vote": "Lewis",
+          "value": "Lewis",
+          "state": "AZ"
+        }
+      },
+      {
+        "$": {
+          "id": "400630",
+          "vote": "DeFazio",
+          "value": "DeFazio",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "412453",
+          "vote": "McCarthy",
+          "value": "McCarthy",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412472",
+          "vote": "Gowdy",
+          "value": "Gowdy",
+          "state": "SC"
+        }
+      },
+      {
+        "$": {
+          "id": "412630",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "LA"
+        }
+      },
+      {
+        "$": {
+          "id": "400004",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "AL"
+        }
+      },
+      {
+        "$": {
+          "id": "412625",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "412500",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NV"
+        }
+      },
+      {
+        "$": {
+          "id": "412469",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412541",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "KY"
+        }
+      },
+      {
+        "$": {
+          "id": "400018",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412436",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "412250",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412635",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "400029",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "UT"
+        }
+      },
+      {
+        "$": {
+          "id": "412478",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TN"
+        }
+      },
+      {
+        "$": {
+          "id": "400032",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TN"
+        }
+      },
+      {
+        "$": {
+          "id": "412629",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "400636",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "LA"
+        }
+      },
+      {
+        "$": {
+          "id": "400046",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412395",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "AL"
+        }
+      },
+      {
+        "$": {
+          "id": "412539",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "IN"
+        }
+      },
+      {
+        "$": {
+          "id": "412196",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412619",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "CO"
+        }
+      },
+      {
+        "$": {
+          "id": "412427",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "IN"
+        }
+      },
+      {
+        "$": {
+          "id": "400052",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412601",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "AL"
+        }
+      },
+      {
+        "$": {
+          "id": "400057",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412622",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "400071",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "412270",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "UT"
+        }
+      },
+      {
+        "$": {
+          "id": "412271",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "CO"
+        }
+      },
+      {
+        "$": {
+          "id": "400077",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "OK"
+        }
+      },
+      {
+        "$": {
+          "id": "412531",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "412563",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412658",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "400655",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412513",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412651",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412555",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "ND"
+        }
+      },
+      {
+        "$": {
+          "id": "412400",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "AR"
+        }
+      },
+      {
+        "$": {
+          "id": "400086",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400089",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412621",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412536",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "412403",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400648",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412526",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400108",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412420",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "412488",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "WI"
+        }
+      },
+      {
+        "$": {
+          "id": "400116",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TN"
+        }
+      },
+      {
+        "$": {
+          "id": "412457",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "412639",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "MN"
+        }
+      },
+      {
+        "$": {
+          "id": "412482",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412479",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TN"
+        }
+      },
+      {
+        "$": {
+          "id": "400646",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412476",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TN"
+        }
+      },
+      {
+        "$": {
+          "id": "412275",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "LA"
+        }
+      },
+      {
+        "$": {
+          "id": "412480",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400137",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "400640",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NE"
+        }
+      },
+      {
+        "$": {
+          "id": "400643",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "400141",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "AZ"
+        }
+      },
+      {
+        "$": {
+          "id": "400142",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "412463",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "400154",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "400157",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412388",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "412631",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "LA"
+        }
+      },
+      {
+        "$": {
+          "id": "400158",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "MO"
+        }
+      },
+      {
+        "$": {
+          "id": "412485",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "412661",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "WI"
+        }
+      },
+      {
+        "$": {
+          "id": "412447",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NH"
+        }
+      },
+      {
+        "$": {
+          "id": "412278",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "KY"
+        }
+      },
+      {
+        "$": {
+          "id": "412454",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412645",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NV"
+        }
+      },
+      {
+        "$": {
+          "id": "412280",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "MS"
+        }
+      },
+      {
+        "$": {
+          "id": "412434",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "MD"
+        }
+      },
+      {
+        "$": {
+          "id": "412444",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "MO"
+        }
+      },
+      {
+        "$": {
+          "id": "412446",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NV"
+        }
+      },
+      {
+        "$": {
+          "id": "400175",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412486",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "WA"
+        }
+      },
+      {
+        "$": {
+          "id": "412623",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "412609",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "AR"
+        }
+      },
+      {
+        "$": {
+          "id": "412553",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "412550",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "412437",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "412422",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "412283",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412654",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412484",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "400196",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412284",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "KS"
+        }
+      },
+      {
+        "$": {
+          "id": "412663",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "WV"
+        }
+      },
+      {
+        "$": {
+          "id": "412460",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "400206",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412603",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412226",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "412566",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "412649",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412465",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "400219",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412421",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "400224",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "MN"
+        }
+      },
+      {
+        "$": {
+          "id": "412614",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412419",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "ID"
+        }
+      },
+      {
+        "$": {
+          "id": "412510",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412191",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "CO"
+        }
+      },
+      {
+        "$": {
+          "id": "412290",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "412256",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "400244",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "412445",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "MO"
+        }
+      },
+      {
+        "$": {
+          "id": "412624",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "412656",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "UT"
+        }
+      },
+      {
+        "$": {
+          "id": "400247",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "OK"
+        }
+      },
+      {
+        "$": {
+          "id": "412292",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "MO"
+        }
+      },
+      {
+        "$": {
+          "id": "412294",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "WY"
+        }
+      },
+      {
+        "$": {
+          "id": "412643",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "400656",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412468",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412190",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400654",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412295",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400644",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "412487",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "WV"
+        }
+      },
+      {
+        "$": {
+          "id": "400659",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "WA"
+        }
+      },
+      {
+        "$": {
+          "id": "412611",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "AZ"
+        }
+      },
+      {
+        "$": {
+          "id": "412466",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412540",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "IN"
+        }
+      },
+      {
+        "$": {
+          "id": "400273",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400279",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400276",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "412634",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "412662",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "WV"
+        }
+      },
+      {
+        "$": {
+          "id": "412568",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "OK"
+        }
+      },
+      {
+        "$": {
+          "id": "412474",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "SC"
+        }
+      },
+      {
+        "$": {
+          "id": "400285",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "400441",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412660",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "WA"
+        }
+      },
+      {
+        "$": {
+          "id": "412475",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "SD"
+        }
+      },
+      {
+        "$": {
+          "id": "400297",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412302",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412443",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "MS"
+        }
+      },
+      {
+        "$": {
+          "id": "412303",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "MN"
+        }
+      },
+      {
+        "$": {
+          "id": "400313",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NM"
+        }
+      },
+      {
+        "$": {
+          "id": "412569",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412551",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "400320",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "400652",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412633",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "ME"
+        }
+      },
+      {
+        "$": {
+          "id": "412431",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "KS"
+        }
+      },
+      {
+        "$": {
+          "id": "400626",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "412653",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412393",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "400660",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "WA"
+        }
+      },
+      {
+        "$": {
+          "id": "412462",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "412489",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "WI"
+        }
+      },
+      {
+        "$": {
+          "id": "412572",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "SC"
+        }
+      },
+      {
+        "$": {
+          "id": "412394",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "AL"
+        }
+      },
+      {
+        "$": {
+          "id": "412310",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TN"
+        }
+      },
+      {
+        "$": {
+          "id": "400341",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "AL"
+        }
+      },
+      {
+        "$": {
+          "id": "400340",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "KY"
+        }
+      },
+      {
+        "$": {
+          "id": "400343",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412426",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "IN"
+        }
+      },
+      {
+        "$": {
+          "id": "412311",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400344",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412202",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "412411",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412570",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412641",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "400348",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412650",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "OK"
+        }
+      },
+      {
+        "$": {
+          "id": "400351",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "WI"
+        }
+      },
+      {
+        "$": {
+          "id": "400606",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "AZ"
+        }
+      },
+      {
+        "$": {
+          "id": "400607",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "SC"
+        }
+      },
+      {
+        "$": {
+          "id": "412261",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "LA"
+        }
+      },
+      {
+        "$": {
+          "id": "412314",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "412399",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "AZ"
+        }
+      },
+      {
+        "$": {
+          "id": "412417",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "400365",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "WI"
+        }
+      },
+      {
+        "$": {
+          "id": "400367",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400373",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "409888",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "400376",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "ID"
+        }
+      },
+      {
+        "$": {
+          "id": "412596",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "MO"
+        }
+      },
+      {
+        "$": {
+          "id": "412217",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NE"
+        }
+      },
+      {
+        "$": {
+          "id": "400380",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "400381",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412648",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412581",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "UT"
+        }
+      },
+      {
+        "$": {
+          "id": "412461",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "412317",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "400404",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400406",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "412405",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "CO"
+        }
+      },
+      {
+        "$": {
+          "id": "412636",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "400411",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "400414",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "412515",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412548",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "MO"
+        }
+      },
+      {
+        "$": {
+          "id": "412213",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "400419",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "OR"
+        }
+      },
+      {
+        "$": {
+          "id": "412670",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "412538",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "IN"
+        }
+      },
+      {
+        "$": {
+          "id": "412618",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412564",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "412610",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "AR"
+        }
+      },
+      {
+        "$": {
+          "id": "400627",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "400431",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "KY"
+        }
+      },
+      {
+        "$": {
+          "id": "412578",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400433",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "SC"
+        }
+      },
+      {
+        "$": {
+          "id": "412255",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "412402",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "AR"
+        }
+      },
+      {
+        "$": {
+          "id": "412416",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "412430",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "KS"
+        }
+      },
+      {
+        "$": {
+          "id": "412628",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "IA"
+        }
+      },
+      {
+        "$": {
+          "id": "412428",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "IN"
+        }
+      },
+      {
+        "$": {
+          "id": "412646",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412640",
+          "vote": "Boehner",
+          "value": "Boehner",
+          "state": "MT"
+        }
+      },
+      {
+        "$": {
+          "id": "412438",
+          "vote": "Jordan",
+          "value": "Jordan",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "412477",
+          "vote": "Jordan",
+          "value": "Jordan",
+          "state": "TN"
+        }
+      },
+      {
+        "$": {
+          "id": "412627",
+          "vote": "Webster (FL)",
+          "value": "Webster (FL)",
+          "state": "IA"
+        }
+      },
+      {
+        "$": {
+          "id": "400145",
+          "vote": "Webster (FL)",
+          "value": "Webster (FL)",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "412397",
+          "vote": "Webster (FL)",
+          "value": "Webster (FL)",
+          "state": "AZ"
+        }
+      },
+      {
+        "$": {
+          "id": "412429",
+          "vote": "Webster (FL)",
+          "value": "Webster (FL)",
+          "state": "KS"
+        }
+      },
+      {
+        "$": {
+          "id": "400209",
+          "vote": "Webster (FL)",
+          "value": "Webster (FL)",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "400220",
+          "vote": "Webster (FL)",
+          "value": "Webster (FL)",
+          "state": "IA"
+        }
+      },
+      {
+        "$": {
+          "id": "412552",
+          "vote": "Webster (FL)",
+          "value": "Webster (FL)",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "412409",
+          "vote": "Webster (FL)",
+          "value": "Webster (FL)",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412309",
+          "vote": "Webster (FL)",
+          "value": "Webster (FL)",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412483",
+          "vote": "Webster (FL)",
+          "value": "Webster (FL)",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "412392",
+          "vote": "Webster (FL)",
+          "value": "Webster (FL)",
+          "state": "IN"
+        }
+      },
+      {
+        "$": {
+          "id": "412410",
+          "vote": "Webster (FL)",
+          "value": "Webster (FL)",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412604",
+          "vote": "Hon. Rand Paul",
+          "value": "Hon. Rand Paul",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400081",
+          "vote": "Colin Powell",
+          "value": "Colin Powell",
+          "state": "TN"
+        }
+      },
+      {
+        "$": {
+          "id": "412605",
+          "vote": "Duncan (SC)",
+          "value": "Duncan (SC)",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "412607",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "412615",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412642",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "NE"
+        }
+      },
+      {
+        "$": {
+          "id": "412404",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412565",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "400021",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412512",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412657",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "400030",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "400033",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "OR"
+        }
+      },
+      {
+        "$": {
+          "id": "412501",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "OR"
+        }
+      },
+      {
+        "$": {
+          "id": "412652",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "400047",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "400048",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412516",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412537",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "400616",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "400062",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400063",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MA"
+        }
+      },
+      {
+        "$": {
+          "id": "412517",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412407",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "DE"
+        }
+      },
+      {
+        "$": {
+          "id": "412258",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "IN"
+        }
+      },
+      {
+        "$": {
+          "id": "412571",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412195",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412576",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412379",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412600",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MA"
+        }
+      },
+      {
+        "$": {
+          "id": "400074",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MO"
+        }
+      },
+      {
+        "$": {
+          "id": "400639",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MO"
+        }
+      },
+      {
+        "$": {
+          "id": "400075",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "SC"
+        }
+      },
+      {
+        "$": {
+          "id": "412236",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "TN"
+        }
+      },
+      {
+        "$": {
+          "id": "412272",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "400080",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "412193",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CT"
+        }
+      },
+      {
+        "$": {
+          "id": "400657",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400090",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MD"
+        }
+      },
+      {
+        "$": {
+          "id": "400097",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400093",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "400100",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "OR"
+        }
+      },
+      {
+        "$": {
+          "id": "400101",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CO"
+        }
+      },
+      {
+        "$": {
+          "id": "412544",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MD"
+        }
+      },
+      {
+        "$": {
+          "id": "400103",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CT"
+        }
+      },
+      {
+        "$": {
+          "id": "412505",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "WA"
+        }
+      },
+      {
+        "$": {
+          "id": "412613",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412385",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412637",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "400111",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400114",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412263",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MD"
+        }
+      },
+      {
+        "$": {
+          "id": "412215",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MN"
+        }
+      },
+      {
+        "$": {
+          "id": "400124",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412524",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CT"
+        }
+      },
+      {
+        "$": {
+          "id": "400129",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400130",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "PA"
+        }
+      },
+      {
+        "$": {
+          "id": "412257",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "412529",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412327",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "412532",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "HI"
+        }
+      },
+      {
+        "$": {
+          "id": "412612",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "AZ"
+        }
+      },
+      {
+        "$": {
+          "id": "412382",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412276",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400653",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400160",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400162",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "AZ"
+        }
+      },
+      {
+        "$": {
+          "id": "400163",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "412498",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400170",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412584",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "WA"
+        }
+      },
+      {
+        "$": {
+          "id": "412282",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CT"
+        }
+      },
+      {
+        "$": {
+          "id": "400179",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400185",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400189",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MD"
+        }
+      },
+      {
+        "$": {
+          "id": "412511",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400195",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "400199",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412561",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412199",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "400204",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400211",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "412435",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MA"
+        }
+      },
+      {
+        "$": {
+          "id": "412595",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "412543",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MA"
+        }
+      },
+      {
+        "$": {
+          "id": "412546",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "412583",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "WA"
+        }
+      },
+      {
+        "$": {
+          "id": "400218",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "WI"
+        }
+      },
+      {
+        "$": {
+          "id": "412286",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "AZ"
+        }
+      },
+      {
+        "$": {
+          "id": "412557",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "NH"
+        }
+      },
+      {
+        "$": {
+          "id": "400230",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "RI"
+        }
+      },
+      {
+        "$": {
+          "id": "400232",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "WA"
+        }
+      },
+      {
+        "$": {
+          "id": "400233",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CT"
+        }
+      },
+      {
+        "$": {
+          "id": "412638",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "400237",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400238",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MI"
+        }
+      },
+      {
+        "$": {
+          "id": "400240",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "412616",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412209",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "IA"
+        }
+      },
+      {
+        "$": {
+          "id": "400245",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412521",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412558",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "NM"
+        }
+      },
+      {
+        "$": {
+          "id": "412293",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "NM"
+        }
+      },
+      {
+        "$": {
+          "id": "400249",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MA"
+        }
+      },
+      {
+        "$": {
+          "id": "400663",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400259",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MN"
+        }
+      },
+      {
+        "$": {
+          "id": "400262",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "WA"
+        }
+      },
+      {
+        "$": {
+          "id": "400263",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MA"
+        }
+      },
+      {
+        "$": {
+          "id": "412189",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400661",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "WI"
+        }
+      },
+      {
+        "$": {
+          "id": "412632",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MA"
+        }
+      },
+      {
+        "$": {
+          "id": "412527",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "400290",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400291",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MA"
+        }
+      },
+      {
+        "$": {
+          "id": "412606",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "412575",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400308",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "400309",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "412506",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "400314",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412192",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CO"
+        }
+      },
+      {
+        "$": {
+          "id": "412523",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400316",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MN"
+        }
+      },
+      {
+        "$": {
+          "id": "412307",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "ME"
+        }
+      },
+      {
+        "$": {
+          "id": "412585",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "WI"
+        }
+      },
+      {
+        "$": {
+          "id": "412308",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CO"
+        }
+      },
+      {
+        "$": {
+          "id": "412331",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "412647",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412432",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "LA"
+        }
+      },
+      {
+        "$": {
+          "id": "400347",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412519",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400349",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MD"
+        }
+      },
+      {
+        "$": {
+          "id": "400350",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "400352",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "400355",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400356",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412212",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MD"
+        }
+      },
+      {
+        "$": {
+          "id": "400360",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "400361",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412315",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "OR"
+        }
+      },
+      {
+        "$": {
+          "id": "400364",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "VA"
+        }
+      },
+      {
+        "$": {
+          "id": "400363",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "GA"
+        }
+      },
+      {
+        "$": {
+          "id": "400366",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412396",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "AL"
+        }
+      },
+      {
+        "$": {
+          "id": "400371",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412186",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "400378",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "400379",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "WA"
+        }
+      },
+      {
+        "$": {
+          "id": "412259",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412514",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412626",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "HI"
+        }
+      },
+      {
+        "$": {
+          "id": "412520",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400403",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400402",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MS"
+        }
+      },
+      {
+        "$": {
+          "id": "412318",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "NV"
+        }
+      },
+      {
+        "$": {
+          "id": "412617",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412254",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MA"
+        }
+      },
+      {
+        "$": {
+          "id": "400415",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MD"
+        }
+      },
+      {
+        "$": {
+          "id": "412522",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412579",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412580",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400417",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "IN"
+        }
+      },
+      {
+        "$": {
+          "id": "412214",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "MN"
+        }
+      },
+      {
+        "$": {
+          "id": "400623",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412644",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "NJ"
+        }
+      },
+      {
+        "$": {
+          "id": "412412",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "FL"
+        }
+      },
+      {
+        "$": {
+          "id": "412211",
+          "vote": "Pelosi",
+          "value": "Pelosi",
+          "state": "KY"
+        }
+      },
+      {
+        "$": {
+          "id": "412567",
+          "vote": "Gohmert",
+          "value": "Gohmert",
+          "state": "OK"
+        }
+      },
+      {
+        "$": {
+          "id": "400651",
+          "vote": "Gohmert",
+          "value": "Gohmert",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412574",
+          "vote": "Gohmert",
+          "value": "Gohmert",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412655",
+          "vote": "P",
+          "value": "Present",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "400036",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "OH"
+        }
+      },
+      {
+        "$": {
+          "id": "400068",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "TX"
+        }
+      },
+      {
+        "$": {
+          "id": "412470",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "RI"
+        }
+      },
+      {
+        "$": {
+          "id": "412221",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "400618",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "400087",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412533",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "IL"
+        }
+      },
+      {
+        "$": {
+          "id": "400122",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412473",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "SC"
+        }
+      },
+      {
+        "$": {
+          "id": "400641",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "400246",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "400251",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412562",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "400271",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412560",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "400289",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "408211",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "MN"
+        }
+      },
+      {
+        "$": {
+          "id": "412442",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "MS"
+        }
+      },
+      {
+        "$": {
+          "id": "400326",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "NC"
+        }
+      },
+      {
+        "$": {
+          "id": "400333",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "412319",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "400416",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "NY"
+        }
+      },
+      {
+        "$": {
+          "id": "400422",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "CA"
+        }
+      },
+      {
+        "$": {
+          "id": "412239",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "VT"
+        }
+      },
+      {
+        "$": {
+          "id": "400440",
+          "vote": "0",
+          "value": "Not Voting",
+          "state": "AK"
+        }
+      }
+    ]
+  }
+}
